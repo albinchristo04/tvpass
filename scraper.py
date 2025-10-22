@@ -6,6 +6,7 @@ from datetime import datetime
 from urllib.parse import urljoin, urlparse
 import time
 import sys
+import base64
 
 # Try to import selenium, fall back to requests if not available
 try:
@@ -45,8 +46,8 @@ class StreamScraper:
             chrome_options.add_argument('--window-size=1920,1080')
             chrome_options.add_argument('--disable-blink-features=AutomationControlled')
             chrome_options.add_argument(f'user-agent={self.headers["User-Agent"]}')
+            chrome_options.page_load_strategy = 'eager'
             
-            # Try to find Chrome binary in common locations
             import shutil
             chrome_paths = [
                 '/usr/bin/google-chrome',
@@ -66,9 +67,109 @@ class StreamScraper:
                 print(f"Using Chrome binary: {chrome_binary}")
             
             driver = webdriver.Chrome(options=chrome_options)
+            driver.set_page_load_timeout(30)
             return driver
         except Exception as e:
             print(f"Error setting up Chrome driver: {e}")
+            return None
+    
+    def decode_obfuscated_url(self, content):
+        """Decode the obfuscated JavaScript to extract m3u8 URL"""
+        try:
+            # Look for the CD array pattern
+            cd_match = re.search(r'CD=\[(.*?)\];', content, re.DOTALL)
+            if not cd_match:
+                return None
+            
+            cd_data_str = cd_match.group(1)
+            
+            # Extract all [index, base64] pairs
+            pairs = re.findall(r'\[(\d+),"([^"]+)"\]', cd_data_str)
+            if not pairs:
+                return None
+            
+            # Sort by index
+            pairs.sort(key=lambda x: int(x[0]))
+            
+            # Find the key functions (BgpUh and zqOGS values)
+            bgpuh_match = re.search(r'function\s+BgpUh\(\)\{return\s+(\d+);\}', content)
+            zqogs_match = re.search(r'function\s+zqOGS\(\)\{return\s+(\d+);\}', content)
+            
+            if not bgpuh_match or not zqogs_match:
+                return None
+            
+            key = int(bgpuh_match.group(1)) + int(zqogs_match.group(1))
+            
+            # Decode the URL
+            url_chars = []
+            for _, encoded in pairs:
+                try:
+                    decoded = base64.b64decode(encoded).decode('utf-8')
+                    # Extract numbers from decoded string
+                    numbers = re.findall(r'\d+', decoded)
+                    if numbers:
+                        char_code = int(numbers[0]) - key
+                        url_chars.append(chr(char_code))
+                except Exception as e:
+                    continue
+            
+            url = ''.join(url_chars)
+            
+            # Check if it's a valid URL
+            if url.startswith('http') and '.m3u8' in url:
+                return url
+            
+            return None
+            
+        except Exception as e:
+            print(f"  Error decoding obfuscated URL: {e}")
+            return None
+    
+    def extract_m3u8_with_selenium(self, iframe_url):
+        """Use Selenium to execute JavaScript and capture the m3u8 URL"""
+        driver = self.setup_driver()
+        if not driver:
+            return None
+        
+        try:
+            print(f"  Loading with Selenium: {iframe_url}")
+            driver.get(iframe_url)
+            
+            # Wait for JavaScript to execute
+            time.sleep(5)
+            
+            # Try to extract the playbackURL variable
+            try:
+                script = """
+                try {
+                    return window.playbackURL || '';
+                } catch(e) {
+                    return '';
+                }
+                """
+                playback_url = driver.execute_script(script)
+                if playback_url and '.m3u8' in playback_url:
+                    print(f"  ✓ Found m3u8 via Selenium: {playback_url}")
+                    driver.quit()
+                    return playback_url
+            except Exception as e:
+                print(f"  Could not extract via JS: {e}")
+            
+            # Try to intercept network requests (requires additional setup)
+            # For now, get page source and try to decode
+            page_source = driver.page_source
+            driver.quit()
+            
+            # Try to decode from page source
+            return self.decode_obfuscated_url(page_source)
+            
+        except Exception as e:
+            print(f"  Error with Selenium: {e}")
+            if driver:
+                try:
+                    driver.quit()
+                except:
+                    pass
             return None
     
     def extract_urls_with_selenium(self, url):
@@ -82,10 +183,8 @@ class StreamScraper:
             print(f"Loading page with Selenium for URL extraction: {url}")
             driver.get(url)
             
-            # Wait for JavaScript to execute
-            time.sleep(10)
+            time.sleep(3)
             
-            # Try to find all input elements and extract their values
             try:
                 script = """
                 var results = [];
@@ -104,7 +203,6 @@ class StreamScraper:
             except Exception as e:
                 print(f"  Error executing JavaScript: {e}")
             
-            # Also try to get any iframe src attributes
             try:
                 iframes = driver.find_elements(By.TAG_NAME, 'iframe')
                 print(f"  Found {len(iframes)} iframe elements")
@@ -121,56 +219,11 @@ class StreamScraper:
         except Exception as e:
             print(f"Error in URL extraction: {e}")
             if driver:
-                driver.quit()
+                try:
+                    driver.quit()
+                except:
+                    pass
             return []
-    
-    def fetch_page_selenium(self, url):
-        """Fetch page content using Selenium"""
-        driver = self.setup_driver()
-        if not driver:
-            return None
-        
-        try:
-            print(f"Loading page with Selenium: {url}")
-            driver.get(url)
-            
-            # Wait longer for JavaScript to execute and DOM to be built
-            print("Waiting for JavaScript to execute...")
-            time.sleep(8)
-            
-            # Try to find any input elements that might contain URLs
-            try:
-                inputs = driver.find_elements(By.TAG_NAME, 'input')
-                print(f"Found {len(inputs)} input elements after JS execution")
-            except:
-                pass
-            
-            # Execute JavaScript to try to extract any hidden data
-            try:
-                # Try to get all input values via JavaScript
-                script = """
-                var inputs = document.getElementsByTagName('input');
-                var values = [];
-                for(var i = 0; i < inputs.length; i++) {
-                    if(inputs[i].value) values.push(inputs[i].value);
-                }
-                return values;
-                """
-                values = driver.execute_script(script)
-                print(f"Extracted {len(values)} values via JavaScript")
-                for val in values[:3]:
-                    print(f"  Sample value: {val[:100]}")
-            except Exception as e:
-                print(f"Could not execute JavaScript: {e}")
-            
-            html_content = driver.page_source
-            driver.quit()
-            return html_content
-        except Exception as e:
-            print(f"Error fetching with Selenium: {e}")
-            if driver:
-                driver.quit()
-            return None
     
     def fetch_page(self, url):
         """Fetch page content"""
@@ -186,28 +239,39 @@ class StreamScraper:
         """Extract m3u8 URL from iframe content"""
         try:
             print(f"  Checking iframe: {iframe_url}")
+            
+            # First try with regular HTTP request and decode
             content = self.fetch_page(iframe_url)
-            if not content:
-                return None
+            if content:
+                # Try to decode obfuscated URL
+                m3u8_url = self.decode_obfuscated_url(content)
+                if m3u8_url:
+                    print(f"  ✓ Found m3u8 (decoded): {m3u8_url}")
+                    return m3u8_url
+                
+                # Fallback: Look for direct m3u8 URLs
+                m3u8_patterns = [
+                    r'["\']([^"\']*\.m3u8[^"\']*)["\']',
+                    r'source:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
+                    r'file:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
+                    r'src:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
+                    r'(https?://[^\s"\'>]+\.m3u8[^\s"\'>]*)',
+                ]
+                
+                for pattern in m3u8_patterns:
+                    matches = re.findall(pattern, content, re.IGNORECASE)
+                    for match in matches:
+                        if match.startswith('http'):
+                            print(f"  ✓ Found m3u8 (direct): {match}")
+                            return match
             
-            # Look for m3u8 URLs with various patterns
-            m3u8_patterns = [
-                r'["\']([^"\']*\.m3u8[^"\']*)["\']',
-                r'source:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
-                r'file:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
-                r'src:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
-                r'(https?://[^\s"\'>]+\.m3u8[^\s"\'>]*)',
-            ]
-            
-            for pattern in m3u8_patterns:
-                matches = re.findall(pattern, content, re.IGNORECASE)
-                for match in matches:
-                    if match.startswith('http'):
-                        print(f"  ✓ Found m3u8: {match}")
-                        return match
+            # If HTTP didn't work, try Selenium for JavaScript execution
+            if SELENIUM_AVAILABLE:
+                return self.extract_m3u8_with_selenium(iframe_url)
             
             print(f"  ✗ No m3u8 found in iframe")
             return None
+            
         except Exception as e:
             print(f"  Error extracting m3u8: {e}")
             return None
@@ -216,112 +280,53 @@ class StreamScraper:
         """Extract all events from the eventos.html page"""
         print(f"Fetching page: {self.events_url}")
         
-        # First, try to extract URLs directly with Selenium
         selenium_urls = []
         if SELENIUM_AVAILABLE:
             print("\n=== Attempting direct URL extraction with Selenium ===")
-            selenium_urls = self.extract_urls_with_selenium(self.events_url)
-            print(f"Selenium found {len(selenium_urls)} URLs")
-            for url in selenium_urls[:5]:
-                print(f"  {url[:100]}")
+            try:
+                selenium_urls = self.extract_urls_with_selenium(self.events_url)
+                print(f"Selenium found {len(selenium_urls)} URLs")
+                for url in selenium_urls[:5]:
+                    print(f"  {url[:100]}")
+            except Exception as e:
+                print(f"Selenium extraction failed: {e}")
         
-        # Try Selenium first if available, otherwise use regular fetch
-        if SELENIUM_AVAILABLE:
-            html_content = self.fetch_page_selenium(self.events_url)
-        else:
-            html_content = self.fetch_page(self.events_url)
+        html_content = self.fetch_page(self.events_url)
         
         if not html_content:
             print("Failed to fetch page content")
             return []
         
-        # Save HTML for debugging
         with open('debug_page.html', 'w', encoding='utf-8') as f:
             f.write(html_content)
         print("Saved page HTML to debug_page.html")
         
         soup = BeautifulSoup(html_content, 'html.parser')
         events = []
-        
-        # NEW: Look for all possible URL containers
         iframe_urls = []
         event_titles = []
         
-        print("\n=== Method 1: Input/Textarea elements ===")
+        # Extract URLs from various sources
+        print("\n=== Extracting URLs ===")
         input_elements = soup.find_all(['input', 'textarea'])
-        print(f"Found {len(input_elements)} input/textarea elements")
-        
-        # Check all attributes and text content
         for elem in input_elements:
-            # Check all attributes
             for attr in ['value', 'data-src', 'data-url', 'data-iframe', 'src', 'href']:
                 value = elem.get(attr, '')
                 if value and ('global' in value.lower() or 'streamtp' in value.lower() or '.php' in value):
-                    print(f"  Found URL in {attr}: {value}")
                     if value not in iframe_urls:
                         iframe_urls.append(value)
-            
-            # Check text content
-            text = elem.get_text(strip=True)
-            if text and ('global' in text.lower() or 'streamtp' in text.lower() or 'http' in text):
-                print(f"  Found URL in text: {text}")
-                if text not in iframe_urls:
-                    iframe_urls.append(text)
         
-        # Method 2: Find iframe elements directly
-        print("\n=== Method 2: Direct iframe elements ===")
-        iframes = soup.find_all('iframe')
-        print(f"Found {len(iframes)} iframe elements")
-        for iframe in iframes:
-            src = iframe.get('src', '') or iframe.get('data-src', '')
-            if src:
-                print(f"  Found iframe src: {src}")
-                if src not in iframe_urls:
-                    iframe_urls.append(src)
+        # Add URLs from Selenium
+        if selenium_urls:
+            for url in selenium_urls:
+                if url and url not in iframe_urls:
+                    iframe_urls.append(url)
         
-        # Method 3: Search raw HTML with improved regex
-        print("\n=== Method 3: Enhanced Regex patterns ===")
-        patterns = [
-            r'(https?://[^\s<>"\']+/global\d+\.php\?[^\s<>"\']+)',
-            r'(https?://streamtp\d+\.com/[^\s<>"\']+)',
-            r'value=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
-            r'src=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
-            r'data-src=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
-            r'href=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
-            r'(https?://[^\s<>"\']+\.php\?[^\s<>"\']+)',
-            r'["\']+(https?://[^"\']+?global[^"\']+?\.php[^"\']*)["\']',
-            r'["\']+(https?://[^"\']+?streamtp[^"\']+?)["\']',
-            r'(https://streamtpmedia\.com/[^\s<>"\']+)',
-            r'(https://streamtp[0-9]+\.com/[^\s<>"\']+)',
-        ]
+        iframe_urls = list(dict.fromkeys(iframe_urls))
         
-        for pattern in patterns:
-            matches = re.findall(pattern, html_content, re.IGNORECASE)
-            for match in matches:
-                if match not in iframe_urls:
-                    print(f"  Found URL via regex: {match}")
-                    iframe_urls.append(match)
-        
-        # Method 4: Look for JavaScript variables
-        print("\n=== Method 4: JavaScript variables ===")
-        js_patterns = [
-            r'var\s+\w+\s*=\s*["\']([^"\']*(?:global|streamtp|\.php)[^"\']*)["\']',
-            r'const\s+\w+\s*=\s*["\']([^"\']*(?:global|streamtp|\.php)[^"\']*)["\']',
-            r'let\s+\w+\s*=\s*["\']([^"\']*(?:global|streamtp|\.php)[^"\']*)["\']',
-        ]
-        
-        for pattern in js_patterns:
-            matches = re.findall(pattern, html_content, re.IGNORECASE)
-            for match in matches:
-                if match not in iframe_urls:
-                    print(f"  Found URL in JS: {match}")
-                    iframe_urls.append(match)
-        
-        # Method 5: Extract event titles
-        print("\n=== Method 5: Event titles ===")
+        # Extract event titles
         title_patterns = [
             r'(\d{2}:\d{2})\s*[-–—]\s*([^<>\n]{10,150})',
-            r'<[^>]*>(\d{2}:\d{2})[^<]*</[^>]*>[^<]*<[^>]*>([^<]{10,150})',
         ]
         
         for pattern in title_patterns:
@@ -333,7 +338,6 @@ class StreamScraper:
                     if title and len(title) > 5:
                         event_titles.append((time_str.strip(), title))
         
-        # Remove duplicates while preserving order
         seen = set()
         unique_titles = []
         for t in event_titles:
@@ -342,73 +346,14 @@ class StreamScraper:
                 unique_titles.append(t)
         event_titles = unique_titles
         
-        print(f"Found {len(event_titles)} unique event titles")
-        for time_str, title in event_titles[:5]:
-            print(f"  {time_str} - {title[:60]}...")
-        
-        # Method 6: Look for onclick/data attributes that might contain URLs
-        print("\n=== Method 6: Event handlers and data attributes ===")
-        onclick_patterns = [
-            r'onclick=["\']([^"\']*)["\']',
-            r'data-url=["\']([^"\']*)["\']',
-            r'data-stream=["\']([^"\']*)["\']',
-            r'data-link=["\']([^"\']*)["\']',
-        ]
-        
-        for pattern in onclick_patterns:
-            matches = re.findall(pattern, html_content)
-            for match in matches:
-                if 'http' in match or 'global' in match or 'streamtp' in match:
-                    url_match = re.search(r'https?://[^\s\'"]+', match)
-                    if url_match:
-                        url = url_match.group(0)
-                        if url not in iframe_urls:
-                            print(f"  Found URL in handler: {url}")
-                            iframe_urls.append(url)
-        
-        # Deduplicate iframe URLs
-        iframe_urls = list(dict.fromkeys(iframe_urls))
-        
-        # Add URLs from Selenium if we got any
-        if selenium_urls:
-            for url in selenium_urls:
-                if url and url not in iframe_urls:
-                    iframe_urls.append(url)
-            iframe_urls = list(dict.fromkeys(iframe_urls))
-        
-        print(f"\n=== Processing {len(iframe_urls)} iframe URLs ===")
-        print(f"Event titles available: {len(event_titles)}")
-        
-        # If we have no iframe URLs but have titles, create placeholder events
-        if not iframe_urls and event_titles:
-            print("\nWARNING: Found titles but no iframe URLs!")
-            print("Creating events without stream URLs for reference...")
-            
-            for idx, (time_str, title) in enumerate(event_titles):
-                event_data = {
-                    'id': f"event_{idx + 1}",
-                    'title': f"{time_str} - {title}",
-                    'iframe_url': '',
-                    'm3u8_url': '',
-                    'timestamp': datetime.utcnow().isoformat(),
-                    'referer': self.events_url,
-                    'status': 'no_stream_url_found',
-                    'headers': {
-                        'User-Agent': self.headers['User-Agent'],
-                        'Referer': self.events_url,
-                        'Origin': self.base_url,
-                    }
-                }
-                events.append(event_data)
+        print(f"\nFound {len(iframe_urls)} URLs and {len(event_titles)} titles")
         
         # Process iframe URLs
         for idx, iframe_url in enumerate(iframe_urls):
             try:
-                # Make sure URL is absolute
                 if not iframe_url.startswith('http'):
                     iframe_url = urljoin(self.base_url, iframe_url)
                 
-                # Get event title if available
                 title = f"Event {idx + 1}"
                 if idx < len(event_titles):
                     time_str, match_str = event_titles[idx]
@@ -463,7 +408,6 @@ class StreamScraper:
         print(f"✓ Saved {len(events)} events to {filename}")
         print(f"{'='*50}")
         
-        # Print summary
         events_with_streams = sum(1 for e in events if e.get('m3u8_url'))
         events_with_iframes = sum(1 for e in events if e.get('iframe_url'))
         print(f"  Events with iframe URLs: {events_with_iframes}")
@@ -474,7 +418,7 @@ class StreamScraper:
 
 def main():
     print("="*50)
-    print("Stream Event Scraper v2.0")
+    print("Stream Event Scraper v2.2 - Enhanced Decoder")
     print("="*50)
     
     scraper = StreamScraper()
@@ -485,7 +429,6 @@ def main():
         scraper.save_to_json(events)
     else:
         print("\n✗ No events found")
-        print("Check debug_page.html to investigate page structure")
         scraper.save_to_json([])
 
 if __name__ == "__main__":
