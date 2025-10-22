@@ -155,44 +155,136 @@ class StreamScraper:
         soup = BeautifulSoup(html_content, 'html.parser')
         events = []
         
-        # Method 1: Look for input/textarea elements with iframe URLs
+        # NEW: Look for all possible URL containers
+        iframe_urls = []
+        event_titles = []
+        
         print("\n=== Method 1: Input/Textarea elements ===")
         input_elements = soup.find_all(['input', 'textarea'])
         print(f"Found {len(input_elements)} input/textarea elements")
         
-        iframe_urls = []
+        # Check all attributes and text content
         for elem in input_elements:
-            value = elem.get('value', '') or elem.get_text(strip=True)
-            if value and ('global' in value or 'streamtp' in value):
-                print(f"  Found URL: {value}")
-                iframe_urls.append(value)
+            # Check all attributes
+            for attr in ['value', 'data-src', 'data-url', 'data-iframe', 'src', 'href']:
+                value = elem.get(attr, '')
+                if value and ('global' in value.lower() or 'streamtp' in value.lower() or '.php' in value):
+                    print(f"  Found URL in {attr}: {value}")
+                    if value not in iframe_urls:
+                        iframe_urls.append(value)
+            
+            # Check text content
+            text = elem.get_text(strip=True)
+            if text and ('global' in text.lower() or 'streamtp' in text.lower() or 'http' in text):
+                print(f"  Found URL in text: {text}")
+                if text not in iframe_urls:
+                    iframe_urls.append(text)
         
-        # Method 2: Search raw HTML for iframe URL patterns
-        print("\n=== Method 2: Regex patterns ===")
+        # Method 2: Find iframe elements directly
+        print("\n=== Method 2: Direct iframe elements ===")
+        iframes = soup.find_all('iframe')
+        print(f"Found {len(iframes)} iframe elements")
+        for iframe in iframes:
+            src = iframe.get('src', '') or iframe.get('data-src', '')
+            if src:
+                print(f"  Found iframe src: {src}")
+                if src not in iframe_urls:
+                    iframe_urls.append(src)
+        
+        # Method 3: Search raw HTML with improved regex
+        print("\n=== Method 3: Enhanced Regex patterns ===")
         patterns = [
             r'(https?://[^\s<>"\']+/global\d+\.php\?[^\s<>"\']+)',
             r'(https?://streamtp\d+\.com/[^\s<>"\']+)',
-            r'value=["\']([^"\']*global\d+\.php[^"\']*)["\']',
+            r'value=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
+            r'src=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
+            r'data-src=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
+            r'href=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
+            # More aggressive pattern for any URL-like string
+            r'(https?://[^\s<>"\']+\.php\?[^\s<>"\']+)',
         ]
         
         for pattern in patterns:
             matches = re.findall(pattern, html_content, re.IGNORECASE)
             for match in matches:
                 if match not in iframe_urls:
-                    print(f"  Found URL: {match}")
+                    print(f"  Found URL via regex: {match}")
                     iframe_urls.append(match)
         
-        # Method 3: Look for event title patterns
-        print("\n=== Method 3: Event titles ===")
-        event_pattern = r'(\d{2}:\d{2})\s*-\s*([^<>\n]{10,100})'
-        event_matches = re.findall(event_pattern, html_content)
-        print(f"Found {len(event_matches)} event titles")
+        # Method 4: Look for JavaScript variables
+        print("\n=== Method 4: JavaScript variables ===")
+        js_patterns = [
+            r'var\s+\w+\s*=\s*["\']([^"\']*(?:global|streamtp|\.php)[^"\']*)["\']',
+            r'const\s+\w+\s*=\s*["\']([^"\']*(?:global|streamtp|\.php)[^"\']*)["\']',
+            r'let\s+\w+\s*=\s*["\']([^"\']*(?:global|streamtp|\.php)[^"\']*)["\']',
+        ]
         
-        for time_str, match_str in event_matches[:5]:  # Show first 5
-            print(f"  {time_str} - {match_str[:50]}...")
+        for pattern in js_patterns:
+            matches = re.findall(pattern, html_content, re.IGNORECASE)
+            for match in matches:
+                if match not in iframe_urls:
+                    print(f"  Found URL in JS: {match}")
+                    iframe_urls.append(match)
         
-        # Combine events with iframes
-        print(f"\n=== Processing {len(iframe_urls)} events ===")
+        # Method 5: Extract event titles
+        print("\n=== Method 5: Event titles ===")
+        # Try multiple patterns for event titles
+        title_patterns = [
+            r'(\d{2}:\d{2})\s*[-–—]\s*([^<>\n]{10,150})',
+            r'<[^>]*>(\d{2}:\d{2})[^<]*</[^>]*>[^<]*<[^>]*>([^<]{10,150})',
+        ]
+        
+        for pattern in title_patterns:
+            matches = re.findall(pattern, html_content, re.DOTALL)
+            for match in matches:
+                if isinstance(match, tuple):
+                    time_str, title = match
+                    title = re.sub(r'<[^>]+>', '', title).strip()
+                    if title and len(title) > 5:
+                        event_titles.append((time_str.strip(), title))
+        
+        # Remove duplicates while preserving order
+        seen = set()
+        unique_titles = []
+        for t in event_titles:
+            if t not in seen:
+                seen.add(t)
+                unique_titles.append(t)
+        event_titles = unique_titles
+        
+        print(f"Found {len(event_titles)} unique event titles")
+        for time_str, title in event_titles[:5]:
+            print(f"  {time_str} - {title[:60]}...")
+        
+        # Deduplicate iframe URLs
+        iframe_urls = list(dict.fromkeys(iframe_urls))
+        
+        print(f"\n=== Processing {len(iframe_urls)} iframe URLs ===")
+        print(f"Event titles available: {len(event_titles)}")
+        
+        # If we have no iframe URLs but have titles, create placeholder events
+        if not iframe_urls and event_titles:
+            print("\nWARNING: Found titles but no iframe URLs!")
+            print("Creating events without stream URLs for reference...")
+            
+            for idx, (time_str, title) in enumerate(event_titles):
+                event_data = {
+                    'id': f"event_{idx + 1}",
+                    'title': f"{time_str} - {title}",
+                    'iframe_url': '',
+                    'm3u8_url': '',
+                    'timestamp': datetime.utcnow().isoformat(),
+                    'referer': self.events_url,
+                    'status': 'no_stream_url_found',
+                    'headers': {
+                        'User-Agent': self.headers['User-Agent'],
+                        'Referer': self.events_url,
+                        'Origin': self.base_url,
+                    }
+                }
+                events.append(event_data)
+        
+        # Process iframe URLs
         for idx, iframe_url in enumerate(iframe_urls):
             try:
                 # Make sure URL is absolute
@@ -201,8 +293,8 @@ class StreamScraper:
                 
                 # Get event title if available
                 title = f"Event {idx + 1}"
-                if idx < len(event_matches):
-                    time_str, match_str = event_matches[idx]
+                if idx < len(event_titles):
+                    time_str, match_str = event_titles[idx]
                     title = f"{time_str} - {match_str.strip()}"
                 
                 event_data = {
@@ -212,6 +304,7 @@ class StreamScraper:
                     'm3u8_url': '',
                     'timestamp': datetime.utcnow().isoformat(),
                     'referer': self.events_url,
+                    'status': 'active',
                     'headers': {
                         'User-Agent': self.headers['User-Agent'],
                         'Referer': self.events_url,
@@ -252,11 +345,19 @@ class StreamScraper:
         print(f"\n{'='*50}")
         print(f"✓ Saved {len(events)} events to {filename}")
         print(f"{'='*50}")
+        
+        # Print summary
+        events_with_streams = sum(1 for e in events if e.get('m3u8_url'))
+        events_with_iframes = sum(1 for e in events if e.get('iframe_url'))
+        print(f"  Events with iframe URLs: {events_with_iframes}")
+        print(f"  Events with m3u8 streams: {events_with_streams}")
+        print(f"{'='*50}")
+        
         return filename
 
 def main():
     print("="*50)
-    print("Stream Event Scraper")
+    print("Stream Event Scraper v2.0")
     print("="*50)
     
     scraper = StreamScraper()
@@ -267,6 +368,7 @@ def main():
         scraper.save_to_json(events)
     else:
         print("\n✗ No events found")
+        print("Check debug_page.html to investigate page structure")
         scraper.save_to_json([])
 
 if __name__ == "__main__":
