@@ -25,12 +25,25 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install Chrome and dependencies
+      - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser chromium-chromedriver
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+      
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+      
+      - name: Setup ChromeDriver
+        uses: nanasess/setup-chromedriver@v2
+      
+      - name: Verify Chrome installation
+        run: |
+          which google-chrome || which google-chrome-stable || which chromium-browser
+          which chromedriver
+          google-chrome --version || google-chrome-stable --version || chromium-browser --version
+          chromedriver --version
       
       - name: Run scraper
         run: |
