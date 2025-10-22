@@ -71,7 +71,58 @@ class StreamScraper:
             print(f"Error setting up Chrome driver: {e}")
             return None
     
-    def fetch_page_selenium(self, url):
+    def extract_urls_with_selenium(self, url):
+        """Extract URLs directly from DOM using Selenium"""
+        driver = self.setup_driver()
+        if not driver:
+            return []
+        
+        urls_found = []
+        try:
+            print(f"Loading page with Selenium for URL extraction: {url}")
+            driver.get(url)
+            
+            # Wait for JavaScript to execute
+            time.sleep(10)
+            
+            # Try to find all input elements and extract their values
+            try:
+                script = """
+                var results = [];
+                var inputs = document.querySelectorAll('input, textarea, [data-url], [data-stream]');
+                inputs.forEach(function(el) {
+                    var value = el.value || el.getAttribute('data-url') || el.getAttribute('data-stream') || el.textContent;
+                    if (value && (value.includes('http') || value.includes('global') || value.includes('.php'))) {
+                        results.push(value);
+                    }
+                });
+                return results;
+                """
+                values = driver.execute_script(script)
+                print(f"  Found {len(values)} potential URLs via JavaScript")
+                urls_found.extend(values)
+            except Exception as e:
+                print(f"  Error executing JavaScript: {e}")
+            
+            # Also try to get any iframe src attributes
+            try:
+                iframes = driver.find_elements(By.TAG_NAME, 'iframe')
+                print(f"  Found {len(iframes)} iframe elements")
+                for iframe in iframes:
+                    src = iframe.get_attribute('src')
+                    if src:
+                        urls_found.append(src)
+            except Exception as e:
+                print(f"  Error finding iframes: {e}")
+            
+            driver.quit()
+            return urls_found
+            
+        except Exception as e:
+            print(f"Error in URL extraction: {e}")
+            if driver:
+                driver.quit()
+            return []
         """Fetch page content using Selenium"""
         driver = self.setup_driver()
         if not driver:
@@ -81,8 +132,34 @@ class StreamScraper:
             print(f"Loading page with Selenium: {url}")
             driver.get(url)
             
-            # Wait for content to load (adjust selector based on actual page)
-            time.sleep(5)  # Give time for JavaScript to execute
+            # Wait longer for JavaScript to execute and DOM to be built
+            print("Waiting for JavaScript to execute...")
+            time.sleep(8)
+            
+            # Try to find any input elements that might contain URLs
+            try:
+                inputs = driver.find_elements(By.TAG_NAME, 'input')
+                print(f"Found {len(inputs)} input elements after JS execution")
+            except:
+                pass
+            
+            # Execute JavaScript to try to extract any hidden data
+            try:
+                # Try to get all input values via JavaScript
+                script = """
+                var inputs = document.getElementsByTagName('input');
+                var values = [];
+                for(var i = 0; i < inputs.length; i++) {
+                    if(inputs[i].value) values.push(inputs[i].value);
+                }
+                return values;
+                """
+                values = driver.execute_script(script)
+                print(f"Extracted {len(values)} values via JavaScript")
+                for val in values[:3]:
+                    print(f"  Sample value: {val[:100]}")
+            except Exception as e:
+                print(f"Could not execute JavaScript: {e}")
             
             html_content = driver.page_source
             driver.quit()
@@ -136,6 +213,14 @@ class StreamScraper:
     def extract_events(self):
         """Extract all events from the eventos.html page"""
         print(f"Fetching page: {self.events_url}")
+        
+        # First, try to extract URLs directly with Selenium
+        if SELENIUM_AVAILABLE:
+            print("\n=== Attempting direct URL extraction with Selenium ===")
+            selenium_urls = self.extract_urls_with_selenium(self.events_url)
+            print(f"Selenium found {len(selenium_urls)} URLs")
+            for url in selenium_urls[:5]:
+                print(f"  {url[:100]}")
         
         # Try Selenium first if available
         if SELENIUM_AVAILABLE:
@@ -202,6 +287,12 @@ class StreamScraper:
             r'href=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
             # More aggressive pattern for any URL-like string
             r'(https?://[^\s<>"\']+\.php\?[^\s<>"\']+)',
+            # Look for URLs in JavaScript strings (may be obfuscated)
+            r'["\']+(https?://[^"\']+?global[^"\']+?\.php[^"\']*)["\']',
+            r'["\']+(https?://[^"\']+?streamtp[^"\']+?)["\']',
+            # Even more aggressive - look for domain patterns
+            r'(https://streamtpmedia\.com/[^\s<>"\']+)',
+            r'(https://streamtp[0-9]+\.com/[^\s<>"\']+)',
         ]
         
         for pattern in patterns:
@@ -256,8 +347,36 @@ class StreamScraper:
         for time_str, title in event_titles[:5]:
             print(f"  {time_str} - {title[:60]}...")
         
+        # Method 6: Look for onclick/data attributes that might contain URLs
+        print("\n=== Method 6: Event handlers and data attributes ===")
+        onclick_patterns = [
+            r'onclick=["\']([^"\']*)["\']',
+            r'data-url=["\']([^"\']*)["\']',
+            r'data-stream=["\']([^"\']*)["\']',
+            r'data-link=["\']([^"\']*)["\']',
+        ]
+        
+        for pattern in onclick_patterns:
+            matches = re.findall(pattern, html_content)
+            for match in matches:
+                if 'http' in match or 'global' in match or 'streamtp' in match:
+                    # Extract URL from onclick handler
+                    url_match = re.search(r'https?://[^\s\'"]+', match)
+                    if url_match:
+                        url = url_match.group(0)
+                        if url not in iframe_urls:
+                            print(f"  Found URL in handler: {url}")
+                            iframe_urls.append(url)
+        
         # Deduplicate iframe URLs
         iframe_urls = list(dict.fromkeys(iframe_urls))
+        
+        # Add URLs from Selenium if we got any
+        if SELENIUM_AVAILABLE and 'selenium_urls' in locals():
+            for url in selenium_urls:
+                if url and url not in iframe_urls:
+                    iframe_urls.append(url)
+            iframe_urls = list(dict.fromkeys(iframe_urls))
         
         print(f"\n=== Processing {len(iframe_urls)} iframe URLs ===")
         print(f"Event titles available: {len(event_titles)}")
