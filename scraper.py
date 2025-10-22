@@ -123,6 +123,8 @@ class StreamScraper:
             if driver:
                 driver.quit()
             return []
+    
+    def fetch_page_selenium(self, url):
         """Fetch page content using Selenium"""
         driver = self.setup_driver()
         if not driver:
@@ -215,6 +217,7 @@ class StreamScraper:
         print(f"Fetching page: {self.events_url}")
         
         # First, try to extract URLs directly with Selenium
+        selenium_urls = []
         if SELENIUM_AVAILABLE:
             print("\n=== Attempting direct URL extraction with Selenium ===")
             selenium_urls = self.extract_urls_with_selenium(self.events_url)
@@ -222,7 +225,7 @@ class StreamScraper:
             for url in selenium_urls[:5]:
                 print(f"  {url[:100]}")
         
-        # Try Selenium first if available
+        # Try Selenium first if available, otherwise use regular fetch
         if SELENIUM_AVAILABLE:
             html_content = self.fetch_page_selenium(self.events_url)
         else:
@@ -285,12 +288,9 @@ class StreamScraper:
             r'src=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
             r'data-src=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
             r'href=["\']([^"\']*(?:global|streamtp)[^"\']*)["\']',
-            # More aggressive pattern for any URL-like string
             r'(https?://[^\s<>"\']+\.php\?[^\s<>"\']+)',
-            # Look for URLs in JavaScript strings (may be obfuscated)
             r'["\']+(https?://[^"\']+?global[^"\']+?\.php[^"\']*)["\']',
             r'["\']+(https?://[^"\']+?streamtp[^"\']+?)["\']',
-            # Even more aggressive - look for domain patterns
             r'(https://streamtpmedia\.com/[^\s<>"\']+)',
             r'(https://streamtp[0-9]+\.com/[^\s<>"\']+)',
         ]
@@ -319,7 +319,6 @@ class StreamScraper:
         
         # Method 5: Extract event titles
         print("\n=== Method 5: Event titles ===")
-        # Try multiple patterns for event titles
         title_patterns = [
             r'(\d{2}:\d{2})\s*[-–—]\s*([^<>\n]{10,150})',
             r'<[^>]*>(\d{2}:\d{2})[^<]*</[^>]*>[^<]*<[^>]*>([^<]{10,150})',
@@ -360,7 +359,6 @@ class StreamScraper:
             matches = re.findall(pattern, html_content)
             for match in matches:
                 if 'http' in match or 'global' in match or 'streamtp' in match:
-                    # Extract URL from onclick handler
                     url_match = re.search(r'https?://[^\s\'"]+', match)
                     if url_match:
                         url = url_match.group(0)
@@ -372,7 +370,7 @@ class StreamScraper:
         iframe_urls = list(dict.fromkeys(iframe_urls))
         
         # Add URLs from Selenium if we got any
-        if SELENIUM_AVAILABLE and 'selenium_urls' in locals():
+        if selenium_urls:
             for url in selenium_urls:
                 if url and url not in iframe_urls:
                     iframe_urls.append(url)
