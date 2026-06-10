@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T01:12:40.563126Z",
+  "last_updated": "2026-06-10T19:50:53.794581Z",
   "total_channels": 555,
   "working_channels": 0,
   "channels": [
@@ -11,8 +11,8 @@
       "stream_url": "https://tvpass.org/live/AEEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:29.832700Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:59.012269Z"
     },
     {
       "duration": -1,
@@ -22,8 +22,8 @@
       "stream_url": "https://tvpass.org/live/AEEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:37.206098Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:18.456159Z"
     },
     {
       "duration": -1,
@@ -33,8 +33,8 @@
       "stream_url": "https://tvpass.org/live/AEEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:36.505397Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:02.768977Z"
     },
     {
       "duration": -1,
@@ -44,8 +44,8 @@
       "stream_url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:30.503636Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:14.695034Z"
     },
     {
       "duration": -1,
@@ -55,8 +55,8 @@
       "stream_url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:38.576107Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:49.655019Z"
     },
     {
       "duration": -1,
@@ -66,8 +66,8 @@
       "stream_url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:37.882010Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:34.134573Z"
     },
     {
       "duration": -1,
@@ -77,8 +77,8 @@
       "stream_url": "https://tvpass.org/live/ACCNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:31.849073Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:45.736252Z"
     },
     {
       "duration": -1,
@@ -88,8 +88,8 @@
       "stream_url": "https://tvpass.org/live/ACCNetwork/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:41.438952Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:52.056942Z"
     },
     {
       "duration": -1,
@@ -99,8 +99,8 @@
       "stream_url": "https://tvpass.org/live/ACCNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:40.766930Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:36.537139Z"
     },
     {
       "duration": -1,
@@ -110,8 +110,8 @@
       "stream_url": "https://tvpass.org/live/AMCEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:33.188963Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:16.778557Z"
     },
     {
       "duration": -1,
@@ -121,8 +121,8 @@
       "stream_url": "https://tvpass.org/live/AMCEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:44.117821Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:54.484274Z"
     },
     {
       "duration": -1,
@@ -132,8 +132,8 @@
       "stream_url": "https://tvpass.org/live/AMCEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:43.446644Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:38.785658Z"
     },
     {
       "duration": -1,
@@ -143,8 +143,8 @@
       "stream_url": "https://tvpass.org/live/altitude-sports-denver/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:32.516270Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:01.255589Z"
     },
     {
       "duration": -1,
@@ -154,8 +154,8 @@
       "stream_url": "https://tvpass.org/live/altitude-sports-denver/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:42.772044Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:23.268887Z"
     },
     {
       "duration": -1,
@@ -165,8 +165,8 @@
       "stream_url": "https://tvpass.org/live/altitude-sports-denver/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:42.108384Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:07.742561Z"
     },
     {
       "duration": -1,
@@ -176,8 +176,8 @@
       "stream_url": "https://tvpass.org/live/AmericanHeroesChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:33.854693Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:32.455127Z"
     },
     {
       "duration": -1,
@@ -187,8 +187,8 @@
       "stream_url": "https://tvpass.org/live/AmericanHeroesChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:45.496208Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:25.877315Z"
     },
     {
       "duration": -1,
@@ -198,8 +198,8 @@
       "stream_url": "https://tvpass.org/live/AmericanHeroesChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:44.806308Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:10.168177Z"
     },
     {
       "duration": -1,
@@ -209,8 +209,8 @@
       "stream_url": "https://tvpass.org/live/AnimalPlanetEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:34.522636Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:47.975328Z"
     },
     {
       "duration": -1,
@@ -220,8 +220,8 @@
       "stream_url": "https://tvpass.org/live/AnimalPlanetEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:46.832057Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:57.080984Z"
     },
     {
       "duration": -1,
@@ -231,8 +231,8 @@
       "stream_url": "https://tvpass.org/live/AnimalPlanetEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:46.167888Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:41.397212Z"
     },
     {
       "duration": -1,
@@ -242,8 +242,8 @@
       "stream_url": "https://tvpass.org/live/BBCAmericaEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:35.187539Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:03.650726Z"
     },
     {
       "duration": -1,
@@ -253,8 +253,8 @@
       "stream_url": "https://tvpass.org/live/BBCAmericaEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:48.204309Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:28.119507Z"
     },
     {
       "duration": -1,
@@ -264,8 +264,8 @@
       "stream_url": "https://tvpass.org/live/BBCAmericaEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:47.534143Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:12.601401Z"
     },
     {
       "duration": -1,
@@ -275,8 +275,8 @@
       "stream_url": "https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:35.858198Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:19.334399Z"
     },
     {
       "duration": -1,
@@ -286,8 +286,8 @@
       "stream_url": "https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:49.544706Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:59.158520Z"
     },
     {
       "duration": -1,
@@ -297,8 +297,8 @@
       "stream_url": "https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:48.874392Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:43.640007Z"
     },
     {
       "duration": -1,
@@ -308,8 +308,8 @@
       "stream_url": "https://tvpass.org/live/BETEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:36.528846Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:34.855092Z"
     },
     {
       "duration": -1,
@@ -319,8 +319,8 @@
       "stream_url": "https://tvpass.org/live/BETEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:50.885236Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:30.524266Z"
     },
     {
       "duration": -1,
@@ -330,8 +330,8 @@
       "stream_url": "https://tvpass.org/live/BETEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:50.215178Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:14.837936Z"
     },
     {
       "duration": -1,
@@ -341,8 +341,8 @@
       "stream_url": "https://tvpass.org/live/BETHerEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:37.200285Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:50.538597Z"
     },
     {
       "duration": -1,
@@ -352,8 +352,8 @@
       "stream_url": "https://tvpass.org/live/BETHerEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:52.239797Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:01.732026Z"
     },
     {
       "duration": -1,
@@ -363,8 +363,8 @@
       "stream_url": "https://tvpass.org/live/BETHerEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:51.568588Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:46.046149Z"
     },
     {
       "duration": -1,
@@ -374,8 +374,8 @@
       "stream_url": "https://tvpass.org/live/BTN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:37.874049Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:06.233544Z"
     },
     {
       "duration": -1,
@@ -385,8 +385,8 @@
       "stream_url": "https://tvpass.org/live/BTN/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:53.576990Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:32.930477Z"
     },
     {
       "duration": -1,
@@ -396,8 +396,8 @@
       "stream_url": "https://tvpass.org/live/BTN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:52.905302Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:17.425004Z"
     },
     {
       "duration": -1,
@@ -407,8 +407,8 @@
       "stream_url": "https://tvpass.org/live/BloombergTV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:38.545990Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:21.916435Z"
     },
     {
       "duration": -1,
@@ -418,8 +418,8 @@
       "stream_url": "https://tvpass.org/live/BloombergTV/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:54.918223Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:04.148427Z"
     },
     {
       "duration": -1,
@@ -429,8 +429,8 @@
       "stream_url": "https://tvpass.org/live/BloombergTV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:54.247616Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:48.612193Z"
     },
     {
       "duration": -1,
@@ -440,8 +440,8 @@
       "stream_url": "https://tvpass.org/live/Boomerang/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:39.216782Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:37.601096Z"
     },
     {
       "duration": -1,
@@ -451,8 +451,8 @@
       "stream_url": "https://tvpass.org/live/Boomerang/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:56.267115Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:35.380185Z"
     },
     {
       "duration": -1,
@@ -462,8 +462,8 @@
       "stream_url": "https://tvpass.org/live/Boomerang/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:55.599335Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:19.683261Z"
     },
     {
       "duration": -1,
@@ -473,8 +473,8 @@
       "stream_url": "https://tvpass.org/live/BravoEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:39.881664Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:53.293088Z"
     },
     {
       "duration": -1,
@@ -484,8 +484,8 @@
       "stream_url": "https://tvpass.org/live/BravoEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:57.602497Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:06.423776Z"
     },
     {
       "duration": -1,
@@ -495,8 +495,8 @@
       "stream_url": "https://tvpass.org/live/BravoEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:56.937435Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:50.899565Z"
     },
     {
       "duration": -1,
@@ -506,8 +506,8 @@
       "stream_url": "https://tvpass.org/live/CSPAN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:36.505824Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:02.768755Z"
     },
     {
       "duration": -1,
@@ -517,8 +517,8 @@
       "stream_url": "https://tvpass.org/live/CSPAN2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:37.208766Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:18.452151Z"
     },
     {
       "duration": -1,
@@ -528,8 +528,8 @@
       "stream_url": "https://tvpass.org/live/CSPAN2/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:00.282524Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:08.816523Z"
     },
     {
       "duration": -1,
@@ -539,8 +539,8 @@
       "stream_url": "https://tvpass.org/live/CSPAN2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:59.611918Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:53.152327Z"
     },
     {
       "duration": -1,
@@ -550,8 +550,8 @@
       "stream_url": "https://tvpass.org/live/CSPAN/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:58.940148Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:37.634187Z"
     },
     {
       "duration": -1,
@@ -561,8 +561,8 @@
       "stream_url": "https://tvpass.org/live/CSPAN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:58.274654Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:21.944614Z"
     },
     {
       "duration": -1,
@@ -572,8 +572,8 @@
       "stream_url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:38.576404Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:49.654927Z"
     },
     {
       "duration": -1,
@@ -583,8 +583,8 @@
       "stream_url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:02.962886Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:11.398579Z"
     },
     {
       "duration": -1,
@@ -594,8 +594,8 @@
       "stream_url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:02.292950Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:55.700201Z"
     },
     {
       "duration": -1,
@@ -605,8 +605,8 @@
       "stream_url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:39.978394Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:20.851074Z"
     },
     {
       "duration": -1,
@@ -616,8 +616,8 @@
       "stream_url": "https://tvpass.org/live/CBSSportsNetworkUSA/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:05.635570Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:14.116194Z"
     },
     {
       "duration": -1,
@@ -627,8 +627,8 @@
       "stream_url": "https://tvpass.org/live/CBSSportsNetworkUSA/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:04.964002Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:58.457798Z"
     },
     {
       "duration": -1,
@@ -638,8 +638,8 @@
       "stream_url": "https://tvpass.org/live/CMTEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:42.104656Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:07.742419Z"
     },
     {
       "duration": -1,
@@ -649,8 +649,8 @@
       "stream_url": "https://tvpass.org/live/CMTEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:09.653290Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:47.601452Z"
     },
     {
       "duration": -1,
@@ -660,8 +660,8 @@
       "stream_url": "https://tvpass.org/live/CMTEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:08.988273Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:32.081010Z"
     },
     {
       "duration": -1,
@@ -671,8 +671,8 @@
       "stream_url": "https://tvpass.org/live/CNBC/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:42.775570Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:23.260461Z"
     },
     {
       "duration": -1,
@@ -682,8 +682,8 @@
       "stream_url": "https://tvpass.org/live/CNBC/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:10.989843Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:18.649764Z"
     },
     {
       "duration": -1,
@@ -693,8 +693,8 @@
       "stream_url": "https://tvpass.org/live/CNBC/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:10.325349Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:03.126392Z"
     },
     {
       "duration": -1,
@@ -704,8 +704,8 @@
       "stream_url": "https://tvpass.org/live/CNN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:43.439904Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:38.785523Z"
     },
     {
       "duration": -1,
@@ -715,8 +715,8 @@
       "stream_url": "https://tvpass.org/live/CNN/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:12.332192Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:50.023813Z"
     },
     {
       "duration": -1,
@@ -726,8 +726,8 @@
       "stream_url": "https://tvpass.org/live/CNN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:11.661648Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:34.347673Z"
     },
     {
       "duration": -1,
@@ -737,8 +737,8 @@
       "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:45.448041Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:25.877179Z"
     },
     {
       "duration": -1,
@@ -748,8 +748,8 @@
       "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:16.347556Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:23.636653Z"
     },
     {
       "duration": -1,
@@ -759,8 +759,8 @@
       "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:15.676496Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:08.116420Z"
     },
     {
       "duration": -1,
@@ -770,8 +770,8 @@
       "stream_url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:46.116517Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:41.397124Z"
     },
     {
       "duration": -1,
@@ -781,8 +781,8 @@
       "stream_url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:17.683328Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:55.000376Z"
     },
     {
       "duration": -1,
@@ -792,8 +792,8 @@
       "stream_url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:17.011787Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:39.316165Z"
     },
     {
       "duration": -1,
@@ -803,8 +803,8 @@
       "stream_url": "https://tvpass.org/live/CartoonNetworkEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:37.884930Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:34.134799Z"
     },
     {
       "duration": -1,
@@ -814,8 +814,8 @@
       "stream_url": "https://tvpass.org/live/CartoonNetworkEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:01.623527Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:40.014626Z"
     },
     {
       "duration": -1,
@@ -825,8 +825,8 @@
       "stream_url": "https://tvpass.org/live/CartoonNetworkEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:00.952733Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:24.494825Z"
     },
     {
       "duration": -1,
@@ -836,8 +836,8 @@
       "stream_url": "https://tvpass.org/live/chicago-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:40.766663Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:36.537056Z"
     },
     {
       "duration": -1,
@@ -847,8 +847,8 @@
       "stream_url": "https://tvpass.org/live/chicago-sports-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:06.976336Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:45.180180Z"
     },
     {
       "duration": -1,
@@ -858,8 +858,8 @@
       "stream_url": "https://tvpass.org/live/chicago-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:06.305753Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:29.643147Z"
     },
     {
       "duration": -1,
@@ -869,8 +869,8 @@
       "stream_url": "https://tvpass.org/live/CinemaxEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:41.432250Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:52.056691Z"
     },
     {
       "duration": -1,
@@ -880,8 +880,8 @@
       "stream_url": "https://tvpass.org/live/CinemaxEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:08.317137Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:16.392308Z"
     },
     {
       "duration": -1,
@@ -891,8 +891,8 @@
       "stream_url": "https://tvpass.org/live/CinemaxEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:07.646408Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:00.705644Z"
     },
     {
       "duration": -1,
@@ -902,8 +902,8 @@
       "stream_url": "https://tvpass.org/live/ComedyCentralEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:44.111095Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:54.484028Z"
     },
     {
       "duration": -1,
@@ -913,8 +913,8 @@
       "stream_url": "https://tvpass.org/live/ComedyCentralEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:13.672809Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:21.397672Z"
     },
     {
       "duration": -1,
@@ -924,8 +924,8 @@
       "stream_url": "https://tvpass.org/live/ComedyCentralEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:13.002481Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:05.709265Z"
     },
     {
       "duration": -1,
@@ -935,8 +935,8 @@
       "stream_url": "https://tvpass.org/live/CrimePlusInvestigation/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:44.782128Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:10.168095Z"
     },
     {
       "duration": -1,
@@ -946,8 +946,8 @@
       "stream_url": "https://tvpass.org/live/CrimePlusInvestigation/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:15.011751Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:52.605097Z"
     },
     {
       "duration": -1,
@@ -957,8 +957,8 @@
       "stream_url": "https://tvpass.org/live/CrimePlusInvestigation/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:14.340371Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:37.082829Z"
     },
     {
       "duration": -1,
@@ -968,8 +968,8 @@
       "stream_url": "https://tvpass.org/live/DestinationAmerica/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:46.781281Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:57.080894Z"
     },
     {
       "duration": -1,
@@ -979,8 +979,8 @@
       "stream_url": "https://tvpass.org/live/DestinationAmerica/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:19.024204Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:26.372604Z"
     },
     {
       "duration": -1,
@@ -990,8 +990,8 @@
       "stream_url": "https://tvpass.org/live/DestinationAmerica/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:18.354004Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:10.685173Z"
     },
     {
       "duration": -1,
@@ -1001,8 +1001,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:47.472764Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:12.601312Z"
     },
     {
       "duration": -1,
@@ -1012,8 +1012,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryChannelEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:20.368073Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:57.727935Z"
     },
     {
       "duration": -1,
@@ -1023,8 +1023,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:19.694737Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:42.042325Z"
     },
     {
       "duration": -1,
@@ -1034,8 +1034,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryFamily/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:48.143868Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:28.119663Z"
     },
     {
       "duration": -1,
@@ -1045,8 +1045,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryFamily/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:21.704811Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:28.755571Z"
     },
     {
       "duration": -1,
@@ -1056,8 +1056,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryFamily/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:21.039017Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:13.250063Z"
     },
     {
       "duration": -1,
@@ -1067,8 +1067,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryLife/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:48.815844Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:43.639909Z"
     },
     {
       "duration": -1,
@@ -1078,8 +1078,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryLife/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:23.045578Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:59.969684Z"
     },
     {
       "duration": -1,
@@ -1089,8 +1089,8 @@
       "stream_url": "https://tvpass.org/live/DiscoveryLife/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:22.376053Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:44.286255Z"
     },
     {
       "duration": -1,
@@ -1100,8 +1100,8 @@
       "stream_url": "https://tvpass.org/live/DisneyChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:49.479493Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:59.158391Z"
     },
     {
       "duration": -1,
@@ -1111,8 +1111,8 @@
       "stream_url": "https://tvpass.org/live/DisneyChannelEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:24.389147Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:31.332181Z"
     },
     {
       "duration": -1,
@@ -1122,8 +1122,8 @@
       "stream_url": "https://tvpass.org/live/DisneyChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:23.718618Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:15.650258Z"
     },
     {
       "duration": -1,
@@ -1133,8 +1133,8 @@
       "stream_url": "https://tvpass.org/live/DisneyJuniorEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:50.151601Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:14.838025Z"
     },
     {
       "duration": -1,
@@ -1144,8 +1144,8 @@
       "stream_url": "https://tvpass.org/live/DisneyJuniorEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:25.730082Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:02.538235Z"
     },
     {
       "duration": -1,
@@ -1155,8 +1155,8 @@
       "stream_url": "https://tvpass.org/live/DisneyJuniorEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:25.059185Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:47.027044Z"
     },
     {
       "duration": -1,
@@ -1166,8 +1166,8 @@
       "stream_url": "https://tvpass.org/live/DisneyXDEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:50.823522Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:30.526399Z"
     },
     {
       "duration": -1,
@@ -1177,8 +1177,8 @@
       "stream_url": "https://tvpass.org/live/DisneyXDEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:27.068490Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:33.752151Z"
     },
     {
       "duration": -1,
@@ -1188,8 +1188,8 @@
       "stream_url": "https://tvpass.org/live/DisneyXDEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:26.397963Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:18.232659Z"
     },
     {
       "duration": -1,
@@ -1199,8 +1199,8 @@
       "stream_url": "https://tvpass.org/live/EEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:51.497235Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:46.058934Z"
     },
     {
       "duration": -1,
@@ -1210,8 +1210,8 @@
       "stream_url": "https://tvpass.org/live/EEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:28.405557Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:05.116210Z"
     },
     {
       "duration": -1,
@@ -1221,8 +1221,8 @@
       "stream_url": "https://tvpass.org/live/EEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:27.733913Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:49.434477Z"
     },
     {
       "duration": -1,
@@ -1232,8 +1232,8 @@
       "stream_url": "https://tvpass.org/live/ESPN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:52.166910Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:01.731754Z"
     },
     {
       "duration": -1,
@@ -1243,8 +1243,8 @@
       "stream_url": "https://tvpass.org/live/espn-deportes/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:52.830576Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:17.424771Z"
     },
     {
       "duration": -1,
@@ -1254,8 +1254,8 @@
       "stream_url": "https://tvpass.org/live/espn-deportes/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:31.084640Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:07.523938Z"
     },
     {
       "duration": -1,
@@ -1265,8 +1265,8 @@
       "stream_url": "https://tvpass.org/live/espn-deportes/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:30.411598Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:52.003804Z"
     },
     {
       "duration": -1,
@@ -1276,8 +1276,8 @@
       "stream_url": "https://tvpass.org/live/ESPN/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:29.741122Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:36.319685Z"
     },
     {
       "duration": -1,
@@ -1287,8 +1287,8 @@
       "stream_url": "https://tvpass.org/live/ESPNews/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:53.501617Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:32.944904Z"
     },
     {
       "duration": -1,
@@ -1298,8 +1298,8 @@
       "stream_url": "https://tvpass.org/live/ESPNews/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:32.426020Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:38.575971Z"
     },
     {
       "duration": -1,
@@ -1309,8 +1309,8 @@
       "stream_url": "https://tvpass.org/live/ESPNews/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:31.755223Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:23.059997Z"
     },
     {
       "duration": -1,
@@ -1320,8 +1320,8 @@
       "stream_url": "https://tvpass.org/live/ESPN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:29.069595Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:20.796622Z"
     },
     {
       "duration": -1,
@@ -1331,8 +1331,8 @@
       "stream_url": "https://tvpass.org/live/ESPNU/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:54.171926Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:48.612327Z"
     },
     {
       "duration": -1,
@@ -1342,8 +1342,8 @@
       "stream_url": "https://tvpass.org/live/ESPNU/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:33.761907Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:09.791786Z"
     },
     {
       "duration": -1,
@@ -1353,8 +1353,8 @@
       "stream_url": "https://tvpass.org/live/ESPNU/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:33.097052Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:54.103058Z"
     },
     {
       "duration": -1,
@@ -1364,8 +1364,8 @@
       "stream_url": "https://tvpass.org/live/ESPN2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:54.835572Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:04.148342Z"
     },
     {
       "duration": -1,
@@ -1375,8 +1375,8 @@
       "stream_url": "https://tvpass.org/live/ESPN2/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:35.097335Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:40.996571Z"
     },
     {
       "duration": -1,
@@ -1386,8 +1386,8 @@
       "stream_url": "https://tvpass.org/live/ESPN2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:34.433097Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:25.476808Z"
     },
     {
       "duration": -1,
@@ -1397,8 +1397,8 @@
       "stream_url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:08.880124Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:32.080758Z"
     },
     {
       "duration": -1,
@@ -1408,8 +1408,8 @@
       "stream_url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:03.227145Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:35.754444Z"
     },
     {
       "duration": -1,
@@ -1419,8 +1419,8 @@
       "stream_url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:02.556848Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:20.228751Z"
     },
     {
       "duration": -1,
@@ -1430,8 +1430,8 @@
       "stream_url": "https://tvpass.org/live/FuseEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:13.572970Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:21.397811Z"
     },
     {
       "duration": -1,
@@ -1441,8 +1441,8 @@
       "stream_url": "https://tvpass.org/live/FuseEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:12.597625Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:13.854561Z"
     },
     {
       "duration": -1,
@@ -1452,8 +1452,8 @@
       "stream_url": "https://tvpass.org/live/FuseEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:11.926886Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:58.330798Z"
     },
     {
       "duration": -1,
@@ -1463,8 +1463,8 @@
       "stream_url": "https://tvpass.org/live/FXMovieChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:14.244078Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:37.082968Z"
     },
     {
       "duration": -1,
@@ -1474,8 +1474,8 @@
       "stream_url": "https://tvpass.org/live/FXMovieChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:13.938363Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:44.891729Z"
     },
     {
       "duration": -1,
@@ -1485,8 +1485,8 @@
       "stream_url": "https://tvpass.org/live/FXMovieChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:13.267710Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:29.372155Z"
     },
     {
       "duration": -1,
@@ -1496,8 +1496,8 @@
       "stream_url": "https://tvpass.org/live/FXEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:14.914259Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:52.604953Z"
     },
     {
       "duration": -1,
@@ -1507,8 +1507,8 @@
       "stream_url": "https://tvpass.org/live/FXEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:15.276279Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:15.944041Z"
     },
     {
       "duration": -1,
@@ -1518,8 +1518,8 @@
       "stream_url": "https://tvpass.org/live/FXEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:14.605790Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:00.414450Z"
     },
     {
       "duration": -1,
@@ -1529,8 +1529,8 @@
       "stream_url": "https://tvpass.org/live/FXXEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:15.578328Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:08.116333Z"
     },
     {
       "duration": -1,
@@ -1540,8 +1540,8 @@
       "stream_url": "https://tvpass.org/live/FXXEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:16.612069Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:47.153121Z"
     },
     {
       "duration": -1,
@@ -1551,8 +1551,8 @@
       "stream_url": "https://tvpass.org/live/FXXEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:15.940639Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:31.469453Z"
     },
     {
       "duration": -1,
@@ -1562,8 +1562,8 @@
       "stream_url": "https://tvpass.org/live/FYIEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:16.246058Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:23.636790Z"
     },
     {
       "duration": -1,
@@ -1573,8 +1573,8 @@
       "stream_url": "https://tvpass.org/live/FYIEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:17.951819Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:18.515632Z"
     },
     {
       "duration": -1,
@@ -1584,8 +1584,8 @@
       "stream_url": "https://tvpass.org/live/FYIEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:17.278829Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:02.836339Z"
     },
     {
       "duration": -1,
@@ -1595,8 +1595,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-indiana/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:55.499640Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:19.683175Z"
     },
     {
       "duration": -1,
@@ -1606,8 +1606,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-indiana/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:36.442533Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:12.323459Z"
     },
     {
       "duration": -1,
@@ -1617,8 +1617,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-indiana/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:35.768749Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:56.640050Z"
     },
     {
       "duration": -1,
@@ -1628,8 +1628,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:56.170318Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:35.380263Z"
     },
     {
       "duration": -1,
@@ -1639,8 +1639,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:37.783483Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:43.534058Z"
     },
     {
       "duration": -1,
@@ -1650,8 +1650,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:37.112726Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:27.848251Z"
     },
     {
       "duration": -1,
@@ -1661,8 +1661,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-florida/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:56.840912Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:50.899318Z"
     },
     {
       "duration": -1,
@@ -1672,8 +1672,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-florida/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:39.125109Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:14.748142Z"
     },
     {
       "duration": -1,
@@ -1683,8 +1683,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-florida/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:38.454761Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:59.222083Z"
     },
     {
       "duration": -1,
@@ -1694,8 +1694,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-great-lakes/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:57.514477Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:06.423939Z"
     },
     {
       "duration": -1,
@@ -1705,8 +1705,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-great-lakes/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:40.462322Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:45.775405Z"
     },
     {
       "duration": -1,
@@ -1716,8 +1716,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-great-lakes/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:39.790370Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:30.268806Z"
     },
     {
       "duration": -1,
@@ -1727,8 +1727,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-north/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:58.183924Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:21.944474Z"
     },
     {
       "duration": -1,
@@ -1738,8 +1738,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-north/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:41.800270Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:16.812419Z"
     },
     {
       "duration": -1,
@@ -1749,8 +1749,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-north/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:41.127088Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:01.294756Z"
     },
     {
       "duration": -1,
@@ -1760,8 +1760,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:58.847637Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:37.619572Z"
     },
     {
       "duration": -1,
@@ -1771,8 +1771,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:43.141276Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:47.884950Z"
     },
     {
       "duration": -1,
@@ -1782,8 +1782,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:42.470983Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:32.337536Z"
     },
     {
       "duration": -1,
@@ -1793,8 +1793,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-oklahoma/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:59.511579Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:53.143670Z"
     },
     {
       "duration": -1,
@@ -1804,8 +1804,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-oklahoma/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:44.479603Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:19.049677Z"
     },
     {
       "duration": -1,
@@ -1815,8 +1815,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-oklahoma/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:43.811771Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:03.530497Z"
     },
     {
       "duration": -1,
@@ -1826,8 +1826,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-san-diego/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:00.182387Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:08.828516Z"
     },
     {
       "duration": -1,
@@ -1837,8 +1837,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-san-diego/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:45.818318Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:50.239323Z"
     },
     {
       "duration": -1,
@@ -1848,8 +1848,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-san-diego/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:45.153686Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:34.720539Z"
     },
     {
       "duration": -1,
@@ -1859,8 +1859,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-socal/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:00.853266Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:24.502782Z"
     },
     {
       "duration": -1,
@@ -1870,8 +1870,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-socal/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:47.153928Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:21.449265Z"
     },
     {
       "duration": -1,
@@ -1881,8 +1881,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-socal/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:46.489801Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:05.924181Z"
     },
     {
       "duration": -1,
@@ -1892,8 +1892,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:01.528007Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:40.189056Z"
     },
     {
       "duration": -1,
@@ -1903,8 +1903,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:48.496054Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:52.602711Z"
     },
     {
       "duration": -1,
@@ -1914,8 +1914,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:47.825633Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:36.988164Z"
     },
     {
       "duration": -1,
@@ -1925,8 +1925,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:02.199060Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:55.710762Z"
     },
     {
       "duration": -1,
@@ -1936,8 +1936,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:49.837287Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:23.813655Z"
     },
     {
       "duration": -1,
@@ -1947,8 +1947,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:49.166135Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:08.286528Z"
     },
     {
       "duration": -1,
@@ -1958,8 +1958,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-west/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:02.868890Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:11.398493Z"
     },
     {
       "duration": -1,
@@ -1969,8 +1969,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-west/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:51.178326Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:55.008681Z"
     },
     {
       "duration": -1,
@@ -1980,8 +1980,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-west/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:50.507935Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:39.324308Z"
     },
     {
       "duration": -1,
@@ -1991,8 +1991,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-wisconsin/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:03.532931Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:27.085291Z"
     },
     {
       "duration": -1,
@@ -2002,8 +2002,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-wisconsin/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:52.514708Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:26.203619Z"
     },
     {
       "duration": -1,
@@ -2013,8 +2013,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-network-wisconsin/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:51.843213Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:10.684328Z"
     },
     {
       "duration": -1,
@@ -2024,8 +2024,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-georgia/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:04.200743Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:42.774820Z"
     },
     {
       "duration": -1,
@@ -2035,8 +2035,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-georgia/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:53.851133Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:57.416824Z"
     },
     {
       "duration": -1,
@@ -2046,8 +2046,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-georgia/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:53.178751Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:41.716333Z"
     },
     {
       "duration": -1,
@@ -2057,8 +2057,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:04.866619Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:58.443236Z"
     },
     {
       "duration": -1,
@@ -2068,8 +2068,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:55.192349Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:28.634014Z"
     },
     {
       "duration": -1,
@@ -2079,8 +2079,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:54.521557Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:13.103102Z"
     },
     {
       "duration": -1,
@@ -2090,8 +2090,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:05.531923Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:14.130676Z"
     },
     {
       "duration": -1,
@@ -2101,8 +2101,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:56.531233Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:00.012505Z"
     },
     {
       "duration": -1,
@@ -2112,8 +2112,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:55.862733Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:44.320817Z"
     },
     {
       "duration": -1,
@@ -2123,8 +2123,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:06.202613Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:29.814515Z"
     },
     {
       "duration": -1,
@@ -2134,8 +2134,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:57.866759Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:31.237116Z"
     },
     {
       "duration": -1,
@@ -2145,8 +2145,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:57.201815Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:15.549638Z"
     },
     {
       "duration": -1,
@@ -2156,8 +2156,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-sun/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:06.874068Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:45.327737Z"
     },
     {
       "duration": -1,
@@ -2167,8 +2167,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-sun/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:59.203424Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:02.612535Z"
     },
     {
       "duration": -1,
@@ -2178,8 +2178,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-sun/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:58.538700Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:46.924422Z"
     },
     {
       "duration": -1,
@@ -2189,8 +2189,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-tennessee-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:07.537182Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:01.015387Z"
     },
     {
       "duration": -1,
@@ -2200,8 +2200,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-tennessee-east/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:00.545431Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:33.655620Z"
     },
     {
       "duration": -1,
@@ -2211,8 +2211,8 @@
       "stream_url": "https://tvpass.org/live/fanduel-sports-tennessee-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:59.874710Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:18.132315Z"
     },
     {
       "duration": -1,
@@ -2222,8 +2222,8 @@
       "stream_url": "https://tvpass.org/live/FoodNetworkEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:08.209355Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:16.520200Z"
     },
     {
       "duration": -1,
@@ -2233,8 +2233,8 @@
       "stream_url": "https://tvpass.org/live/FoodNetworkEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:01.886154Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:04.706219Z"
     },
     {
       "duration": -1,
@@ -2244,8 +2244,8 @@
       "stream_url": "https://tvpass.org/live/FoodNetworkEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:01.215368Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:49.178996Z"
     },
     {
       "duration": -1,
@@ -2255,8 +2255,8 @@
       "stream_url": "https://tvpass.org/live/FoxBusiness/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:10.224327Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:03.126655Z"
     },
     {
       "duration": -1,
@@ -2266,8 +2266,8 @@
       "stream_url": "https://tvpass.org/live/FoxBusiness/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:05.901404Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:37.826803Z"
     },
     {
       "duration": -1,
@@ -2277,8 +2277,8 @@
       "stream_url": "https://tvpass.org/live/FoxBusiness/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:05.229087Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:22.308152Z"
     },
     {
       "duration": -1,
@@ -2288,8 +2288,8 @@
       "stream_url": "https://tvpass.org/live/FoxNewsChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:10.887758Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:18.649883Z"
     },
     {
       "duration": -1,
@@ -2299,8 +2299,8 @@
       "stream_url": "https://tvpass.org/live/FoxNewsChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:07.241715Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:09.177696Z"
     },
     {
       "duration": -1,
@@ -2310,8 +2310,8 @@
       "stream_url": "https://tvpass.org/live/FoxNewsChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:06.571613Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:53.512588Z"
     },
     {
       "duration": -1,
@@ -2321,8 +2321,8 @@
       "stream_url": "https://tvpass.org/live/FoxSports1/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:11.564122Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:34.346989Z"
     },
     {
       "duration": -1,
@@ -2332,8 +2332,8 @@
       "stream_url": "https://tvpass.org/live/FoxSports1/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:08.582601Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:40.386422Z"
     },
     {
       "duration": -1,
@@ -2343,8 +2343,8 @@
       "stream_url": "https://tvpass.org/live/FoxSports1/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:07.911824Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:24.700197Z"
     },
     {
       "duration": -1,
@@ -2354,8 +2354,8 @@
       "stream_url": "https://tvpass.org/live/FoxSports2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:12.234526Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:50.024050Z"
     },
     {
       "duration": -1,
@@ -2365,8 +2365,8 @@
       "stream_url": "https://tvpass.org/live/FoxSports2/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:09.917778Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:11.591471Z"
     },
     {
       "duration": -1,
@@ -2376,8 +2376,8 @@
       "stream_url": "https://tvpass.org/live/FoxSports2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:09.252607Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:55.908142Z"
     },
     {
       "duration": -1,
@@ -2387,8 +2387,8 @@
       "stream_url": "https://tvpass.org/live/FreeformEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:12.898937Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:05.709168Z"
     },
     {
       "duration": -1,
@@ -2398,8 +2398,8 @@
       "stream_url": "https://tvpass.org/live/FreeformEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:11.253309Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:42.808454Z"
     },
     {
       "duration": -1,
@@ -2409,8 +2409,8 @@
       "stream_url": "https://tvpass.org/live/FreeformEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:10.588973Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:27.115972Z"
     },
     {
       "duration": -1,
@@ -2420,8 +2420,8 @@
       "stream_url": "https://tvpass.org/live/game-show-network-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:16.910848Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:39.319468Z"
     },
     {
       "duration": -1,
@@ -2431,8 +2431,8 @@
       "stream_url": "https://tvpass.org/live/game-show-network-east/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:19.292794Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:49.712072Z"
     },
     {
       "duration": -1,
@@ -2442,8 +2442,8 @@
       "stream_url": "https://tvpass.org/live/game-show-network-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:18.622625Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:34.020171Z"
     },
     {
       "duration": -1,
@@ -2453,8 +2453,8 @@
       "stream_url": "https://tvpass.org/live/GolfChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:17.576056Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:55.000514Z"
     },
     {
       "duration": -1,
@@ -2464,8 +2464,8 @@
       "stream_url": "https://tvpass.org/live/GolfChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:20.634199Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:20.908971Z"
     },
     {
       "duration": -1,
@@ -2475,8 +2475,8 @@
       "stream_url": "https://tvpass.org/live/GolfChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:19.963805Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:05.391434Z"
     },
     {
       "duration": -1,
@@ -2486,8 +2486,8 @@
       "stream_url": "https://tvpass.org/live/HBO2East/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:20.932497Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:13.230416Z"
     },
     {
       "duration": -1,
@@ -2497,8 +2497,8 @@
       "stream_url": "https://tvpass.org/live/HBO2East/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:27.343829Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:56.615911Z"
     },
     {
       "duration": -1,
@@ -2508,8 +2508,8 @@
       "stream_url": "https://tvpass.org/live/HBO2East/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:26.673734Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:41.094099Z"
     },
     {
       "duration": -1,
@@ -2519,8 +2519,8 @@
       "stream_url": "https://tvpass.org/live/HBOComedyEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:21.597136Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:28.755450Z"
     },
     {
       "duration": -1,
@@ -2530,8 +2530,8 @@
       "stream_url": "https://tvpass.org/live/HBOComedyEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:28.679604Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:27.819682Z"
     },
     {
       "duration": -1,
@@ -2541,8 +2541,8 @@
       "stream_url": "https://tvpass.org/live/HBOComedyEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:28.008344Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:12.135041Z"
     },
     {
       "duration": -1,
@@ -2552,8 +2552,8 @@
       "stream_url": "https://tvpass.org/live/HBOEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:20.262384Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:57.549464Z"
     },
     {
       "duration": -1,
@@ -2563,8 +2563,8 @@
       "stream_url": "https://tvpass.org/live/HBOEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:26.002868Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:25.408747Z"
     },
     {
       "duration": -1,
@@ -2574,8 +2574,8 @@
       "stream_url": "https://tvpass.org/live/HBOEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:25.332616Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:09.890575Z"
     },
     {
       "duration": -1,
@@ -2585,8 +2585,8 @@
       "stream_url": "https://tvpass.org/live/HBOFamilyEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:22.264887Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:44.286344Z"
     },
     {
       "duration": -1,
@@ -2596,8 +2596,8 @@
       "stream_url": "https://tvpass.org/live/HBOFamilyEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:30.014270Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:59.023245Z"
     },
     {
       "duration": -1,
@@ -2607,8 +2607,8 @@
       "stream_url": "https://tvpass.org/live/HBOFamilyEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:29.344256Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:43.336899Z"
     },
     {
       "duration": -1,
@@ -2618,8 +2618,8 @@
       "stream_url": "https://tvpass.org/live/HBOSignatureEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:22.929191Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:59.964291Z"
     },
     {
       "duration": -1,
@@ -2629,8 +2629,8 @@
       "stream_url": "https://tvpass.org/live/HBOSignatureEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:31.358202Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:30.212249Z"
     },
     {
       "duration": -1,
@@ -2640,8 +2640,8 @@
       "stream_url": "https://tvpass.org/live/HBOSignatureEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:30.685829Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:14.692313Z"
     },
     {
       "duration": -1,
@@ -2651,8 +2651,8 @@
       "stream_url": "https://tvpass.org/live/HBOZoneEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:23.594698Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:15.650396Z"
     },
     {
       "duration": -1,
@@ -2662,8 +2662,8 @@
       "stream_url": "https://tvpass.org/live/HBOZoneEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:32.699703Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:01.255451Z"
     },
     {
       "duration": -1,
@@ -2673,8 +2673,8 @@
       "stream_url": "https://tvpass.org/live/HBOZoneEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:32.028917Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:45.734960Z"
     },
     {
       "duration": -1,
@@ -2684,8 +2684,8 @@
       "stream_url": "https://tvpass.org/live/HGTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:24.268099Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:31.332274Z"
     },
     {
       "duration": -1,
@@ -2695,8 +2695,8 @@
       "stream_url": "https://tvpass.org/live/HGTVEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:34.034816Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:32.454312Z"
     },
     {
       "duration": -1,
@@ -2706,8 +2706,8 @@
       "stream_url": "https://tvpass.org/live/HGTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:33.369730Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:16.775375Z"
     },
     {
       "duration": -1,
@@ -2717,8 +2717,8 @@
       "stream_url": "https://tvpass.org/live/HLN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:25.615292Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:02.546698Z"
     },
     {
       "duration": -1,
@@ -2728,8 +2728,8 @@
       "stream_url": "https://tvpass.org/live/HLN/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:36.714110Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:34.855194Z"
     },
     {
       "duration": -1,
@@ -2739,8 +2739,8 @@
       "stream_url": "https://tvpass.org/live/HLN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:36.042745Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:19.334635Z"
     },
     {
       "duration": -1,
@@ -2750,8 +2750,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:18.246667Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:10.685262Z"
     },
     {
       "duration": -1,
@@ -2761,8 +2761,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkChannelEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:21.984909Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:52.124245Z"
     },
     {
       "duration": -1,
@@ -2772,8 +2772,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:21.319035Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:36.433069Z"
     },
     {
       "duration": -1,
@@ -2783,8 +2783,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkDrama/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:18.917542Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:26.358607Z"
     },
     {
       "duration": -1,
@@ -2794,8 +2794,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkDrama/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:23.320145Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:23.317163Z"
     },
     {
       "duration": -1,
@@ -2805,8 +2805,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkDrama/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:22.655717Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:07.643294Z"
     },
     {
       "duration": -1,
@@ -2816,8 +2816,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:19.594664Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:42.030178Z"
     },
     {
       "duration": -1,
@@ -2827,8 +2827,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:24.662408Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:54.367151Z"
     },
     {
       "duration": -1,
@@ -2838,8 +2838,8 @@
       "stream_url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:23.991741Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:38.841506Z"
     },
     {
       "duration": -1,
@@ -2849,8 +2849,8 @@
       "stream_url": "https://tvpass.org/live/HistoryEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:24.942098Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:47.027152Z"
     },
     {
       "duration": -1,
@@ -2860,8 +2860,8 @@
       "stream_url": "https://tvpass.org/live/HistoryEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:35.371031Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:03.650901Z"
     },
     {
       "duration": -1,
@@ -2871,8 +2871,8 @@
       "stream_url": "https://tvpass.org/live/HistoryEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:34.706284Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:47.974975Z"
     },
     {
       "duration": -1,
@@ -2882,8 +2882,8 @@
       "stream_url": "https://tvpass.org/live/IONTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:27.620229Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:49.433964Z"
     },
     {
       "duration": -1,
@@ -2893,8 +2893,8 @@
       "stream_url": "https://tvpass.org/live/IONTVEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:36.505586Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:02.768634Z"
     },
     {
       "duration": -1,
@@ -2904,8 +2904,8 @@
       "stream_url": "https://tvpass.org/live/IONTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:40.061565Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:53.116282Z"
     },
     {
       "duration": -1,
@@ -2915,8 +2915,8 @@
       "stream_url": "https://tvpass.org/live/IFCEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:26.286206Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:18.232799Z"
     },
     {
       "duration": -1,
@@ -2926,8 +2926,8 @@
       "stream_url": "https://tvpass.org/live/IFCEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:38.055949Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:06.044419Z"
     },
     {
       "duration": -1,
@@ -2937,8 +2937,8 @@
       "stream_url": "https://tvpass.org/live/IFCEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:37.384536Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:50.524278Z"
     },
     {
       "duration": -1,
@@ -2948,8 +2948,8 @@
       "stream_url": "https://tvpass.org/live/InvestigationDiscoveryEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:26.956246Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:33.750431Z"
     },
     {
       "duration": -1,
@@ -2959,8 +2959,8 @@
       "stream_url": "https://tvpass.org/live/InvestigationDiscoveryEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:39.396941Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:37.419378Z"
     },
     {
       "duration": -1,
@@ -2970,8 +2970,8 @@
       "stream_url": "https://tvpass.org/live/InvestigationDiscoveryEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:38.726312Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:21.735714Z"
     },
     {
       "duration": -1,
@@ -2981,8 +2981,8 @@
       "stream_url": "https://tvpass.org/live/LogoEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:29.618510Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:36.308138Z"
     },
     {
       "duration": -1,
@@ -2992,8 +2992,8 @@
       "stream_url": "https://tvpass.org/live/LogoEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:40.766803Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:36.536940Z"
     },
     {
       "duration": -1,
@@ -3003,8 +3003,8 @@
       "stream_url": "https://tvpass.org/live/LogoEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:39.974689Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:20.856088Z"
     },
     {
       "duration": -1,
@@ -3014,8 +3014,8 @@
       "stream_url": "https://tvpass.org/live/LifetimeMoviesEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:28.287817Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:05.116115Z"
     },
     {
       "duration": -1,
@@ -3025,8 +3025,8 @@
       "stream_url": "https://tvpass.org/live/LifetimeMoviesEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:37.871908Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:34.134662Z"
     },
     {
       "duration": -1,
@@ -3036,8 +3036,8 @@
       "stream_url": "https://tvpass.org/live/LifetimeMoviesEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:37.200120Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:18.452302Z"
     },
     {
       "duration": -1,
@@ -3047,8 +3047,8 @@
       "stream_url": "https://tvpass.org/live/LifetimeEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:28.952798Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:20.802964Z"
     },
     {
       "duration": -1,
@@ -3058,8 +3058,8 @@
       "stream_url": "https://tvpass.org/live/LifetimeEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:39.286636Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:05.180001Z"
     },
     {
       "duration": -1,
@@ -3069,8 +3069,8 @@
       "stream_url": "https://tvpass.org/live/LifetimeEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:38.576259Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:03:49.654731Z"
     },
     {
       "duration": -1,
@@ -3080,8 +3080,8 @@
       "stream_url": "https://tvpass.org/live/MLBNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:32.970764Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:54.076101Z"
     },
     {
       "duration": -1,
@@ -3091,8 +3091,8 @@
       "stream_url": "https://tvpass.org/live/MLBNetwork/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:47.479383Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:12.567483Z"
     },
     {
       "duration": -1,
@@ -3102,8 +3102,8 @@
       "stream_url": "https://tvpass.org/live/MLBNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:46.788956Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:56.880086Z"
     },
     {
       "duration": -1,
@@ -3113,8 +3113,8 @@
       "stream_url": "https://tvpass.org/live/msg-madison-square-gardens/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:36.336547Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:12.323301Z"
     },
     {
       "duration": -1,
@@ -3124,8 +3124,8 @@
       "stream_url": "https://tvpass.org/live/msg-madison-square-gardens/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:54.161001Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:48.612577Z"
     },
     {
       "duration": -1,
@@ -3135,8 +3135,8 @@
       "stream_url": "https://tvpass.org/live/msg-madison-square-gardens/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:53.489772Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:32.944591Z"
     },
     {
       "duration": -1,
@@ -3146,8 +3146,8 @@
       "stream_url": "https://tvpass.org/live/msg-plus/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:37.000755Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:27.848343Z"
     },
     {
       "duration": -1,
@@ -3157,8 +3157,8 @@
       "stream_url": "https://tvpass.org/live/msg-plus/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:55.505707Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:19.683041Z"
     },
     {
       "duration": -1,
@@ -3168,8 +3168,8 @@
       "stream_url": "https://tvpass.org/live/msg-plus/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:54.832314Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:04.148204Z"
     },
     {
       "duration": -1,
@@ -3179,8 +3179,8 @@
       "stream_url": "https://tvpass.org/live/MSNBC/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:37.665151Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:43.534197Z"
     },
     {
       "duration": -1,
@@ -3190,8 +3190,8 @@
       "stream_url": "https://tvpass.org/live/MSNBC/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:56.847068Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:50.899485Z"
     },
     {
       "duration": -1,
@@ -3201,8 +3201,8 @@
       "stream_url": "https://tvpass.org/live/MSNBC/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:56.177507Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:10:35.380021Z"
     },
     {
       "duration": -1,
@@ -3212,8 +3212,8 @@
       "stream_url": "https://tvpass.org/live/mtv-2-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:38.332277Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:59.221965Z"
     },
     {
       "duration": -1,
@@ -3223,8 +3223,8 @@
       "stream_url": "https://tvpass.org/live/mtv-2-east/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:58.181528Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:21.944734Z"
     },
     {
       "duration": -1,
@@ -3234,8 +3234,8 @@
       "stream_url": "https://tvpass.org/live/mtv-2-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:57.513378Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:06.424021Z"
     },
     {
       "duration": -1,
@@ -3245,8 +3245,8 @@
       "stream_url": "https://tvpass.org/live/MTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:39.002080Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:14.748278Z"
     },
     {
       "duration": -1,
@@ -3256,8 +3256,8 @@
       "stream_url": "https://tvpass.org/live/MTVEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:59.518208Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:53.143807Z"
     },
     {
       "duration": -1,
@@ -3267,8 +3267,8 @@
       "stream_url": "https://tvpass.org/live/MTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:58.846294Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:11:37.623627Z"
     },
     {
       "duration": -1,
@@ -3278,8 +3278,8 @@
       "stream_url": "https://tvpass.org/live/marquee-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:30.289220Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:51.828177Z"
     },
     {
       "duration": -1,
@@ -3289,8 +3289,8 @@
       "stream_url": "https://tvpass.org/live/marquee-sports-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:42.108579Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:07.742648Z"
     },
     {
       "duration": -1,
@@ -3300,8 +3300,8 @@
       "stream_url": "https://tvpass.org/live/marquee-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:41.438804Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:52.056783Z"
     },
     {
       "duration": -1,
@@ -3311,8 +3311,8 @@
       "stream_url": "https://tvpass.org/live/metv-toons/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:30.959810Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:07.347409Z"
     },
     {
       "duration": -1,
@@ -3322,8 +3322,8 @@
       "stream_url": "https://tvpass.org/live/metv-toons/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:43.447171Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:38.792442Z"
     },
     {
       "duration": -1,
@@ -3333,8 +3333,8 @@
       "stream_url": "https://tvpass.org/live/metv-toons/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:42.777710Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:23.268733Z"
     },
     {
       "duration": -1,
@@ -3344,8 +3344,8 @@
       "stream_url": "https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:31.634072Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:22.870039Z"
     },
     {
       "duration": -1,
@@ -3355,8 +3355,8 @@
       "stream_url": "https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:44.783797Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:10.156770Z"
     },
     {
       "duration": -1,
@@ -3366,8 +3366,8 @@
       "stream_url": "https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:44.114021Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:05:54.484195Z"
     },
     {
       "duration": -1,
@@ -3377,8 +3377,8 @@
       "stream_url": "https://tvpass.org/live/midatlantic-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:32.301033Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:38.395375Z"
     },
     {
       "duration": -1,
@@ -3388,8 +3388,8 @@
       "stream_url": "https://tvpass.org/live/midatlantic-sports-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:46.125128Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:41.196691Z"
     },
     {
       "duration": -1,
@@ -3399,8 +3399,8 @@
       "stream_url": "https://tvpass.org/live/midatlantic-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:45.455572Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:06:25.677197Z"
     },
     {
       "duration": -1,
@@ -3410,8 +3410,8 @@
       "stream_url": "https://tvpass.org/live/monumental-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:33.648112Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:09.595499Z"
     },
     {
       "duration": -1,
@@ -3421,8 +3421,8 @@
       "stream_url": "https://tvpass.org/live/monumental-sports-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:48.813338Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:43.620186Z"
     },
     {
       "duration": -1,
@@ -3432,8 +3432,8 @@
       "stream_url": "https://tvpass.org/live/monumental-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:48.149205Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:28.110543Z"
     },
     {
       "duration": -1,
@@ -3443,8 +3443,8 @@
       "stream_url": "https://tvpass.org/live/MoreMaxEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:34.317514Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:25.281552Z"
     },
     {
       "duration": -1,
@@ -3454,8 +3454,8 @@
       "stream_url": "https://tvpass.org/live/MoreMaxEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:50.156061Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:14.838131Z"
     },
     {
       "duration": -1,
@@ -3465,8 +3465,8 @@
       "stream_url": "https://tvpass.org/live/MoreMaxEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:49.486924Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:07:59.139935Z"
     },
     {
       "duration": -1,
@@ -3476,8 +3476,8 @@
       "stream_url": "https://tvpass.org/live/Motortrend/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:34.994301Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:40.956432Z"
     },
     {
       "duration": -1,
@@ -3487,8 +3487,8 @@
       "stream_url": "https://tvpass.org/live/Motortrend/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:51.491310Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:46.046261Z"
     },
     {
       "duration": -1,
@@ -3498,8 +3498,8 @@
       "stream_url": "https://tvpass.org/live/Motortrend/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:50.827169Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:08:30.524174Z"
     },
     {
       "duration": -1,
@@ -3509,8 +3509,8 @@
       "stream_url": "https://tvpass.org/live/MovieMaxEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:35.665811Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:56.640188Z"
     },
     {
       "duration": -1,
@@ -3520,8 +3520,8 @@
       "stream_url": "https://tvpass.org/live/MovieMaxEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:52.824407Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:17.424898Z"
     },
     {
       "duration": -1,
@@ -3531,8 +3531,8 @@
       "stream_url": "https://tvpass.org/live/MovieMaxEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:52.159360Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:09:01.731945Z"
     },
     {
       "duration": -1,
@@ -3542,8 +3542,8 @@
       "stream_url": "https://tvpass.org/live/NBATV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:41.001976Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:01.284212Z"
     },
     {
       "duration": -1,
@@ -3553,8 +3553,8 @@
       "stream_url": "https://tvpass.org/live/NBATV/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:03.535261Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:27.085430Z"
     },
     {
       "duration": -1,
@@ -3564,8 +3564,8 @@
       "stream_url": "https://tvpass.org/live/NBATV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:02.861379Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:11.398357Z"
     },
     {
       "duration": -1,
@@ -3575,8 +3575,8 @@
       "stream_url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:41.667176Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:16.812558Z"
     },
     {
       "duration": -1,
@@ -3586,8 +3586,8 @@
       "stream_url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:04.868734Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:58.443124Z"
     },
     {
       "duration": -1,
@@ -3597,8 +3597,8 @@
       "stream_url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:04.205038Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:42.772173Z"
     },
     {
       "duration": -1,
@@ -3608,8 +3608,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-bay-area/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:43.009702Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:47.843067Z"
     },
     {
       "duration": -1,
@@ -3619,8 +3619,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-bay-area/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:07.546086Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:01.015526Z"
     },
     {
       "duration": -1,
@@ -3630,8 +3630,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-bay-area/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:06.872627Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:45.334595Z"
     },
     {
       "duration": -1,
@@ -3641,8 +3641,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-boston/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:43.683413Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:03.524174Z"
     },
     {
       "duration": -1,
@@ -3652,8 +3652,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-boston/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:08.882998Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:32.080922Z"
     },
     {
       "duration": -1,
@@ -3663,8 +3663,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-boston/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:08.213089Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:16.534699Z"
     },
     {
       "duration": -1,
@@ -3674,8 +3674,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-california/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:44.353980Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:19.036200Z"
     },
     {
       "duration": -1,
@@ -3685,8 +3685,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-california/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:10.215074Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:03.126561Z"
     },
     {
       "duration": -1,
@@ -3696,8 +3696,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-california/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:09.547166Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:47.601237Z"
     },
     {
       "duration": -1,
@@ -3707,8 +3707,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-philadelphia/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:45.024948Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:34.720399Z"
     },
     {
       "duration": -1,
@@ -3718,8 +3718,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-philadelphia/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:11.557595Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:34.339961Z"
     },
     {
       "duration": -1,
@@ -3729,8 +3729,8 @@
       "stream_url": "https://tvpass.org/live/nbc-sports-philadelphia/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:10.879428Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:18.649627Z"
     },
     {
       "duration": -1,
@@ -3740,8 +3740,8 @@
       "stream_url": "https://tvpass.org/live/NFLNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:47.022425Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:21.272731Z"
     },
     {
       "duration": -1,
@@ -3751,8 +3751,8 @@
       "stream_url": "https://tvpass.org/live/NFLNetwork/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:15.581431Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:08.116195Z"
     },
     {
       "duration": -1,
@@ -3762,8 +3762,8 @@
       "stream_url": "https://tvpass.org/live/NFLNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:14.907678Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:52.597922Z"
     },
     {
       "duration": -1,
@@ -3773,8 +3773,8 @@
       "stream_url": "https://tvpass.org/live/NFLRedZone/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:47.688417Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:36.916192Z"
     },
     {
       "duration": -1,
@@ -3784,8 +3784,8 @@
       "stream_url": "https://tvpass.org/live/NFLRedZone/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:16.915352Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:39.319324Z"
     },
     {
       "duration": -1,
@@ -3795,8 +3795,8 @@
       "stream_url": "https://tvpass.org/live/NFLRedZone/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:16.251374Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:23.636906Z"
     },
     {
       "duration": -1,
@@ -3806,8 +3806,8 @@
       "stream_url": "https://tvpass.org/live/NHLNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:48.360300Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:52.602480Z"
     },
     {
       "duration": -1,
@@ -3817,8 +3817,8 @@
       "stream_url": "https://tvpass.org/live/NHLNetwork/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:18.256122Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:10.685382Z"
     },
     {
       "duration": -1,
@@ -3828,19 +3828,8 @@
       "stream_url": "https://tvpass.org/live/NHLNetwork/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:17.586208Z"
-    },
-    {
-      "duration": -1,
-      "attributes": "tvg-id=\"abc-wabc-new-york-ny\" tvg-name=\"ABC (WABC) New York, NY\" group-title=\"Live\",ABC (WABC) New York",
-      "name": "NY",
-      "original_url": "https://tvpass.org/live/WNET/sd",
-      "stream_url": "https://tvpass.org/live/WNET/sd",
-      "logo": "",
-      "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:31.174581Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:18:55.000600Z"
     },
     {
       "duration": -1,
@@ -3850,8 +3839,8 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:39.278351Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:05.184099Z"
     },
     {
       "duration": -1,
@@ -3861,8 +3850,8 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:09.554303Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:15:47.601330Z"
     },
     {
       "duration": -1,
@@ -3872,8 +3861,8 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:42.339090Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:32.324103Z"
     },
     {
       "duration": -1,
@@ -3883,30 +3872,19 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:53.049216Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:41.716420Z"
     },
     {
       "duration": -1,
-      "attributes": "tvg-id=\"nbc-wnbc-new-york-ny\" tvg-name=\"NBC (WNBC) New York, NY HD\" group-title=\"Live\",NBC (WNBC) New York",
-      "name": "NY HD",
-      "original_url": "https://tvpass.org/live/WNET/hd",
-      "stream_url": "https://tvpass.org/live/WNET/hd",
+      "attributes": "tvg-id=\"abc-wabc-new-york-ny\" tvg-name=\"ABC (WABC) New York, NY\" group-title=\"Live\",ABC (WABC) New York",
+      "name": "NY",
+      "original_url": "https://tvpass.org/live/WNET/sd",
+      "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:06.208535Z"
-    },
-    {
-      "duration": -1,
-      "attributes": "tvg-id=\"pbs-wnet-new-york-ny\" tvg-name=\"PBS (WNET) New York, NY HD\" group-title=\"Live\",PBS (WNET) New York",
-      "name": "NY HD",
-      "original_url": "https://tvpass.org/live/WNET/hd",
-      "stream_url": "https://tvpass.org/live/WNET/hd",
-      "logo": "",
-      "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:27.623272Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:30.212128Z"
     },
     {
       "duration": -1,
@@ -3916,8 +3894,8 @@
       "stream_url": "https://tvpass.org/live/WNET/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:39.977107Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:20.855967Z"
     },
     {
       "duration": -1,
@@ -3927,8 +3905,8 @@
       "stream_url": "https://tvpass.org/live/WNET/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:04.299900Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:42.774675Z"
     },
     {
       "duration": -1,
@@ -3938,30 +3916,30 @@
       "stream_url": "https://tvpass.org/live/WNET/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:04.564406Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:06.791531Z"
     },
     {
       "duration": -1,
-      "attributes": "tvg-id=\"nbc-wnbc-new-york-ny\" tvg-name=\"NBC (WNBC) New York, NY SD\" group-title=\"Live\",NBC (WNBC) New York",
-      "name": "NY SD",
-      "original_url": "https://tvpass.org/live/WNET/sd",
-      "stream_url": "https://tvpass.org/live/WNET/sd",
+      "attributes": "tvg-id=\"nbc-wnbc-new-york-ny\" tvg-name=\"NBC (WNBC) New York, NY HD\" group-title=\"Live\",NBC (WNBC) New York",
+      "name": "NY HD",
+      "original_url": "https://tvpass.org/live/WNET/hd",
+      "stream_url": "https://tvpass.org/live/WNET/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:05.538581Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:29.814653Z"
     },
     {
       "duration": -1,
-      "attributes": "tvg-id=\"pbs-wnet-new-york-ny\" tvg-name=\"PBS (WNET) New York, NY SD\" group-title=\"Live\",PBS (WNET) New York",
-      "name": "NY SD",
-      "original_url": "https://tvpass.org/live/WNET/sd",
-      "stream_url": "https://tvpass.org/live/WNET/sd",
+      "attributes": "tvg-id=\"pbs-wnet-new-york-ny\" tvg-name=\"PBS (WNET) New York, NY HD\" group-title=\"Live\",PBS (WNET) New York",
+      "name": "NY HD",
+      "original_url": "https://tvpass.org/live/WNET/hd",
+      "stream_url": "https://tvpass.org/live/WNET/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:26.949384Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:49.249934Z"
     },
     {
       "duration": -1,
@@ -3971,8 +3949,8 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:10:39.278196Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:04:05.171717Z"
     },
     {
       "duration": -1,
@@ -3982,8 +3960,8 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:03.628018Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:13:27.085517Z"
     },
     {
       "duration": -1,
@@ -3993,8 +3971,30 @@
       "stream_url": "https://tvpass.org/live/WNET/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:03.892302Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:51.273895Z"
+    },
+    {
+      "duration": -1,
+      "attributes": "tvg-id=\"nbc-wnbc-new-york-ny\" tvg-name=\"NBC (WNBC) New York, NY SD\" group-title=\"Live\",NBC (WNBC) New York",
+      "name": "NY SD",
+      "original_url": "https://tvpass.org/live/WNET/sd",
+      "stream_url": "https://tvpass.org/live/WNET/sd",
+      "logo": "",
+      "group": "Live",
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:14:14.130762Z"
+    },
+    {
+      "duration": -1,
+      "attributes": "tvg-id=\"pbs-wnet-new-york-ny\" tvg-name=\"PBS (WNET) New York, NY SD\" group-title=\"Live\",PBS (WNET) New York",
+      "name": "NY SD",
+      "original_url": "https://tvpass.org/live/WNET/sd",
+      "stream_url": "https://tvpass.org/live/WNET/sd",
+      "logo": "",
+      "group": "Live",
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:33.724671Z"
     },
     {
       "duration": -1,
@@ -4004,8 +4004,8 @@
       "stream_url": "https://tvpass.org/live/NationalGeographicEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:39.666669Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:30.268938Z"
     },
     {
       "duration": -1,
@@ -4015,8 +4015,8 @@
       "stream_url": "https://tvpass.org/live/NationalGeographicEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:00.853385Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:24.502698Z"
     },
     {
       "duration": -1,
@@ -4026,8 +4026,8 @@
       "stream_url": "https://tvpass.org/live/NationalGeographicEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:00.188696Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:08.816072Z"
     },
     {
       "duration": -1,
@@ -4037,8 +4037,8 @@
       "stream_url": "https://tvpass.org/live/NationalGeographicWildEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:40.334337Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:45.775309Z"
     },
     {
       "duration": -1,
@@ -4048,8 +4048,8 @@
       "stream_url": "https://tvpass.org/live/NationalGeographicWildEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:02.190921Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:55.710190Z"
     },
     {
       "duration": -1,
@@ -4059,8 +4059,8 @@
       "stream_url": "https://tvpass.org/live/NationalGeographicWildEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:01.520089Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:12:40.188189Z"
     },
     {
       "duration": -1,
@@ -4070,8 +4070,8 @@
       "stream_url": "https://tvpass.org/live/new-england-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:45.689846Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:50.228021Z"
     },
     {
       "duration": -1,
@@ -4081,8 +4081,8 @@
       "stream_url": "https://tvpass.org/live/new-england-sports-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:12.899329Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:05.709053Z"
     },
     {
       "duration": -1,
@@ -4092,8 +4092,8 @@
       "stream_url": "https://tvpass.org/live/new-england-sports-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:12.228145Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:16:50.023966Z"
     },
     {
       "duration": -1,
@@ -4103,8 +4103,8 @@
       "stream_url": "https://tvpass.org/live/NewsmaxTV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:46.357730Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:05.747598Z"
     },
     {
       "duration": -1,
@@ -4114,8 +4114,8 @@
       "stream_url": "https://tvpass.org/live/NewsmaxTV/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:14.237143Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:37.074286Z"
     },
     {
       "duration": -1,
@@ -4125,8 +4125,8 @@
       "stream_url": "https://tvpass.org/live/NewsmaxTV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:13.564179Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:17:21.397929Z"
     },
     {
       "duration": -1,
@@ -4136,8 +4136,8 @@
       "stream_url": "https://tvpass.org/live/NickJrEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:49.031335Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:08.290399Z"
     },
     {
       "duration": -1,
@@ -4147,8 +4147,8 @@
       "stream_url": "https://tvpass.org/live/NickJrEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:19.582538Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:42.029743Z"
     },
     {
       "duration": -1,
@@ -4158,8 +4158,8 @@
       "stream_url": "https://tvpass.org/live/NickJrEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:18.919991Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:26.372701Z"
     },
     {
       "duration": -1,
@@ -4169,8 +4169,8 @@
       "stream_url": "https://tvpass.org/live/NickelodeonEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:49.705531Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:23.813909Z"
     },
     {
       "duration": -1,
@@ -4180,8 +4180,8 @@
       "stream_url": "https://tvpass.org/live/NickelodeonEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:20.928524Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:13.230508Z"
     },
     {
       "duration": -1,
@@ -4191,8 +4191,8 @@
       "stream_url": "https://tvpass.org/live/NickelodeonEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:20.257843Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:19:57.545592Z"
     },
     {
       "duration": -1,
@@ -4202,8 +4202,8 @@
       "stream_url": "https://tvpass.org/live/NicktoonsEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:50.372398Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:39.335733Z"
     },
     {
       "duration": -1,
@@ -4213,8 +4213,8 @@
       "stream_url": "https://tvpass.org/live/NicktoonsEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:22.272071Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:44.286118Z"
     },
     {
       "duration": -1,
@@ -4224,8 +4224,8 @@
       "stream_url": "https://tvpass.org/live/NicktoonsEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:21.602427Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:28.755358Z"
     },
     {
       "duration": -1,
@@ -4235,8 +4235,8 @@
       "stream_url": "https://tvpass.org/live/OWNEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:51.042831Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:55.004147Z"
     },
     {
       "duration": -1,
@@ -4246,8 +4246,8 @@
       "stream_url": "https://tvpass.org/live/OWNEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:23.609835Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:15.650481Z"
     },
     {
       "duration": -1,
@@ -4257,8 +4257,8 @@
       "stream_url": "https://tvpass.org/live/OWNEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:22.936748Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:20:59.964198Z"
     },
     {
       "duration": -1,
@@ -4268,8 +4268,8 @@
       "stream_url": "https://tvpass.org/live/OutdoorChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:51.707817Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:10.516151Z"
     },
     {
       "duration": -1,
@@ -4279,8 +4279,8 @@
       "stream_url": "https://tvpass.org/live/OutdoorChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:24.943973Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:47.026952Z"
     },
     {
       "duration": -1,
@@ -4290,8 +4290,8 @@
       "stream_url": "https://tvpass.org/live/OutdoorChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:24.280211Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:21:31.332372Z"
     },
     {
       "duration": -1,
@@ -4301,8 +4301,8 @@
       "stream_url": "https://tvpass.org/live/OxygenEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:52.375499Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:26.035439Z"
     },
     {
       "duration": -1,
@@ -4312,8 +4312,8 @@
       "stream_url": "https://tvpass.org/live/OxygenEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:26.278988Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:18.039652Z"
     },
     {
       "duration": -1,
@@ -4323,8 +4323,8 @@
       "stream_url": "https://tvpass.org/live/OxygenEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:25.607806Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:22:02.532175Z"
     },
     {
       "duration": -1,
@@ -4334,8 +4334,8 @@
       "stream_url": "https://tvpass.org/live/Reelz/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:53.715088Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:57.416993Z"
     },
     {
       "duration": -1,
@@ -4345,8 +4345,8 @@
       "stream_url": "https://tvpass.org/live/Reelz/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:28.957130Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:20.295041Z"
     },
     {
       "duration": -1,
@@ -4356,8 +4356,8 @@
       "stream_url": "https://tvpass.org/live/Reelz/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:28.293053Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:04.781090Z"
     },
     {
       "duration": -1,
@@ -4367,8 +4367,8 @@
       "stream_url": "https://tvpass.org/live/SECN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:55.062821Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:28.634203Z"
     },
     {
       "duration": -1,
@@ -4378,8 +4378,8 @@
       "stream_url": "https://tvpass.org/live/SECN/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:31.626140Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:22.554349Z"
     },
     {
       "duration": -1,
@@ -4389,8 +4389,8 @@
       "stream_url": "https://tvpass.org/live/SECN/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:30.961731Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:07.025386Z"
     },
     {
       "duration": -1,
@@ -4400,8 +4400,8 @@
       "stream_url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:57.067671Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:15.549756Z"
     },
     {
       "duration": -1,
@@ -4411,8 +4411,8 @@
       "stream_url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:35.638330Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:56.374632Z"
     },
     {
       "duration": -1,
@@ -4422,8 +4422,8 @@
       "stream_url": "https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:34.973034Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:40.687177Z"
     },
     {
       "duration": -1,
@@ -4433,8 +4433,8 @@
       "stream_url": "https://tvpass.org/live/Science/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:54.391188Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:13.102568Z"
     },
     {
       "duration": -1,
@@ -4444,8 +4444,8 @@
       "stream_url": "https://tvpass.org/live/Science/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:30.297842Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:51.502610Z"
     },
     {
       "duration": -1,
@@ -4455,8 +4455,8 @@
       "stream_url": "https://tvpass.org/live/Science/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:29.627892Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:23:35.818317Z"
     },
     {
       "duration": -1,
@@ -4466,8 +4466,8 @@
       "stream_url": "https://tvpass.org/live/Showtime2East/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:56.397046Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:00.012640Z"
     },
     {
       "duration": -1,
@@ -4477,8 +4477,8 @@
       "stream_url": "https://tvpass.org/live/Showtime2East/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:34.308361Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:24.983480Z"
     },
     {
       "duration": -1,
@@ -4488,8 +4488,8 @@
       "stream_url": "https://tvpass.org/live/Showtime2East/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:33.639481Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:25:09.290577Z"
     },
     {
       "duration": -1,
@@ -4499,8 +4499,8 @@
       "stream_url": "https://tvpass.org/live/ShowtimeEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:55.726642Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:44.320976Z"
     },
     {
       "duration": -1,
@@ -4510,8 +4510,8 @@
       "stream_url": "https://tvpass.org/live/ShowtimeEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:32.968298Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:53.614313Z"
     },
     {
       "duration": -1,
@@ -4521,8 +4521,8 @@
       "stream_url": "https://tvpass.org/live/ShowtimeEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:32.297749Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:24:38.074374Z"
     },
     {
       "duration": -1,
@@ -4532,8 +4532,8 @@
       "stream_url": "https://tvpass.org/live/space-city-home-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:57.741106Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:31.237329Z"
     },
     {
       "duration": -1,
@@ -4543,8 +4543,8 @@
       "stream_url": "https://tvpass.org/live/space-city-home-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:36.980432Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:27.415207Z"
     },
     {
       "duration": -1,
@@ -4554,8 +4554,8 @@
       "stream_url": "https://tvpass.org/live/space-city-home-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:36.308839Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:11.894168Z"
     },
     {
       "duration": -1,
@@ -4565,8 +4565,8 @@
       "stream_url": "https://tvpass.org/live/spectrum-sportsnet-la/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:58.410537Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:46.923338Z"
     },
     {
       "duration": -1,
@@ -4576,8 +4576,8 @@
       "stream_url": "https://tvpass.org/live/spectrum-sportsnet-la/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:38.326572Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:58.622260Z"
     },
     {
       "duration": -1,
@@ -4587,8 +4587,8 @@
       "stream_url": "https://tvpass.org/live/spectrum-sportsnet-la/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:37.654543Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:26:42.935971Z"
     },
     {
       "duration": -1,
@@ -4598,8 +4598,8 @@
       "stream_url": "https://tvpass.org/live/spectrum-sportsnet/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:59.074022Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:02.612311Z"
     },
     {
       "duration": -1,
@@ -4609,8 +4609,8 @@
       "stream_url": "https://tvpass.org/live/spectrum-sportsnet/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:39.672497Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:29.662125Z"
     },
     {
       "duration": -1,
@@ -4620,8 +4620,8 @@
       "stream_url": "https://tvpass.org/live/spectrum-sportsnet/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:38.997922Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:14.142511Z"
     },
     {
       "duration": -1,
@@ -4631,8 +4631,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:59.745214Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:18.138939Z"
     },
     {
       "duration": -1,
@@ -4642,8 +4642,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-east/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:41.007609Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:00.700157Z"
     },
     {
       "duration": -1,
@@ -4653,8 +4653,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-east/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:40.343960Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:27:45.182315Z"
     },
     {
       "duration": -1,
@@ -4664,8 +4664,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-360/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:00.414764Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:33.655908Z"
     },
     {
       "duration": -1,
@@ -4675,8 +4675,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-360/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:42.348588Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:31.907752Z"
     },
     {
       "duration": -1,
@@ -4686,8 +4686,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-360/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:41.678399Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:16.380143Z"
     },
     {
       "duration": -1,
@@ -4697,8 +4697,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-one/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:01.078783Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:49.178739Z"
     },
     {
       "duration": -1,
@@ -4708,8 +4708,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-one/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:43.674634Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:03.117698Z"
     },
     {
       "duration": -1,
@@ -4719,8 +4719,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-one/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:43.011942Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:28:47.427876Z"
     },
     {
       "duration": -1,
@@ -4730,8 +4730,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-ontario/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:01.752323Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:04.705996Z"
     },
     {
       "duration": -1,
@@ -4741,8 +4741,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-ontario/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:45.024799Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:34.335393Z"
     },
     {
       "duration": -1,
@@ -4752,8 +4752,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-ontario/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:44.345569Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:18.810478Z"
     },
     {
       "duration": -1,
@@ -4763,8 +4763,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-pacific/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:02.419562Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:20.228831Z"
     },
     {
       "duration": -1,
@@ -4774,8 +4774,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-pacific/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:46.367648Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:05.703012Z"
     },
     {
       "duration": -1,
@@ -4785,8 +4785,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-pacific/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:45.698517Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:29:50.020031Z"
     },
     {
       "duration": -1,
@@ -4796,8 +4796,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-pittsburgh/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:03.089516Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:35.754523Z"
     },
     {
       "duration": -1,
@@ -4807,8 +4807,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-pittsburgh/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:47.702751Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:36.921341Z"
     },
     {
       "duration": -1,
@@ -4818,8 +4818,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-pittsburgh/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:47.031517Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:21.238482Z"
     },
     {
       "duration": -1,
@@ -4829,8 +4829,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-west/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:03.753844Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:51.273758Z"
     },
     {
       "duration": -1,
@@ -4840,8 +4840,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-west/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:49.036565Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:08.290301Z"
     },
     {
       "duration": -1,
@@ -4851,8 +4851,8 @@
       "stream_url": "https://tvpass.org/live/sportsnet-west/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:48.372531Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:30:52.602588Z"
     },
     {
       "duration": -1,
@@ -4862,8 +4862,8 @@
       "stream_url": "https://tvpass.org/live/StarzEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:04.421431Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:06.791664Z"
     },
     {
       "duration": -1,
@@ -4873,8 +4873,8 @@
       "stream_url": "https://tvpass.org/live/StarzEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:50.372997Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:39.324172Z"
     },
     {
       "duration": -1,
@@ -4884,8 +4884,8 @@
       "stream_url": "https://tvpass.org/live/StarzEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:49.700325Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:23.813748Z"
     },
     {
       "duration": -1,
@@ -4895,8 +4895,8 @@
       "stream_url": "https://tvpass.org/live/SundanceTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:05.086770Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:22.311704Z"
     },
     {
       "duration": -1,
@@ -4906,8 +4906,8 @@
       "stream_url": "https://tvpass.org/live/SundanceTVEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:51.716525Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:10.684191Z"
     },
     {
       "duration": -1,
@@ -4917,8 +4917,8 @@
       "stream_url": "https://tvpass.org/live/SundanceTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:51.042696Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:31:55.008574Z"
     },
     {
       "duration": -1,
@@ -4928,8 +4928,8 @@
       "stream_url": "https://tvpass.org/live/SyfyEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:05.751964Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:37.826149Z"
     },
     {
       "duration": -1,
@@ -4939,8 +4939,8 @@
       "stream_url": "https://tvpass.org/live/SyfyEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:53.049077Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:41.716197Z"
     },
     {
       "duration": -1,
@@ -4950,8 +4950,8 @@
       "stream_url": "https://tvpass.org/live/SyfyEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:52.386049Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:26.203755Z"
     },
     {
       "duration": -1,
@@ -4961,8 +4961,8 @@
       "stream_url": "https://tvpass.org/live/TBSEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:06.422219Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:53.508264Z"
     },
     {
       "duration": -1,
@@ -4972,8 +4972,8 @@
       "stream_url": "https://tvpass.org/live/TBSEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:54.391334Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:13.102428Z"
     },
     {
       "duration": -1,
@@ -4983,8 +4983,8 @@
       "stream_url": "https://tvpass.org/live/TBSEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:53.721856Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:32:57.416731Z"
     },
     {
       "duration": -1,
@@ -4994,8 +4994,8 @@
       "stream_url": "https://tvpass.org/live/TLCEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:10.442369Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:27.108147Z"
     },
     {
       "duration": -1,
@@ -5005,8 +5005,8 @@
       "stream_url": "https://tvpass.org/live/TLCEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:02.415901Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:20.228581Z"
     },
     {
       "duration": -1,
@@ -5016,8 +5016,8 @@
       "stream_url": "https://tvpass.org/live/TLCEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:01.743595Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:04.706133Z"
     },
     {
       "duration": -1,
@@ -5027,8 +5027,8 @@
       "stream_url": "https://tvpass.org/live/TheMovieChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:11.107652Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:42.808576Z"
     },
     {
       "duration": -1,
@@ -5038,8 +5038,8 @@
       "stream_url": "https://tvpass.org/live/TheMovieChannelEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:03.759883Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:51.260157Z"
     },
     {
       "duration": -1,
@@ -5049,8 +5049,8 @@
       "stream_url": "https://tvpass.org/live/TheMovieChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:03.086200Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:36:35.754277Z"
     },
     {
       "duration": -1,
@@ -5060,8 +5060,8 @@
       "stream_url": "https://tvpass.org/live/TNTEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:11.773288Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:58.330920Z"
     },
     {
       "duration": -1,
@@ -5071,8 +5071,8 @@
       "stream_url": "https://tvpass.org/live/TNTEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:05.093343Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:22.308290Z"
     },
     {
       "duration": -1,
@@ -5082,8 +5082,8 @@
       "stream_url": "https://tvpass.org/live/TNTEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:04.429539Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:06.787233Z"
     },
     {
       "duration": -1,
@@ -5093,8 +5093,8 @@
       "stream_url": "https://tvpass.org/live/tsn1/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:13.789030Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:44.891907Z"
     },
     {
       "duration": -1,
@@ -5104,8 +5104,8 @@
       "stream_url": "https://tvpass.org/live/tsn1/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:09.105528Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:55.910030Z"
     },
     {
       "duration": -1,
@@ -5115,8 +5115,8 @@
       "stream_url": "https://tvpass.org/live/tsn1/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:08.434767Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:40.386544Z"
     },
     {
       "duration": -1,
@@ -5126,8 +5126,8 @@
       "stream_url": "https://tvpass.org/live/tsn2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:14.460146Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:00.414541Z"
     },
     {
       "duration": -1,
@@ -5137,8 +5137,8 @@
       "stream_url": "https://tvpass.org/live/tsn2/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:10.448894Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:27.108281Z"
     },
     {
       "duration": -1,
@@ -5148,8 +5148,8 @@
       "stream_url": "https://tvpass.org/live/tsn2/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:09.779186Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:11.591215Z"
     },
     {
       "duration": -1,
@@ -5159,8 +5159,8 @@
       "stream_url": "https://tvpass.org/live/tsn3/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:15.130329Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:15.943788Z"
     },
     {
       "duration": -1,
@@ -5170,8 +5170,8 @@
       "stream_url": "https://tvpass.org/live/tsn3/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:11.783411Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:58.331025Z"
     },
     {
       "duration": -1,
@@ -5181,8 +5181,8 @@
       "stream_url": "https://tvpass.org/live/tsn3/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:11.112759Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:42.808364Z"
     },
     {
       "duration": -1,
@@ -5192,8 +5192,8 @@
       "stream_url": "https://tvpass.org/live/tsn4/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:15.794539Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:31.469677Z"
     },
     {
       "duration": -1,
@@ -5203,8 +5203,8 @@
       "stream_url": "https://tvpass.org/live/tsn4/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:13.117281Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:29.372353Z"
     },
     {
       "duration": -1,
@@ -5214,8 +5214,8 @@
       "stream_url": "https://tvpass.org/live/tsn4/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:12.453331Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:13.854774Z"
     },
     {
       "duration": -1,
@@ -5225,8 +5225,8 @@
       "stream_url": "https://tvpass.org/live/tsn5/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:16.462899Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:47.153367Z"
     },
     {
       "duration": -1,
@@ -5236,8 +5236,8 @@
       "stream_url": "https://tvpass.org/live/tsn5/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:14.451146Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:00.414662Z"
     },
     {
       "duration": -1,
@@ -5247,8 +5247,8 @@
       "stream_url": "https://tvpass.org/live/tsn5/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:13.779998Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:44.891990Z"
     },
     {
       "duration": -1,
@@ -5258,8 +5258,8 @@
       "stream_url": "https://tvpass.org/live/tv-land-eastern/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:17.792681Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:18.522379Z"
     },
     {
       "duration": -1,
@@ -5269,8 +5269,8 @@
       "stream_url": "https://tvpass.org/live/tv-land-eastern/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:17.135376Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:02.836480Z"
     },
     {
       "duration": -1,
@@ -5280,8 +5280,8 @@
       "stream_url": "https://tvpass.org/live/tv-land-eastern/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:16.471645Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:47.153287Z"
     },
     {
       "duration": -1,
@@ -5291,8 +5291,8 @@
       "stream_url": "https://tvpass.org/live/TVOne/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:18.463194Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:34.052085Z"
     },
     {
       "duration": -1,
@@ -5302,8 +5302,8 @@
       "stream_url": "https://tvpass.org/live/TVOne/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:18.477528Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:34.063655Z"
     },
     {
       "duration": -1,
@@ -5313,8 +5313,8 @@
       "stream_url": "https://tvpass.org/live/TVOne/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:17.807137Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:18.521972Z"
     },
     {
       "duration": -1,
@@ -5324,8 +5324,8 @@
       "stream_url": "https://tvpass.org/live/TeenNickEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:07.093747Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:09.191109Z"
     },
     {
       "duration": -1,
@@ -5335,8 +5335,8 @@
       "stream_url": "https://tvpass.org/live/TeenNickEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:55.731049Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:44.321057Z"
     },
     {
       "duration": -1,
@@ -5346,8 +5346,8 @@
       "stream_url": "https://tvpass.org/live/TeenNickEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:55.056547Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:33:28.634106Z"
     },
     {
       "duration": -1,
@@ -5357,8 +5357,8 @@
       "stream_url": "https://tvpass.org/live/TelemundoEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:07.766951Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:24.873474Z"
     },
     {
       "duration": -1,
@@ -5368,8 +5368,8 @@
       "stream_url": "https://tvpass.org/live/TelemundoEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:57.074554Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:15.549906Z"
     },
     {
       "duration": -1,
@@ -5379,8 +5379,8 @@
       "stream_url": "https://tvpass.org/live/TelemundoEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:56.404337Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:00.012759Z"
     },
     {
       "duration": -1,
@@ -5390,8 +5390,8 @@
       "stream_url": "https://tvpass.org/live/CookingChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:08.438652Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:40.386287Z"
     },
     {
       "duration": -1,
@@ -5401,8 +5401,8 @@
       "stream_url": "https://tvpass.org/live/CookingChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:58.406349Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:46.923953Z"
     },
     {
       "duration": -1,
@@ -5412,8 +5412,8 @@
       "stream_url": "https://tvpass.org/live/CookingChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:57.738529Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:34:31.237207Z"
     },
     {
       "duration": -1,
@@ -5423,8 +5423,8 @@
       "stream_url": "https://tvpass.org/live/TennisChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:09.108153Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:55.910129Z"
     },
     {
       "duration": -1,
@@ -5434,8 +5434,8 @@
       "stream_url": "https://tvpass.org/live/TennisChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:59.737338Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:18.132170Z"
     },
     {
       "duration": -1,
@@ -5445,8 +5445,8 @@
       "stream_url": "https://tvpass.org/live/TennisChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:11:59.070994Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:02.612448Z"
     },
     {
       "duration": -1,
@@ -5456,8 +5456,8 @@
       "stream_url": "https://tvpass.org/live/TheWeatherChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:09.772129Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:39:11.591350Z"
     },
     {
       "duration": -1,
@@ -5467,8 +5467,8 @@
       "stream_url": "https://tvpass.org/live/TheWeatherChannel/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:01.079390Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:49.178914Z"
     },
     {
       "duration": -1,
@@ -5478,8 +5478,8 @@
       "stream_url": "https://tvpass.org/live/TheWeatherChannel/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:00.408040Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:35:33.655799Z"
     },
     {
       "duration": -1,
@@ -5489,8 +5489,8 @@
       "stream_url": "https://tvpass.org/live/TravelChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:12.443817Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:13.854652Z"
     },
     {
       "duration": -1,
@@ -5500,8 +5500,8 @@
       "stream_url": "https://tvpass.org/live/TravelChannelEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:06.434275Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:53.508171Z"
     },
     {
       "duration": -1,
@@ -5511,8 +5511,8 @@
       "stream_url": "https://tvpass.org/live/TravelChannelEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:05.764295Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:37:37.827931Z"
     },
     {
       "duration": -1,
@@ -5522,8 +5522,8 @@
       "stream_url": "https://tvpass.org/live/TCMEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:17.127216Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:02.836566Z"
     },
     {
       "duration": -1,
@@ -5533,8 +5533,8 @@
       "stream_url": "https://tvpass.org/live/TCMEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:15.801479Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:31.469590Z"
     },
     {
       "duration": -1,
@@ -5544,8 +5544,8 @@
       "stream_url": "https://tvpass.org/live/TCMEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:15.121547Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:41:15.943958Z"
     },
     {
       "duration": -1,
@@ -5555,8 +5555,8 @@
       "stream_url": "https://tvpass.org/live/USANetworkEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:20.476661Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:20.916956Z"
     },
     {
       "duration": -1,
@@ -5566,8 +5566,8 @@
       "stream_url": "https://tvpass.org/live/USANetworkEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:22.491153Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:07.634098Z"
     },
     {
       "duration": -1,
@@ -5577,8 +5577,8 @@
       "stream_url": "https://tvpass.org/live/USANetworkEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:21.821943Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:52.124156Z"
     },
     {
       "duration": -1,
@@ -5588,8 +5588,8 @@
       "stream_url": "https://tvpass.org/live/UniversalKidsEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:19.136012Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:49.700805Z"
     },
     {
       "duration": -1,
@@ -5599,8 +5599,8 @@
       "stream_url": "https://tvpass.org/live/UniversalKidsEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:19.806018Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:05.391187Z"
     },
     {
       "duration": -1,
@@ -5610,8 +5610,8 @@
       "stream_url": "https://tvpass.org/live/UniversalKidsEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:19.141078Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:42:49.700170Z"
     },
     {
       "duration": -1,
@@ -5621,8 +5621,8 @@
       "stream_url": "https://tvpass.org/live/UnivisionEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:19.809597Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:05.391355Z"
     },
     {
       "duration": -1,
@@ -5632,8 +5632,8 @@
       "stream_url": "https://tvpass.org/live/UnivisionEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:21.148522Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:36.433205Z"
     },
     {
       "duration": -1,
@@ -5643,8 +5643,8 @@
       "stream_url": "https://tvpass.org/live/UnivisionEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:20.477511Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:20.917719Z"
     },
     {
       "duration": -1,
@@ -5654,8 +5654,8 @@
       "stream_url": "https://tvpass.org/live/VH1East/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:21.148293Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:36.436955Z"
     },
     {
       "duration": -1,
@@ -5665,8 +5665,8 @@
       "stream_url": "https://tvpass.org/live/VH1East/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:23.826285Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:38.841644Z"
     },
     {
       "duration": -1,
@@ -5676,8 +5676,8 @@
       "stream_url": "https://tvpass.org/live/VH1East/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:23.155564Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:23.316963Z"
     },
     {
       "duration": -1,
@@ -5687,8 +5687,8 @@
       "stream_url": "https://tvpass.org/live/VICETV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:21.813416Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:43:52.124365Z"
     },
     {
       "duration": -1,
@@ -5698,8 +5698,8 @@
       "stream_url": "https://tvpass.org/live/VICETV/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:25.160214Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:09.878015Z"
     },
     {
       "duration": -1,
@@ -5709,8 +5709,8 @@
       "stream_url": "https://tvpass.org/live/VICETV/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:24.496527Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:54.358570Z"
     },
     {
       "duration": -1,
@@ -5720,8 +5720,8 @@
       "stream_url": "https://tvpass.org/live/WeTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:22.481199Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:07.643393Z"
     },
     {
       "duration": -1,
@@ -5731,8 +5731,8 @@
       "stream_url": "https://tvpass.org/live/WeTVEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:26.498541Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:40.914998Z"
     },
     {
       "duration": -1,
@@ -5742,8 +5742,8 @@
       "stream_url": "https://tvpass.org/live/WeTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:25.826762Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:25.388153Z"
     },
     {
       "duration": -1,
@@ -5753,8 +5753,8 @@
       "stream_url": "https://tvpass.org/live/WPIX/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:23.146099Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:23.317078Z"
     },
     {
       "duration": -1,
@@ -5764,8 +5764,8 @@
       "stream_url": "https://tvpass.org/live/WPIX/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:27.834349Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:12.134942Z"
     },
     {
       "duration": -1,
@@ -5775,8 +5775,8 @@
       "stream_url": "https://tvpass.org/live/WPIX/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:27.169467Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:56.615640Z"
     },
     {
       "duration": -1,
@@ -5786,8 +5786,8 @@
       "stream_url": "https://tvpass.org/live/yes-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:23.811365Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:38.841765Z"
     },
     {
       "duration": -1,
@@ -5797,8 +5797,8 @@
       "stream_url": "https://tvpass.org/live/yes-network/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:29.167655Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:43.342976Z"
     },
     {
       "duration": -1,
@@ -5808,8 +5808,8 @@
       "stream_url": "https://tvpass.org/live/yes-network/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:28.502386Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:27.819824Z"
     },
     {
       "duration": -1,
@@ -5819,8 +5819,8 @@
       "stream_url": "https://tvpass.org/live/truTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:13.114963Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:40:29.372248Z"
     },
     {
       "duration": -1,
@@ -5830,8 +5830,8 @@
       "stream_url": "https://tvpass.org/live/truTVEast/hd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:07.766343Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:24.700357Z"
     },
     {
       "duration": -1,
@@ -5841,8 +5841,8 @@
       "stream_url": "https://tvpass.org/live/truTVEast/sd",
       "logo": "",
       "group": "Live",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:07.102355Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:38:09.178573Z"
     },
     {
       "duration": -1,
@@ -5852,8 +5852,8 @@
       "stream_url": "https://tvpass.org/live/NBA07/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:35.874957Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:19.334550Z"
     },
     {
       "duration": -1,
@@ -5863,8 +5863,8 @@
       "stream_url": "https://tvpass.org/live/NBATV/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:25.826903Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:25.388288Z"
     },
     {
       "duration": -1,
@@ -5874,8 +5874,8 @@
       "stream_url": "https://tvpass.org/live/NBA02/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:28.510215Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:27.644154Z"
     },
     {
       "duration": -1,
@@ -5885,8 +5885,8 @@
       "stream_url": "https://tvpass.org/live/NBA05/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:34.534605Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:47.966340Z"
     },
     {
       "duration": -1,
@@ -5896,8 +5896,8 @@
       "stream_url": "https://tvpass.org/live/NBATV/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:33.863050Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:32.458971Z"
     },
     {
       "duration": -1,
@@ -5907,8 +5907,8 @@
       "stream_url": "https://tvpass.org/live/NBA03/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:29.173990Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:43.337032Z"
     },
     {
       "duration": -1,
@@ -5918,8 +5918,8 @@
       "stream_url": "https://tvpass.org/live/NBATV/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:30.515716Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:14.692175Z"
     },
     {
       "duration": -1,
@@ -5929,8 +5929,8 @@
       "stream_url": "https://tvpass.org/live/NBA09/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:37.210942Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:50.524186Z"
     },
     {
       "duration": -1,
@@ -5940,8 +5940,8 @@
       "stream_url": "https://tvpass.org/live/NBA08/sd",
       "logo": "",
       "group": "NBA",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:37.874791Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:06.044559Z"
     },
     {
       "duration": -1,
@@ -5951,8 +5951,8 @@
       "stream_url": "https://tvpass.org/live/WCBSDT1/sd",
       "logo": "",
       "group": "NCAAF",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:26.494840Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:40.915131Z"
     },
     {
       "duration": -1,
@@ -5962,8 +5962,8 @@
       "stream_url": "https://tvpass.org/live/ESPN/sd",
       "logo": "",
       "group": "NCAAF",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:24.481923Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:44:54.367253Z"
     },
     {
       "duration": -1,
@@ -5973,8 +5973,8 @@
       "stream_url": "https://tvpass.org/live/ESPN/sd",
       "logo": "",
       "group": "NCAAF",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:35.210549Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:03.650982Z"
     },
     {
       "duration": -1,
@@ -5984,8 +5984,8 @@
       "stream_url": "https://tvpass.org/live/WABCDT1/sd",
       "logo": "",
       "group": "NCAAF",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:27.166689Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:56.615803Z"
     },
     {
       "duration": -1,
@@ -5995,8 +5995,8 @@
       "stream_url": "https://tvpass.org/live/ESPN/sd",
       "logo": "",
       "group": "NCAAF",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:29.845061Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:59.012135Z"
     },
     {
       "duration": -1,
@@ -6006,8 +6006,8 @@
       "stream_url": "https://tvpass.org/live/NHL03/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:39.213082Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:37.419475Z"
     },
     {
       "duration": -1,
@@ -6017,8 +6017,8 @@
       "stream_url": "https://tvpass.org/live/NHL17/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:36.544897Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:49:34.848899Z"
     },
     {
       "duration": -1,
@@ -6028,8 +6028,8 @@
       "stream_url": "https://tvpass.org/live/NHL11/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:31.179310Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:30.215671Z"
     },
     {
       "duration": -1,
@@ -6039,8 +6039,8 @@
       "stream_url": "https://tvpass.org/live/NHL12/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:27.840631Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:46:12.123982Z"
     },
     {
       "duration": -1,
@@ -6050,8 +6050,8 @@
       "stream_url": "https://tvpass.org/live/NHL26/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:33.188812Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:16.777920Z"
     },
     {
       "duration": -1,
@@ -6061,8 +6061,8 @@
       "stream_url": "https://tvpass.org/live/NHL23/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:25.153527Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:45:09.877900Z"
     },
     {
       "duration": -1,
@@ -6072,8 +6072,8 @@
       "stream_url": "https://tvpass.org/live/NHL21/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:39.886750Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:53.116143Z"
     },
     {
       "duration": -1,
@@ -6083,8 +6083,8 @@
       "stream_url": "https://tvpass.org/live/NHL22/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:38.542303Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:50:21.731982Z"
     },
     {
       "duration": -1,
@@ -6094,8 +6094,8 @@
       "stream_url": "https://tvpass.org/live/NHL08/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:31.843816Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:47:45.735933Z"
     },
     {
       "duration": -1,
@@ -6105,8 +6105,8 @@
       "stream_url": "https://tvpass.org/live/NHL01/sd",
       "logo": "",
       "group": "NHL",
-      "status": "connection_error",
-      "last_checked": "2026-06-10T01:12:32.515408Z"
+      "status": "timeout",
+      "last_checked": "2026-06-10T19:48:01.255690Z"
     }
   ]
 }
