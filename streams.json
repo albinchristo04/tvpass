@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T03:14:20.742347Z",
+  "last_updated": "2026-08-04T19:44:30.814173Z",
   "total_channels": 555,
   "working_channels": 0,
   "channels": [
@@ -12,7 +12,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:12.583318Z"
+      "last_checked": "2026-08-04T19:44:22.604451Z"
     },
     {
       "duration": -1,
@@ -23,7 +23,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:45.262431Z"
+      "last_checked": "2026-08-04T19:42:51.542189Z"
     },
     {
       "duration": -1,
@@ -34,7 +34,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:44.639414Z"
+      "last_checked": "2026-08-04T19:42:50.900781Z"
     },
     {
       "duration": -1,
@@ -45,7 +45,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:13.089542Z"
+      "last_checked": "2026-08-04T19:44:23.115258Z"
     },
     {
       "duration": -1,
@@ -56,7 +56,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:46.514545Z"
+      "last_checked": "2026-08-04T19:42:52.575817Z"
     },
     {
       "duration": -1,
@@ -67,7 +67,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:45.889295Z"
+      "last_checked": "2026-08-04T19:42:52.049498Z"
     },
     {
       "duration": -1,
@@ -78,7 +78,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:14.103374Z"
+      "last_checked": "2026-08-04T19:44:24.153207Z"
     },
     {
       "duration": -1,
@@ -89,7 +89,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:49.069622Z"
+      "last_checked": "2026-08-04T19:42:54.651078Z"
     },
     {
       "duration": -1,
@@ -100,7 +100,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:48.381151Z"
+      "last_checked": "2026-08-04T19:42:54.144714Z"
     },
     {
       "duration": -1,
@@ -111,7 +111,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:15.114623Z"
+      "last_checked": "2026-08-04T19:44:25.173431Z"
     },
     {
       "duration": -1,
@@ -122,7 +122,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:51.424102Z"
+      "last_checked": "2026-08-04T19:42:56.831326Z"
     },
     {
       "duration": -1,
@@ -133,7 +133,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:50.730777Z"
+      "last_checked": "2026-08-04T19:42:56.324689Z"
     },
     {
       "duration": -1,
@@ -144,7 +144,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:14.609285Z"
+      "last_checked": "2026-08-04T19:44:24.663221Z"
     },
     {
       "duration": -1,
@@ -155,7 +155,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:50.205465Z"
+      "last_checked": "2026-08-04T19:42:55.787554Z"
     },
     {
       "duration": -1,
@@ -166,7 +166,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:49.691707Z"
+      "last_checked": "2026-08-04T19:42:55.159165Z"
     },
     {
       "duration": -1,
@@ -177,7 +177,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:15.619715Z"
+      "last_checked": "2026-08-04T19:44:25.687664Z"
     },
     {
       "duration": -1,
@@ -188,7 +188,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:52.736015Z"
+      "last_checked": "2026-08-04T19:42:57.856721Z"
     },
     {
       "duration": -1,
@@ -199,7 +199,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:52.113610Z"
+      "last_checked": "2026-08-04T19:42:57.350304Z"
     },
     {
       "duration": -1,
@@ -210,7 +210,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:16.125968Z"
+      "last_checked": "2026-08-04T19:44:26.218222Z"
     },
     {
       "duration": -1,
@@ -221,7 +221,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:53.873174Z"
+      "last_checked": "2026-08-04T19:42:58.869520Z"
     },
     {
       "duration": -1,
@@ -232,7 +232,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:53.251464Z"
+      "last_checked": "2026-08-04T19:42:58.363282Z"
     },
     {
       "duration": -1,
@@ -243,7 +243,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:16.632169Z"
+      "last_checked": "2026-08-04T19:44:26.728748Z"
     },
     {
       "duration": -1,
@@ -254,7 +254,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:54.884704Z"
+      "last_checked": "2026-08-04T19:42:59.899049Z"
     },
     {
       "duration": -1,
@@ -265,7 +265,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:54.378905Z"
+      "last_checked": "2026-08-04T19:42:59.393104Z"
     },
     {
       "duration": -1,
@@ -276,7 +276,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:17.137721Z"
+      "last_checked": "2026-08-04T19:44:27.246589Z"
     },
     {
       "duration": -1,
@@ -287,7 +287,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:55.898058Z"
+      "last_checked": "2026-08-04T19:43:00.911911Z"
     },
     {
       "duration": -1,
@@ -298,7 +298,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:55.391814Z"
+      "last_checked": "2026-08-04T19:43:00.405376Z"
     },
     {
       "duration": -1,
@@ -309,7 +309,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:17.644006Z"
+      "last_checked": "2026-08-04T19:44:27.756723Z"
     },
     {
       "duration": -1,
@@ -320,7 +320,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:56.911937Z"
+      "last_checked": "2026-08-04T19:43:01.924520Z"
     },
     {
       "duration": -1,
@@ -331,7 +331,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:56.404090Z"
+      "last_checked": "2026-08-04T19:43:01.417948Z"
     },
     {
       "duration": -1,
@@ -342,7 +342,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:18.149451Z"
+      "last_checked": "2026-08-04T19:44:28.266492Z"
     },
     {
       "duration": -1,
@@ -353,7 +353,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:58.040919Z"
+      "last_checked": "2026-08-04T19:43:02.939496Z"
     },
     {
       "duration": -1,
@@ -364,7 +364,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:57.419008Z"
+      "last_checked": "2026-08-04T19:43:02.431653Z"
     },
     {
       "duration": -1,
@@ -375,7 +375,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:18.657304Z"
+      "last_checked": "2026-08-04T19:44:28.777319Z"
     },
     {
       "duration": -1,
@@ -386,7 +386,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:59.168946Z"
+      "last_checked": "2026-08-04T19:43:03.958496Z"
     },
     {
       "duration": -1,
@@ -397,7 +397,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:58.663125Z"
+      "last_checked": "2026-08-04T19:43:03.446810Z"
     },
     {
       "duration": -1,
@@ -408,7 +408,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:19.162766Z"
+      "last_checked": "2026-08-04T19:44:29.290731Z"
     },
     {
       "duration": -1,
@@ -419,7 +419,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:00.181521Z"
+      "last_checked": "2026-08-04T19:43:04.971724Z"
     },
     {
       "duration": -1,
@@ -430,7 +430,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:59.676391Z"
+      "last_checked": "2026-08-04T19:43:04.464920Z"
     },
     {
       "duration": -1,
@@ -441,7 +441,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:19.670758Z"
+      "last_checked": "2026-08-04T19:44:29.801658Z"
     },
     {
       "duration": -1,
@@ -452,7 +452,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:01.214521Z"
+      "last_checked": "2026-08-04T19:43:05.992788Z"
     },
     {
       "duration": -1,
@@ -463,7 +463,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:00.695037Z"
+      "last_checked": "2026-08-04T19:43:05.480807Z"
     },
     {
       "duration": -1,
@@ -474,7 +474,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:20.176840Z"
+      "last_checked": "2026-08-04T19:44:30.312537Z"
     },
     {
       "duration": -1,
@@ -485,7 +485,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:02.421539Z"
+      "last_checked": "2026-08-04T19:43:07.008570Z"
     },
     {
       "duration": -1,
@@ -496,7 +496,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:01.721491Z"
+      "last_checked": "2026-08-04T19:43:06.501930Z"
     },
     {
       "duration": -1,
@@ -507,7 +507,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:44.639441Z"
+      "last_checked": "2026-08-04T19:42:50.900970Z"
     },
     {
       "duration": -1,
@@ -518,7 +518,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:45.262518Z"
+      "last_checked": "2026-08-04T19:42:51.542110Z"
     },
     {
       "duration": -1,
@@ -529,7 +529,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:04.452035Z"
+      "last_checked": "2026-08-04T19:43:09.037274Z"
     },
     {
       "duration": -1,
@@ -540,7 +540,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:03.945544Z"
+      "last_checked": "2026-08-04T19:43:08.528172Z"
     },
     {
       "duration": -1,
@@ -551,7 +551,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:03.435139Z"
+      "last_checked": "2026-08-04T19:43:08.022070Z"
     },
     {
       "duration": -1,
@@ -562,7 +562,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:02.928363Z"
+      "last_checked": "2026-08-04T19:43:07.516705Z"
     },
     {
       "duration": -1,
@@ -573,7 +573,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:46.514730Z"
+      "last_checked": "2026-08-04T19:42:52.575908Z"
     },
     {
       "duration": -1,
@@ -584,7 +584,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:06.598820Z"
+      "last_checked": "2026-08-04T19:43:11.078175Z"
     },
     {
       "duration": -1,
@@ -595,7 +595,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:05.975127Z"
+      "last_checked": "2026-08-04T19:43:10.568036Z"
     },
     {
       "duration": -1,
@@ -606,7 +606,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:47.758273Z"
+      "last_checked": "2026-08-04T19:42:53.622921Z"
     },
     {
       "duration": -1,
@@ -617,7 +617,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:08.815050Z"
+      "last_checked": "2026-08-04T19:43:13.133417Z"
     },
     {
       "duration": -1,
@@ -628,7 +628,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:08.309430Z"
+      "last_checked": "2026-08-04T19:43:12.613152Z"
     },
     {
       "duration": -1,
@@ -639,7 +639,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:49.691619Z"
+      "last_checked": "2026-08-04T19:42:55.159345Z"
     },
     {
       "duration": -1,
@@ -650,7 +650,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:11.858130Z"
+      "last_checked": "2026-08-04T19:43:16.172831Z"
     },
     {
       "duration": -1,
@@ -661,7 +661,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:11.350917Z"
+      "last_checked": "2026-08-04T19:43:15.665627Z"
     },
     {
       "duration": -1,
@@ -672,7 +672,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:50.205578Z"
+      "last_checked": "2026-08-04T19:42:55.787334Z"
     },
     {
       "duration": -1,
@@ -683,7 +683,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:12.868862Z"
+      "last_checked": "2026-08-04T19:43:17.188527Z"
     },
     {
       "duration": -1,
@@ -694,7 +694,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:12.363374Z"
+      "last_checked": "2026-08-04T19:43:16.681649Z"
     },
     {
       "duration": -1,
@@ -705,7 +705,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:50.730956Z"
+      "last_checked": "2026-08-04T19:42:56.324571Z"
     },
     {
       "duration": -1,
@@ -716,7 +716,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:13.879516Z"
+      "last_checked": "2026-08-04T19:43:18.212083Z"
     },
     {
       "duration": -1,
@@ -727,7 +727,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:13.374621Z"
+      "last_checked": "2026-08-04T19:43:17.701273Z"
     },
     {
       "duration": -1,
@@ -738,7 +738,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:52.736109Z"
+      "last_checked": "2026-08-04T19:42:57.856795Z"
     },
     {
       "duration": -1,
@@ -749,7 +749,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:16.918159Z"
+      "last_checked": "2026-08-04T19:43:21.258001Z"
     },
     {
       "duration": -1,
@@ -760,7 +760,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:16.411668Z"
+      "last_checked": "2026-08-04T19:43:20.747390Z"
     },
     {
       "duration": -1,
@@ -771,7 +771,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:53.251261Z"
+      "last_checked": "2026-08-04T19:42:58.363102Z"
     },
     {
       "duration": -1,
@@ -782,7 +782,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:17.929258Z"
+      "last_checked": "2026-08-04T19:43:22.272209Z"
     },
     {
       "duration": -1,
@@ -793,7 +793,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:17.423937Z"
+      "last_checked": "2026-08-04T19:43:21.765380Z"
     },
     {
       "duration": -1,
@@ -804,7 +804,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:45.889169Z"
+      "last_checked": "2026-08-04T19:42:52.049293Z"
     },
     {
       "duration": -1,
@@ -815,7 +815,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:05.467507Z"
+      "last_checked": "2026-08-04T19:43:10.059580Z"
     },
     {
       "duration": -1,
@@ -826,7 +826,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:04.958267Z"
+      "last_checked": "2026-08-04T19:43:09.552348Z"
     },
     {
       "duration": -1,
@@ -837,7 +837,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:48.381072Z"
+      "last_checked": "2026-08-04T19:42:54.144919Z"
     },
     {
       "duration": -1,
@@ -848,7 +848,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:09.829866Z"
+      "last_checked": "2026-08-04T19:43:14.147057Z"
     },
     {
       "duration": -1,
@@ -859,7 +859,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:09.322427Z"
+      "last_checked": "2026-08-04T19:43:13.640630Z"
     },
     {
       "duration": -1,
@@ -870,7 +870,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:49.069546Z"
+      "last_checked": "2026-08-04T19:42:54.651175Z"
     },
     {
       "duration": -1,
@@ -881,7 +881,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:10.845520Z"
+      "last_checked": "2026-08-04T19:43:15.159215Z"
     },
     {
       "duration": -1,
@@ -892,7 +892,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:10.340260Z"
+      "last_checked": "2026-08-04T19:43:14.653108Z"
     },
     {
       "duration": -1,
@@ -903,7 +903,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:51.423898Z"
+      "last_checked": "2026-08-04T19:42:56.831246Z"
     },
     {
       "duration": -1,
@@ -914,7 +914,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:14.895735Z"
+      "last_checked": "2026-08-04T19:43:19.225395Z"
     },
     {
       "duration": -1,
@@ -925,7 +925,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:14.390457Z"
+      "last_checked": "2026-08-04T19:43:18.718896Z"
     },
     {
       "duration": -1,
@@ -936,7 +936,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:52.113695Z"
+      "last_checked": "2026-08-04T19:42:57.350411Z"
     },
     {
       "duration": -1,
@@ -947,7 +947,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:15.906788Z"
+      "last_checked": "2026-08-04T19:43:20.240859Z"
     },
     {
       "duration": -1,
@@ -958,7 +958,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:15.401373Z"
+      "last_checked": "2026-08-04T19:43:19.733428Z"
     },
     {
       "duration": -1,
@@ -969,7 +969,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:53.873083Z"
+      "last_checked": "2026-08-04T19:42:58.869650Z"
     },
     {
       "duration": -1,
@@ -980,7 +980,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:18.939593Z"
+      "last_checked": "2026-08-04T19:43:23.285903Z"
     },
     {
       "duration": -1,
@@ -991,7 +991,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:18.433939Z"
+      "last_checked": "2026-08-04T19:43:22.779439Z"
     },
     {
       "duration": -1,
@@ -1002,7 +1002,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:54.378984Z"
+      "last_checked": "2026-08-04T19:42:59.393268Z"
     },
     {
       "duration": -1,
@@ -1013,7 +1013,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:19.949896Z"
+      "last_checked": "2026-08-04T19:43:24.298684Z"
     },
     {
       "duration": -1,
@@ -1024,7 +1024,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:19.444811Z"
+      "last_checked": "2026-08-04T19:43:23.792480Z"
     },
     {
       "duration": -1,
@@ -1035,7 +1035,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:54.884490Z"
+      "last_checked": "2026-08-04T19:42:59.899268Z"
     },
     {
       "duration": -1,
@@ -1046,7 +1046,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:20.962675Z"
+      "last_checked": "2026-08-04T19:43:25.313361Z"
     },
     {
       "duration": -1,
@@ -1057,7 +1057,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:20.455609Z"
+      "last_checked": "2026-08-04T19:43:24.806530Z"
     },
     {
       "duration": -1,
@@ -1068,7 +1068,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:55.392015Z"
+      "last_checked": "2026-08-04T19:43:00.405591Z"
     },
     {
       "duration": -1,
@@ -1079,7 +1079,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:21.974566Z"
+      "last_checked": "2026-08-04T19:43:26.326389Z"
     },
     {
       "duration": -1,
@@ -1090,7 +1090,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:21.469096Z"
+      "last_checked": "2026-08-04T19:43:25.819987Z"
     },
     {
       "duration": -1,
@@ -1101,7 +1101,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:55.897951Z"
+      "last_checked": "2026-08-04T19:43:00.912095Z"
     },
     {
       "duration": -1,
@@ -1112,7 +1112,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:22.984163Z"
+      "last_checked": "2026-08-04T19:43:27.343183Z"
     },
     {
       "duration": -1,
@@ -1123,7 +1123,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:22.479347Z"
+      "last_checked": "2026-08-04T19:43:26.836040Z"
     },
     {
       "duration": -1,
@@ -1134,7 +1134,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:56.404214Z"
+      "last_checked": "2026-08-04T19:43:01.417763Z"
     },
     {
       "duration": -1,
@@ -1145,7 +1145,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:23.996335Z"
+      "last_checked": "2026-08-04T19:43:28.359942Z"
     },
     {
       "duration": -1,
@@ -1156,7 +1156,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:23.489435Z"
+      "last_checked": "2026-08-04T19:43:27.850010Z"
     },
     {
       "duration": -1,
@@ -1167,7 +1167,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:56.912016Z"
+      "last_checked": "2026-08-04T19:43:01.924585Z"
     },
     {
       "duration": -1,
@@ -1178,7 +1178,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:25.008443Z"
+      "last_checked": "2026-08-04T19:43:29.377556Z"
     },
     {
       "duration": -1,
@@ -1189,7 +1189,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:24.501758Z"
+      "last_checked": "2026-08-04T19:43:28.868151Z"
     },
     {
       "duration": -1,
@@ -1200,7 +1200,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:57.418921Z"
+      "last_checked": "2026-08-04T19:43:02.431835Z"
     },
     {
       "duration": -1,
@@ -1211,7 +1211,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:26.020444Z"
+      "last_checked": "2026-08-04T19:43:35.409547Z"
     },
     {
       "duration": -1,
@@ -1222,7 +1222,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:25.513426Z"
+      "last_checked": "2026-08-04T19:43:34.896154Z"
     },
     {
       "duration": -1,
@@ -1233,7 +1233,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:58.040809Z"
+      "last_checked": "2026-08-04T19:43:02.939675Z"
     },
     {
       "duration": -1,
@@ -1244,7 +1244,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:58.663048Z"
+      "last_checked": "2026-08-04T19:43:03.446986Z"
     },
     {
       "duration": -1,
@@ -1255,7 +1255,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:28.048484Z"
+      "last_checked": "2026-08-04T19:43:37.470622Z"
     },
     {
       "duration": -1,
@@ -1266,7 +1266,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:27.541342Z"
+      "last_checked": "2026-08-04T19:43:36.961646Z"
     },
     {
       "duration": -1,
@@ -1277,7 +1277,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:27.034246Z"
+      "last_checked": "2026-08-04T19:43:36.438333Z"
     },
     {
       "duration": -1,
@@ -1288,7 +1288,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:59.169125Z"
+      "last_checked": "2026-08-04T19:43:03.958580Z"
     },
     {
       "duration": -1,
@@ -1299,7 +1299,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:29.062908Z"
+      "last_checked": "2026-08-04T19:43:38.504376Z"
     },
     {
       "duration": -1,
@@ -1310,7 +1310,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:28.555065Z"
+      "last_checked": "2026-08-04T19:43:37.978029Z"
     },
     {
       "duration": -1,
@@ -1321,7 +1321,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:26.528375Z"
+      "last_checked": "2026-08-04T19:43:35.924983Z"
     },
     {
       "duration": -1,
@@ -1332,7 +1332,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:59.676175Z"
+      "last_checked": "2026-08-04T19:43:04.464743Z"
     },
     {
       "duration": -1,
@@ -1343,7 +1343,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:30.073025Z"
+      "last_checked": "2026-08-04T19:43:39.526620Z"
     },
     {
       "duration": -1,
@@ -1354,7 +1354,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:29.568447Z"
+      "last_checked": "2026-08-04T19:43:39.015695Z"
     },
     {
       "duration": -1,
@@ -1365,7 +1365,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:00.181701Z"
+      "last_checked": "2026-08-04T19:43:04.971917Z"
     },
     {
       "duration": -1,
@@ -1376,7 +1376,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:31.084471Z"
+      "last_checked": "2026-08-04T19:43:40.549903Z"
     },
     {
       "duration": -1,
@@ -1387,7 +1387,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:30.578854Z"
+      "last_checked": "2026-08-04T19:43:40.036742Z"
     },
     {
       "duration": -1,
@@ -1398,7 +1398,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:11.155824Z"
+      "last_checked": "2026-08-04T19:43:15.665542Z"
     },
     {
       "duration": -1,
@@ -1409,7 +1409,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:52.363465Z"
+      "last_checked": "2026-08-04T19:44:02.080603Z"
     },
     {
       "duration": -1,
@@ -1420,7 +1420,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:51.858391Z"
+      "last_checked": "2026-08-04T19:44:01.571551Z"
     },
     {
       "duration": -1,
@@ -1431,7 +1431,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:14.822875Z"
+      "last_checked": "2026-08-04T19:43:19.225310Z"
     },
     {
       "duration": -1,
@@ -1442,7 +1442,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:59.474921Z"
+      "last_checked": "2026-08-04T19:44:09.268085Z"
     },
     {
       "duration": -1,
@@ -1453,7 +1453,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:58.968313Z"
+      "last_checked": "2026-08-04T19:44:08.755635Z"
     },
     {
       "duration": -1,
@@ -1464,7 +1464,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:15.328432Z"
+      "last_checked": "2026-08-04T19:43:19.733323Z"
     },
     {
       "duration": -1,
@@ -1475,7 +1475,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:00.485677Z"
+      "last_checked": "2026-08-04T19:44:10.288660Z"
     },
     {
       "duration": -1,
@@ -1486,7 +1486,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:59.979849Z"
+      "last_checked": "2026-08-04T19:44:09.778152Z"
     },
     {
       "duration": -1,
@@ -1497,7 +1497,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:15.833664Z"
+      "last_checked": "2026-08-04T19:43:20.240939Z"
     },
     {
       "duration": -1,
@@ -1508,7 +1508,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:01.495449Z"
+      "last_checked": "2026-08-04T19:44:11.307994Z"
     },
     {
       "duration": -1,
@@ -1519,7 +1519,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:00.990772Z"
+      "last_checked": "2026-08-04T19:44:10.799507Z"
     },
     {
       "duration": -1,
@@ -1530,7 +1530,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:16.339087Z"
+      "last_checked": "2026-08-04T19:43:20.747595Z"
     },
     {
       "duration": -1,
@@ -1541,7 +1541,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:02.518237Z"
+      "last_checked": "2026-08-04T19:44:12.338048Z"
     },
     {
       "duration": -1,
@@ -1552,7 +1552,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:02.003899Z"
+      "last_checked": "2026-08-04T19:44:11.828391Z"
     },
     {
       "duration": -1,
@@ -1563,7 +1563,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:16.844403Z"
+      "last_checked": "2026-08-04T19:43:21.257856Z"
     },
     {
       "duration": -1,
@@ -1574,7 +1574,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:03.530675Z"
+      "last_checked": "2026-08-04T19:44:13.366226Z"
     },
     {
       "duration": -1,
@@ -1585,7 +1585,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:03.023275Z"
+      "last_checked": "2026-08-04T19:44:12.852098Z"
     },
     {
       "duration": -1,
@@ -1596,7 +1596,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:00.695139Z"
+      "last_checked": "2026-08-04T19:43:05.480871Z"
     },
     {
       "duration": -1,
@@ -1607,7 +1607,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:32.108210Z"
+      "last_checked": "2026-08-04T19:43:41.589381Z"
     },
     {
       "duration": -1,
@@ -1618,7 +1618,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:31.591291Z"
+      "last_checked": "2026-08-04T19:43:41.059445Z"
     },
     {
       "duration": -1,
@@ -1629,7 +1629,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:01.214393Z"
+      "last_checked": "2026-08-04T19:43:05.992642Z"
     },
     {
       "duration": -1,
@@ -1640,7 +1640,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:33.118871Z"
+      "last_checked": "2026-08-04T19:43:42.612407Z"
     },
     {
       "duration": -1,
@@ -1651,7 +1651,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:32.613513Z"
+      "last_checked": "2026-08-04T19:43:42.099713Z"
     },
     {
       "duration": -1,
@@ -1662,7 +1662,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:01.721397Z"
+      "last_checked": "2026-08-04T19:43:06.501848Z"
     },
     {
       "duration": -1,
@@ -1673,7 +1673,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:34.130010Z"
+      "last_checked": "2026-08-04T19:43:43.630557Z"
     },
     {
       "duration": -1,
@@ -1684,7 +1684,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:33.624720Z"
+      "last_checked": "2026-08-04T19:43:43.121606Z"
     },
     {
       "duration": -1,
@@ -1695,7 +1695,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:02.421479Z"
+      "last_checked": "2026-08-04T19:43:07.008449Z"
     },
     {
       "duration": -1,
@@ -1706,7 +1706,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:35.140392Z"
+      "last_checked": "2026-08-04T19:43:44.652206Z"
     },
     {
       "duration": -1,
@@ -1717,7 +1717,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:34.635701Z"
+      "last_checked": "2026-08-04T19:43:44.142352Z"
     },
     {
       "duration": -1,
@@ -1728,7 +1728,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:02.928135Z"
+      "last_checked": "2026-08-04T19:43:07.516625Z"
     },
     {
       "duration": -1,
@@ -1739,7 +1739,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:36.152816Z"
+      "last_checked": "2026-08-04T19:43:45.677603Z"
     },
     {
       "duration": -1,
@@ -1750,7 +1750,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:35.647420Z"
+      "last_checked": "2026-08-04T19:43:45.165449Z"
     },
     {
       "duration": -1,
@@ -1761,7 +1761,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:03.435251Z"
+      "last_checked": "2026-08-04T19:43:08.022134Z"
     },
     {
       "duration": -1,
@@ -1772,7 +1772,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:37.163091Z"
+      "last_checked": "2026-08-04T19:43:46.697501Z"
     },
     {
       "duration": -1,
@@ -1783,7 +1783,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:36.657837Z"
+      "last_checked": "2026-08-04T19:43:46.187493Z"
     },
     {
       "duration": -1,
@@ -1794,7 +1794,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:03.945471Z"
+      "last_checked": "2026-08-04T19:43:08.527988Z"
     },
     {
       "duration": -1,
@@ -1805,7 +1805,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:38.175480Z"
+      "last_checked": "2026-08-04T19:43:47.732307Z"
     },
     {
       "duration": -1,
@@ -1816,7 +1816,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:37.668554Z"
+      "last_checked": "2026-08-04T19:43:47.207627Z"
     },
     {
       "duration": -1,
@@ -1827,7 +1827,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:04.452127Z"
+      "last_checked": "2026-08-04T19:43:09.037355Z"
     },
     {
       "duration": -1,
@@ -1838,7 +1838,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:39.188131Z"
+      "last_checked": "2026-08-04T19:43:48.751499Z"
     },
     {
       "duration": -1,
@@ -1849,7 +1849,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:38.682514Z"
+      "last_checked": "2026-08-04T19:43:48.241372Z"
     },
     {
       "duration": -1,
@@ -1860,7 +1860,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:04.958163Z"
+      "last_checked": "2026-08-04T19:43:09.552285Z"
     },
     {
       "duration": -1,
@@ -1871,7 +1871,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:40.200420Z"
+      "last_checked": "2026-08-04T19:43:49.794456Z"
     },
     {
       "duration": -1,
@@ -1882,7 +1882,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:39.695308Z"
+      "last_checked": "2026-08-04T19:43:49.261607Z"
     },
     {
       "duration": -1,
@@ -1893,7 +1893,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:05.467601Z"
+      "last_checked": "2026-08-04T19:43:10.059444Z"
     },
     {
       "duration": -1,
@@ -1904,7 +1904,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:41.212928Z"
+      "last_checked": "2026-08-04T19:43:50.815989Z"
     },
     {
       "duration": -1,
@@ -1915,7 +1915,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:40.706794Z"
+      "last_checked": "2026-08-04T19:43:50.304913Z"
     },
     {
       "duration": -1,
@@ -1926,7 +1926,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:05.975047Z"
+      "last_checked": "2026-08-04T19:43:10.568127Z"
     },
     {
       "duration": -1,
@@ -1937,7 +1937,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:42.228282Z"
+      "last_checked": "2026-08-04T19:43:51.838694Z"
     },
     {
       "duration": -1,
@@ -1948,7 +1948,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:41.722502Z"
+      "last_checked": "2026-08-04T19:43:51.328083Z"
     },
     {
       "duration": -1,
@@ -1959,7 +1959,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:06.598879Z"
+      "last_checked": "2026-08-04T19:43:11.078090Z"
     },
     {
       "duration": -1,
@@ -1970,7 +1970,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:43.239731Z"
+      "last_checked": "2026-08-04T19:43:52.861546Z"
     },
     {
       "duration": -1,
@@ -1981,7 +1981,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:42.733114Z"
+      "last_checked": "2026-08-04T19:43:52.350151Z"
     },
     {
       "duration": -1,
@@ -1992,7 +1992,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:07.104824Z"
+      "last_checked": "2026-08-04T19:43:11.584010Z"
     },
     {
       "duration": -1,
@@ -2003,7 +2003,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:44.260171Z"
+      "last_checked": "2026-08-04T19:43:53.880778Z"
     },
     {
       "duration": -1,
@@ -2014,7 +2014,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:43.743994Z"
+      "last_checked": "2026-08-04T19:43:53.371445Z"
     },
     {
       "duration": -1,
@@ -2025,7 +2025,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:07.611802Z"
+      "last_checked": "2026-08-04T19:43:12.107024Z"
     },
     {
       "duration": -1,
@@ -2036,7 +2036,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:45.272913Z"
+      "last_checked": "2026-08-04T19:43:54.909399Z"
     },
     {
       "duration": -1,
@@ -2047,7 +2047,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:44.765422Z"
+      "last_checked": "2026-08-04T19:43:54.397792Z"
     },
     {
       "duration": -1,
@@ -2058,7 +2058,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:08.116877Z"
+      "last_checked": "2026-08-04T19:43:12.612971Z"
     },
     {
       "duration": -1,
@@ -2069,7 +2069,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:46.286274Z"
+      "last_checked": "2026-08-04T19:43:55.938425Z"
     },
     {
       "duration": -1,
@@ -2080,7 +2080,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:45.780942Z"
+      "last_checked": "2026-08-04T19:43:55.426128Z"
     },
     {
       "duration": -1,
@@ -2091,7 +2091,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:08.622549Z"
+      "last_checked": "2026-08-04T19:43:13.133303Z"
     },
     {
       "duration": -1,
@@ -2102,7 +2102,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:47.298409Z"
+      "last_checked": "2026-08-04T19:43:56.961809Z"
     },
     {
       "duration": -1,
@@ -2113,7 +2113,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:46.793124Z"
+      "last_checked": "2026-08-04T19:43:56.448738Z"
     },
     {
       "duration": -1,
@@ -2124,7 +2124,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:09.132988Z"
+      "last_checked": "2026-08-04T19:43:13.640546Z"
     },
     {
       "duration": -1,
@@ -2135,7 +2135,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:48.311271Z"
+      "last_checked": "2026-08-04T19:43:57.983826Z"
     },
     {
       "duration": -1,
@@ -2146,7 +2146,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:47.805262Z"
+      "last_checked": "2026-08-04T19:43:57.473051Z"
     },
     {
       "duration": -1,
@@ -2157,7 +2157,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:09.639719Z"
+      "last_checked": "2026-08-04T19:43:14.146949Z"
     },
     {
       "duration": -1,
@@ -2168,7 +2168,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:49.323671Z"
+      "last_checked": "2026-08-04T19:43:59.006598Z"
     },
     {
       "duration": -1,
@@ -2179,7 +2179,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:48.816450Z"
+      "last_checked": "2026-08-04T19:43:58.494281Z"
     },
     {
       "duration": -1,
@@ -2190,7 +2190,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:10.145065Z"
+      "last_checked": "2026-08-04T19:43:14.653293Z"
     },
     {
       "duration": -1,
@@ -2201,7 +2201,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:50.336174Z"
+      "last_checked": "2026-08-04T19:44:00.028874Z"
     },
     {
       "duration": -1,
@@ -2212,7 +2212,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:49.830538Z"
+      "last_checked": "2026-08-04T19:43:59.518495Z"
     },
     {
       "duration": -1,
@@ -2223,7 +2223,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:10.650882Z"
+      "last_checked": "2026-08-04T19:43:15.159027Z"
     },
     {
       "duration": -1,
@@ -2234,7 +2234,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:51.352304Z"
+      "last_checked": "2026-08-04T19:44:01.057433Z"
     },
     {
       "duration": -1,
@@ -2245,7 +2245,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:50.846956Z"
+      "last_checked": "2026-08-04T19:44:00.547770Z"
     },
     {
       "duration": -1,
@@ -2256,7 +2256,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:12.170557Z"
+      "last_checked": "2026-08-04T19:43:16.681731Z"
     },
     {
       "duration": -1,
@@ -2267,7 +2267,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:54.391346Z"
+      "last_checked": "2026-08-04T19:44:04.144812Z"
     },
     {
       "duration": -1,
@@ -2278,7 +2278,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:53.886564Z"
+      "last_checked": "2026-08-04T19:44:03.632917Z"
     },
     {
       "duration": -1,
@@ -2289,7 +2289,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:12.677057Z"
+      "last_checked": "2026-08-04T19:43:17.188411Z"
     },
     {
       "duration": -1,
@@ -2300,7 +2300,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:55.401076Z"
+      "last_checked": "2026-08-04T19:44:05.168784Z"
     },
     {
       "duration": -1,
@@ -2311,7 +2311,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:54.895690Z"
+      "last_checked": "2026-08-04T19:44:04.658875Z"
     },
     {
       "duration": -1,
@@ -2322,7 +2322,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:13.183265Z"
+      "last_checked": "2026-08-04T19:43:17.701188Z"
     },
     {
       "duration": -1,
@@ -2333,7 +2333,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:56.424555Z"
+      "last_checked": "2026-08-04T19:44:06.194021Z"
     },
     {
       "duration": -1,
@@ -2344,7 +2344,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:55.915838Z"
+      "last_checked": "2026-08-04T19:44:05.681818Z"
     },
     {
       "duration": -1,
@@ -2355,7 +2355,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:13.690567Z"
+      "last_checked": "2026-08-04T19:43:18.212170Z"
     },
     {
       "duration": -1,
@@ -2366,7 +2366,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:57.436064Z"
+      "last_checked": "2026-08-04T19:44:07.216374Z"
     },
     {
       "duration": -1,
@@ -2377,7 +2377,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:56.930571Z"
+      "last_checked": "2026-08-04T19:44:06.706247Z"
     },
     {
       "duration": -1,
@@ -2388,7 +2388,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:14.315724Z"
+      "last_checked": "2026-08-04T19:43:18.718789Z"
     },
     {
       "duration": -1,
@@ -2399,7 +2399,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:58.462828Z"
+      "last_checked": "2026-08-04T19:44:08.245500Z"
     },
     {
       "duration": -1,
@@ -2410,7 +2410,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:57.957659Z"
+      "last_checked": "2026-08-04T19:44:07.733356Z"
     },
     {
       "duration": -1,
@@ -2421,7 +2421,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:17.350158Z"
+      "last_checked": "2026-08-04T19:43:21.765319Z"
     },
     {
       "duration": -1,
@@ -2432,7 +2432,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:04.542483Z"
+      "last_checked": "2026-08-04T19:44:14.389075Z"
     },
     {
       "duration": -1,
@@ -2443,7 +2443,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:04.037838Z"
+      "last_checked": "2026-08-04T19:44:13.877335Z"
     },
     {
       "duration": -1,
@@ -2454,7 +2454,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:17.855004Z"
+      "last_checked": "2026-08-04T19:43:22.272123Z"
     },
     {
       "duration": -1,
@@ -2465,7 +2465,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:05.555878Z"
+      "last_checked": "2026-08-04T19:44:15.416392Z"
     },
     {
       "duration": -1,
@@ -2476,7 +2476,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:05.047055Z"
+      "last_checked": "2026-08-04T19:44:14.906268Z"
     },
     {
       "duration": -1,
@@ -2487,7 +2487,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:20.386474Z"
+      "last_checked": "2026-08-04T19:43:24.806731Z"
     },
     {
       "duration": -1,
@@ -2498,7 +2498,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:10.616258Z"
+      "last_checked": "2026-08-04T19:44:20.555985Z"
     },
     {
       "duration": -1,
@@ -2509,7 +2509,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:10.110427Z"
+      "last_checked": "2026-08-04T19:44:20.044800Z"
     },
     {
       "duration": -1,
@@ -2520,7 +2520,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:20.891671Z"
+      "last_checked": "2026-08-04T19:43:25.313490Z"
     },
     {
       "duration": -1,
@@ -2531,7 +2531,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:11.626214Z"
+      "last_checked": "2026-08-04T19:44:21.581721Z"
     },
     {
       "duration": -1,
@@ -2542,7 +2542,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:11.121071Z"
+      "last_checked": "2026-08-04T19:44:21.066053Z"
     },
     {
       "duration": -1,
@@ -2553,7 +2553,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:19.881517Z"
+      "last_checked": "2026-08-04T19:43:24.298865Z"
     },
     {
       "duration": -1,
@@ -2564,7 +2564,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:09.604365Z"
+      "last_checked": "2026-08-04T19:44:19.534507Z"
     },
     {
       "duration": -1,
@@ -2575,7 +2575,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:09.099477Z"
+      "last_checked": "2026-08-04T19:44:19.022497Z"
     },
     {
       "duration": -1,
@@ -2586,7 +2586,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:21.397136Z"
+      "last_checked": "2026-08-04T19:43:25.819905Z"
     },
     {
       "duration": -1,
@@ -2597,7 +2597,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:12.638979Z"
+      "last_checked": "2026-08-04T19:44:22.604349Z"
     },
     {
       "duration": -1,
@@ -2608,7 +2608,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:12.132555Z"
+      "last_checked": "2026-08-04T19:44:22.093798Z"
     },
     {
       "duration": -1,
@@ -2619,7 +2619,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:21.902371Z"
+      "last_checked": "2026-08-04T19:43:26.326182Z"
     },
     {
       "duration": -1,
@@ -2630,7 +2630,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:13.650057Z"
+      "last_checked": "2026-08-04T19:44:23.644219Z"
     },
     {
       "duration": -1,
@@ -2641,7 +2641,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:13.144730Z"
+      "last_checked": "2026-08-04T19:44:23.115195Z"
     },
     {
       "duration": -1,
@@ -2652,7 +2652,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:22.407733Z"
+      "last_checked": "2026-08-04T19:43:26.836139Z"
     },
     {
       "duration": -1,
@@ -2663,7 +2663,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:14.660492Z"
+      "last_checked": "2026-08-04T19:44:24.663023Z"
     },
     {
       "duration": -1,
@@ -2674,7 +2674,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:14.155129Z"
+      "last_checked": "2026-08-04T19:44:24.153288Z"
     },
     {
       "duration": -1,
@@ -2685,7 +2685,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:22.925826Z"
+      "last_checked": "2026-08-04T19:43:27.343383Z"
     },
     {
       "duration": -1,
@@ -2696,7 +2696,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:15.672663Z"
+      "last_checked": "2026-08-04T19:44:25.687486Z"
     },
     {
       "duration": -1,
@@ -2707,7 +2707,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:15.167417Z"
+      "last_checked": "2026-08-04T19:44:25.173329Z"
     },
     {
       "duration": -1,
@@ -2718,7 +2718,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:23.947081Z"
+      "last_checked": "2026-08-04T19:43:28.359836Z"
     },
     {
       "duration": -1,
@@ -2729,7 +2729,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:17.697915Z"
+      "last_checked": "2026-08-04T19:44:27.756805Z"
     },
     {
       "duration": -1,
@@ -2740,7 +2740,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:17.192701Z"
+      "last_checked": "2026-08-04T19:44:27.246375Z"
     },
     {
       "duration": -1,
@@ -2751,7 +2751,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:18.360456Z"
+      "last_checked": "2026-08-04T19:43:22.779263Z"
     },
     {
       "duration": -1,
@@ -2762,7 +2762,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:06.565993Z"
+      "last_checked": "2026-08-04T19:44:16.436639Z"
     },
     {
       "duration": -1,
@@ -2773,7 +2773,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:06.060787Z"
+      "last_checked": "2026-08-04T19:44:15.927363Z"
     },
     {
       "duration": -1,
@@ -2784,7 +2784,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:18.865738Z"
+      "last_checked": "2026-08-04T19:43:23.285982Z"
     },
     {
       "duration": -1,
@@ -2795,7 +2795,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:07.580164Z"
+      "last_checked": "2026-08-04T19:44:17.470850Z"
     },
     {
       "duration": -1,
@@ -2806,7 +2806,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:07.072848Z"
+      "last_checked": "2026-08-04T19:44:16.946864Z"
     },
     {
       "duration": -1,
@@ -2817,7 +2817,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:19.375792Z"
+      "last_checked": "2026-08-04T19:43:23.792578Z"
     },
     {
       "duration": -1,
@@ -2828,7 +2828,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:08.592588Z"
+      "last_checked": "2026-08-04T19:44:18.509373Z"
     },
     {
       "duration": -1,
@@ -2839,7 +2839,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:08.086525Z"
+      "last_checked": "2026-08-04T19:44:17.982269Z"
     },
     {
       "duration": -1,
@@ -2850,7 +2850,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:23.435347Z"
+      "last_checked": "2026-08-04T19:43:27.850099Z"
     },
     {
       "duration": -1,
@@ -2861,7 +2861,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:16.684552Z"
+      "last_checked": "2026-08-04T19:44:26.728638Z"
     },
     {
       "duration": -1,
@@ -2872,7 +2872,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:16.178224Z"
+      "last_checked": "2026-08-04T19:44:26.218301Z"
     },
     {
       "duration": -1,
@@ -2883,7 +2883,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:25.464147Z"
+      "last_checked": "2026-08-04T19:43:34.895909Z"
     },
     {
       "duration": -1,
@@ -2894,7 +2894,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:44.639324Z"
+      "last_checked": "2026-08-04T19:42:50.900686Z"
     },
     {
       "duration": -1,
@@ -2905,7 +2905,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:20.240860Z"
+      "last_checked": "2026-08-04T19:44:30.312685Z"
     },
     {
       "duration": -1,
@@ -2916,7 +2916,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:24.452394Z"
+      "last_checked": "2026-08-04T19:43:28.868224Z"
     },
     {
       "duration": -1,
@@ -2927,7 +2927,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:18.722842Z"
+      "last_checked": "2026-08-04T19:44:28.777139Z"
     },
     {
       "duration": -1,
@@ -2938,7 +2938,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:18.216717Z"
+      "last_checked": "2026-08-04T19:44:28.266592Z"
     },
     {
       "duration": -1,
@@ -2949,7 +2949,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:24.959118Z"
+      "last_checked": "2026-08-04T19:43:29.377457Z"
     },
     {
       "duration": -1,
@@ -2960,7 +2960,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:19.734656Z"
+      "last_checked": "2026-08-04T19:44:29.801760Z"
     },
     {
       "duration": -1,
@@ -2971,7 +2971,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:19.227253Z"
+      "last_checked": "2026-08-04T19:44:29.290554Z"
     },
     {
       "duration": -1,
@@ -2982,7 +2982,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:26.982993Z"
+      "last_checked": "2026-08-04T19:43:36.438144Z"
     },
     {
       "duration": -1,
@@ -2993,7 +2993,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:48.380964Z"
+      "last_checked": "2026-08-04T19:42:54.144826Z"
     },
     {
       "duration": -1,
@@ -3004,7 +3004,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:47.758383Z"
+      "last_checked": "2026-08-04T19:42:53.622808Z"
     },
     {
       "duration": -1,
@@ -3015,7 +3015,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:25.971055Z"
+      "last_checked": "2026-08-04T19:43:35.409727Z"
     },
     {
       "duration": -1,
@@ -3026,7 +3026,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:45.889375Z"
+      "last_checked": "2026-08-04T19:42:52.049386Z"
     },
     {
       "duration": -1,
@@ -3037,7 +3037,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:45.262310Z"
+      "last_checked": "2026-08-04T19:42:51.541992Z"
     },
     {
       "duration": -1,
@@ -3048,7 +3048,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:26.476879Z"
+      "last_checked": "2026-08-04T19:43:35.925086Z"
     },
     {
       "duration": -1,
@@ -3059,7 +3059,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:47.137633Z"
+      "last_checked": "2026-08-04T19:42:53.099171Z"
     },
     {
       "duration": -1,
@@ -3070,7 +3070,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:46.514638Z"
+      "last_checked": "2026-08-04T19:42:52.575711Z"
     },
     {
       "duration": -1,
@@ -3081,7 +3081,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:29.521085Z"
+      "last_checked": "2026-08-04T19:43:39.015613Z"
     },
     {
       "duration": -1,
@@ -3092,7 +3092,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:54.378800Z"
+      "last_checked": "2026-08-04T19:42:59.393202Z"
     },
     {
       "duration": -1,
@@ -3103,7 +3103,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:53.872995Z"
+      "last_checked": "2026-08-04T19:42:58.869731Z"
     },
     {
       "duration": -1,
@@ -3114,7 +3114,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:32.051557Z"
+      "last_checked": "2026-08-04T19:43:41.589492Z"
     },
     {
       "duration": -1,
@@ -3125,7 +3125,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:59.676295Z"
+      "last_checked": "2026-08-04T19:43:04.464827Z"
     },
     {
       "duration": -1,
@@ -3136,7 +3136,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:59.169052Z"
+      "last_checked": "2026-08-04T19:43:03.958679Z"
     },
     {
       "duration": -1,
@@ -3147,7 +3147,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:32.558355Z"
+      "last_checked": "2026-08-04T19:43:42.099610Z"
     },
     {
       "duration": -1,
@@ -3158,7 +3158,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:00.695254Z"
+      "last_checked": "2026-08-04T19:43:05.480723Z"
     },
     {
       "duration": -1,
@@ -3169,7 +3169,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:00.181621Z"
+      "last_checked": "2026-08-04T19:43:04.971840Z"
     },
     {
       "duration": -1,
@@ -3180,7 +3180,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:33.062939Z"
+      "last_checked": "2026-08-04T19:43:42.612540Z"
     },
     {
       "duration": -1,
@@ -3191,7 +3191,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:01.721544Z"
+      "last_checked": "2026-08-04T19:43:06.502030Z"
     },
     {
       "duration": -1,
@@ -3202,7 +3202,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:01.214620Z"
+      "last_checked": "2026-08-04T19:43:05.992724Z"
     },
     {
       "duration": -1,
@@ -3213,7 +3213,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:33.569556Z"
+      "last_checked": "2026-08-04T19:43:43.121523Z"
     },
     {
       "duration": -1,
@@ -3224,7 +3224,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:02.928254Z"
+      "last_checked": "2026-08-04T19:43:07.516195Z"
     },
     {
       "duration": -1,
@@ -3235,7 +3235,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:02.421369Z"
+      "last_checked": "2026-08-04T19:43:07.008654Z"
     },
     {
       "duration": -1,
@@ -3246,7 +3246,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:34.080768Z"
+      "last_checked": "2026-08-04T19:43:43.630641Z"
     },
     {
       "duration": -1,
@@ -3257,7 +3257,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:03.945371Z"
+      "last_checked": "2026-08-04T19:43:08.528074Z"
     },
     {
       "duration": -1,
@@ -3268,7 +3268,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:03.435338Z"
+      "last_checked": "2026-08-04T19:43:08.021985Z"
     },
     {
       "duration": -1,
@@ -3279,7 +3279,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:27.489995Z"
+      "last_checked": "2026-08-04T19:43:36.961750Z"
     },
     {
       "duration": -1,
@@ -3290,7 +3290,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:49.691794Z"
+      "last_checked": "2026-08-04T19:42:55.159246Z"
     },
     {
       "duration": -1,
@@ -3301,7 +3301,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:49.069441Z"
+      "last_checked": "2026-08-04T19:42:54.650985Z"
     },
     {
       "duration": -1,
@@ -3312,7 +3312,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:27.994581Z"
+      "last_checked": "2026-08-04T19:43:37.470413Z"
     },
     {
       "duration": -1,
@@ -3323,7 +3323,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:50.730883Z"
+      "last_checked": "2026-08-04T19:42:56.324777Z"
     },
     {
       "duration": -1,
@@ -3334,7 +3334,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:50.205683Z"
+      "last_checked": "2026-08-04T19:42:55.787445Z"
     },
     {
       "duration": -1,
@@ -3345,7 +3345,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:28.505183Z"
+      "last_checked": "2026-08-04T19:43:37.978115Z"
     },
     {
       "duration": -1,
@@ -3356,7 +3356,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:52.113487Z"
+      "last_checked": "2026-08-04T19:42:57.350511Z"
     },
     {
       "duration": -1,
@@ -3367,7 +3367,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:51.424020Z"
+      "last_checked": "2026-08-04T19:42:56.831145Z"
     },
     {
       "duration": -1,
@@ -3378,7 +3378,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:29.011663Z"
+      "last_checked": "2026-08-04T19:43:38.504496Z"
     },
     {
       "duration": -1,
@@ -3389,7 +3389,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:53.251379Z"
+      "last_checked": "2026-08-04T19:42:58.363185Z"
     },
     {
       "duration": -1,
@@ -3400,7 +3400,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:52.735920Z"
+      "last_checked": "2026-08-04T19:42:57.856606Z"
     },
     {
       "duration": -1,
@@ -3411,7 +3411,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:30.027919Z"
+      "last_checked": "2026-08-04T19:43:39.526736Z"
     },
     {
       "duration": -1,
@@ -3422,7 +3422,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:55.391940Z"
+      "last_checked": "2026-08-04T19:43:00.405502Z"
     },
     {
       "duration": -1,
@@ -3433,7 +3433,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:54.884599Z"
+      "last_checked": "2026-08-04T19:42:59.899175Z"
     },
     {
       "duration": -1,
@@ -3444,7 +3444,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:30.534178Z"
+      "last_checked": "2026-08-04T19:43:40.036655Z"
     },
     {
       "duration": -1,
@@ -3455,7 +3455,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:56.403991Z"
+      "last_checked": "2026-08-04T19:43:01.417872Z"
     },
     {
       "duration": -1,
@@ -3466,7 +3466,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:55.898113Z"
+      "last_checked": "2026-08-04T19:43:00.912022Z"
     },
     {
       "duration": -1,
@@ -3477,7 +3477,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:31.039776Z"
+      "last_checked": "2026-08-04T19:43:40.550007Z"
     },
     {
       "duration": -1,
@@ -3488,7 +3488,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:57.419091Z"
+      "last_checked": "2026-08-04T19:43:02.431756Z"
     },
     {
       "duration": -1,
@@ -3499,7 +3499,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:56.911834Z"
+      "last_checked": "2026-08-04T19:43:01.924419Z"
     },
     {
       "duration": -1,
@@ -3510,7 +3510,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:31.544872Z"
+      "last_checked": "2026-08-04T19:43:41.059344Z"
     },
     {
       "duration": -1,
@@ -3521,7 +3521,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:58.663243Z"
+      "last_checked": "2026-08-04T19:43:03.446912Z"
     },
     {
       "duration": -1,
@@ -3532,7 +3532,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:58.040697Z"
+      "last_checked": "2026-08-04T19:43:02.939597Z"
     },
     {
       "duration": -1,
@@ -3543,7 +3543,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:35.599503Z"
+      "last_checked": "2026-08-04T19:43:45.165622Z"
     },
     {
       "duration": -1,
@@ -3554,7 +3554,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:07.104933Z"
+      "last_checked": "2026-08-04T19:43:11.584092Z"
     },
     {
       "duration": -1,
@@ -3565,7 +3565,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:06.598701Z"
+      "last_checked": "2026-08-04T19:43:11.077989Z"
     },
     {
       "duration": -1,
@@ -3576,7 +3576,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:36.113470Z"
+      "last_checked": "2026-08-04T19:43:45.677436Z"
     },
     {
       "duration": -1,
@@ -3587,7 +3587,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:08.116975Z"
+      "last_checked": "2026-08-04T19:43:12.613055Z"
     },
     {
       "duration": -1,
@@ -3598,7 +3598,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:07.611905Z"
+      "last_checked": "2026-08-04T19:43:12.107114Z"
     },
     {
       "duration": -1,
@@ -3609,7 +3609,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:37.123536Z"
+      "last_checked": "2026-08-04T19:43:46.697586Z"
     },
     {
       "duration": -1,
@@ -3620,7 +3620,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:10.144980Z"
+      "last_checked": "2026-08-04T19:43:14.653211Z"
     },
     {
       "duration": -1,
@@ -3631,7 +3631,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:09.639616Z"
+      "last_checked": "2026-08-04T19:43:14.147142Z"
     },
     {
       "duration": -1,
@@ -3642,7 +3642,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:37.629744Z"
+      "last_checked": "2026-08-04T19:43:47.207528Z"
     },
     {
       "duration": -1,
@@ -3653,7 +3653,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:11.155927Z"
+      "last_checked": "2026-08-04T19:43:15.665737Z"
     },
     {
       "duration": -1,
@@ -3664,7 +3664,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:10.650799Z"
+      "last_checked": "2026-08-04T19:43:15.159136Z"
     },
     {
       "duration": -1,
@@ -3675,7 +3675,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:38.134993Z"
+      "last_checked": "2026-08-04T19:43:47.732160Z"
     },
     {
       "duration": -1,
@@ -3686,7 +3686,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:12.170469Z"
+      "last_checked": "2026-08-04T19:43:16.681793Z"
     },
     {
       "duration": -1,
@@ -3697,7 +3697,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:11.662844Z"
+      "last_checked": "2026-08-04T19:43:16.173324Z"
     },
     {
       "duration": -1,
@@ -3708,7 +3708,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:38.642948Z"
+      "last_checked": "2026-08-04T19:43:48.241497Z"
     },
     {
       "duration": -1,
@@ -3719,7 +3719,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:13.183195Z"
+      "last_checked": "2026-08-04T19:43:17.701082Z"
     },
     {
       "duration": -1,
@@ -3730,7 +3730,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:12.677142Z"
+      "last_checked": "2026-08-04T19:43:17.188328Z"
     },
     {
       "duration": -1,
@@ -3741,7 +3741,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:40.162128Z"
+      "last_checked": "2026-08-04T19:43:49.794258Z"
     },
     {
       "duration": -1,
@@ -3752,7 +3752,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:16.339417Z"
+      "last_checked": "2026-08-04T19:43:20.747499Z"
     },
     {
       "duration": -1,
@@ -3763,7 +3763,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:15.833557Z"
+      "last_checked": "2026-08-04T19:43:20.240761Z"
     },
     {
       "duration": -1,
@@ -3774,7 +3774,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:40.668099Z"
+      "last_checked": "2026-08-04T19:43:50.305059Z"
     },
     {
       "duration": -1,
@@ -3785,7 +3785,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:17.350083Z"
+      "last_checked": "2026-08-04T19:43:21.765235Z"
     },
     {
       "duration": -1,
@@ -3796,7 +3796,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:16.844319Z"
+      "last_checked": "2026-08-04T19:43:21.257938Z"
     },
     {
       "duration": -1,
@@ -3807,7 +3807,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:41.173327Z"
+      "last_checked": "2026-08-04T19:43:50.815841Z"
     },
     {
       "duration": -1,
@@ -3818,7 +3818,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:18.360376Z"
+      "last_checked": "2026-08-04T19:43:22.779361Z"
     },
     {
       "duration": -1,
@@ -3829,7 +3829,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:17.854933Z"
+      "last_checked": "2026-08-04T19:43:22.272014Z"
     },
     {
       "duration": -1,
@@ -3840,7 +3840,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:13.596479Z"
+      "last_checked": "2026-08-04T19:44:23.644304Z"
     },
     {
       "duration": -1,
@@ -3851,7 +3851,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:47.137516Z"
+      "last_checked": "2026-08-04T19:42:53.099106Z"
     },
     {
       "duration": -1,
@@ -3862,7 +3862,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:11.662938Z"
+      "last_checked": "2026-08-04T19:43:16.173250Z"
     },
     {
       "duration": -1,
@@ -3873,7 +3873,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:36.618505Z"
+      "last_checked": "2026-08-04T19:43:46.187595Z"
     },
     {
       "duration": -1,
@@ -3884,7 +3884,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:44.722505Z"
+      "last_checked": "2026-08-04T19:43:54.397897Z"
     },
     {
       "duration": -1,
@@ -3895,7 +3895,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:09.133108Z"
+      "last_checked": "2026-08-04T19:43:13.640691Z"
     },
     {
       "duration": -1,
@@ -3906,7 +3906,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:25.464055Z"
+      "last_checked": "2026-08-04T19:43:34.896022Z"
     },
     {
       "duration": -1,
@@ -3917,7 +3917,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:47.758464Z"
+      "last_checked": "2026-08-04T19:42:53.623009Z"
     },
     {
       "duration": -1,
@@ -3928,7 +3928,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:07.801649Z"
+      "last_checked": "2026-08-04T19:43:12.106919Z"
     },
     {
       "duration": -1,
@@ -3939,7 +3939,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:53.381007Z"
+      "last_checked": "2026-08-04T19:44:03.121303Z"
     },
     {
       "duration": -1,
@@ -3950,7 +3950,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:08.622448Z"
+      "last_checked": "2026-08-04T19:43:13.133516Z"
     },
     {
       "duration": -1,
@@ -3961,7 +3961,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:24.959227Z"
+      "last_checked": "2026-08-04T19:43:29.377357Z"
     },
     {
       "duration": -1,
@@ -3972,7 +3972,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:12:47.137714Z"
+      "last_checked": "2026-08-04T19:42:53.099011Z"
     },
     {
       "duration": -1,
@@ -3983,7 +3983,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:07.105007Z"
+      "last_checked": "2026-08-04T19:43:11.583901Z"
     },
     {
       "duration": -1,
@@ -3994,7 +3994,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:52.875693Z"
+      "last_checked": "2026-08-04T19:44:02.591528Z"
     },
     {
       "duration": -1,
@@ -4005,7 +4005,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:34.586517Z"
+      "last_checked": "2026-08-04T19:43:44.142264Z"
     },
     {
       "duration": -1,
@@ -4016,7 +4016,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:04.958051Z"
+      "last_checked": "2026-08-04T19:43:09.552201Z"
     },
     {
       "duration": -1,
@@ -4027,7 +4027,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:04.452234Z"
+      "last_checked": "2026-08-04T19:43:09.037164Z"
     },
     {
       "duration": -1,
@@ -4038,7 +4038,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:35.094360Z"
+      "last_checked": "2026-08-04T19:43:44.652278Z"
     },
     {
       "duration": -1,
@@ -4049,7 +4049,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:05.974953Z"
+      "last_checked": "2026-08-04T19:43:10.568223Z"
     },
     {
       "duration": -1,
@@ -4060,7 +4060,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:05.467687Z"
+      "last_checked": "2026-08-04T19:43:10.059657Z"
     },
     {
       "duration": -1,
@@ -4071,7 +4071,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:39.147849Z"
+      "last_checked": "2026-08-04T19:43:48.751300Z"
     },
     {
       "duration": -1,
@@ -4082,7 +4082,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:14.315829Z"
+      "last_checked": "2026-08-04T19:43:18.718973Z"
     },
     {
       "duration": -1,
@@ -4093,7 +4093,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:13.690656Z"
+      "last_checked": "2026-08-04T19:43:18.211980Z"
     },
     {
       "duration": -1,
@@ -4104,7 +4104,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:39.652657Z"
+      "last_checked": "2026-08-04T19:43:49.261685Z"
     },
     {
       "duration": -1,
@@ -4115,7 +4115,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:15.328332Z"
+      "last_checked": "2026-08-04T19:43:19.733532Z"
     },
     {
       "duration": -1,
@@ -4126,7 +4126,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:14.822989Z"
+      "last_checked": "2026-08-04T19:43:19.225197Z"
     },
     {
       "duration": -1,
@@ -4137,7 +4137,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:41.679257Z"
+      "last_checked": "2026-08-04T19:43:51.328161Z"
     },
     {
       "duration": -1,
@@ -4148,7 +4148,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:19.375891Z"
+      "last_checked": "2026-08-04T19:43:23.792380Z"
     },
     {
       "duration": -1,
@@ -4159,7 +4159,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:18.865839Z"
+      "last_checked": "2026-08-04T19:43:23.285793Z"
     },
     {
       "duration": -1,
@@ -4170,7 +4170,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:42.186433Z"
+      "last_checked": "2026-08-04T19:43:51.838548Z"
     },
     {
       "duration": -1,
@@ -4181,7 +4181,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:20.386373Z"
+      "last_checked": "2026-08-04T19:43:24.806641Z"
     },
     {
       "duration": -1,
@@ -4192,7 +4192,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:19.881622Z"
+      "last_checked": "2026-08-04T19:43:24.298783Z"
     },
     {
       "duration": -1,
@@ -4203,7 +4203,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:42.693163Z"
+      "last_checked": "2026-08-04T19:43:52.350327Z"
     },
     {
       "duration": -1,
@@ -4214,7 +4214,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:21.397057Z"
+      "last_checked": "2026-08-04T19:43:25.819798Z"
     },
     {
       "duration": -1,
@@ -4225,7 +4225,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:20.891596Z"
+      "last_checked": "2026-08-04T19:43:25.313568Z"
     },
     {
       "duration": -1,
@@ -4236,7 +4236,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:43.198356Z"
+      "last_checked": "2026-08-04T19:43:52.861646Z"
     },
     {
       "duration": -1,
@@ -4247,7 +4247,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:22.407837Z"
+      "last_checked": "2026-08-04T19:43:26.836224Z"
     },
     {
       "duration": -1,
@@ -4258,7 +4258,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:21.902449Z"
+      "last_checked": "2026-08-04T19:43:26.326310Z"
     },
     {
       "duration": -1,
@@ -4269,7 +4269,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:43.705445Z"
+      "last_checked": "2026-08-04T19:43:53.371358Z"
     },
     {
       "duration": -1,
@@ -4280,7 +4280,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:23.435265Z"
+      "last_checked": "2026-08-04T19:43:27.849903Z"
     },
     {
       "duration": -1,
@@ -4291,7 +4291,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:22.925536Z"
+      "last_checked": "2026-08-04T19:43:27.343294Z"
     },
     {
       "duration": -1,
@@ -4302,7 +4302,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:44.211709Z"
+      "last_checked": "2026-08-04T19:43:53.880240Z"
     },
     {
       "duration": -1,
@@ -4313,7 +4313,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:24.452304Z"
+      "last_checked": "2026-08-04T19:43:28.868048Z"
     },
     {
       "duration": -1,
@@ -4324,7 +4324,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:23.947185Z"
+      "last_checked": "2026-08-04T19:43:28.360015Z"
     },
     {
       "duration": -1,
@@ -4335,7 +4335,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:45.227743Z"
+      "last_checked": "2026-08-04T19:43:54.909319Z"
     },
     {
       "duration": -1,
@@ -4346,7 +4346,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:26.476972Z"
+      "last_checked": "2026-08-04T19:43:35.925174Z"
     },
     {
       "duration": -1,
@@ -4357,7 +4357,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:25.970980Z"
+      "last_checked": "2026-08-04T19:43:35.409651Z"
     },
     {
       "duration": -1,
@@ -4368,7 +4368,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:46.241032Z"
+      "last_checked": "2026-08-04T19:43:55.938281Z"
     },
     {
       "duration": -1,
@@ -4379,7 +4379,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:28.505076Z"
+      "last_checked": "2026-08-04T19:43:37.978223Z"
     },
     {
       "duration": -1,
@@ -4390,7 +4390,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:27.994680Z"
+      "last_checked": "2026-08-04T19:43:37.470515Z"
     },
     {
       "duration": -1,
@@ -4401,7 +4401,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:47.758366Z"
+      "last_checked": "2026-08-04T19:43:57.472948Z"
     },
     {
       "duration": -1,
@@ -4412,7 +4412,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:31.544957Z"
+      "last_checked": "2026-08-04T19:43:41.059546Z"
     },
     {
       "duration": -1,
@@ -4423,7 +4423,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:31.039668Z"
+      "last_checked": "2026-08-04T19:43:40.550093Z"
     },
     {
       "duration": -1,
@@ -4434,7 +4434,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:45.733429Z"
+      "last_checked": "2026-08-04T19:43:55.426201Z"
     },
     {
       "duration": -1,
@@ -4445,7 +4445,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:27.490083Z"
+      "last_checked": "2026-08-04T19:43:36.961832Z"
     },
     {
       "duration": -1,
@@ -4456,7 +4456,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:26.982897Z"
+      "last_checked": "2026-08-04T19:43:36.438234Z"
     },
     {
       "duration": -1,
@@ -4467,7 +4467,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:47.252894Z"
+      "last_checked": "2026-08-04T19:43:56.961927Z"
     },
     {
       "duration": -1,
@@ -4478,7 +4478,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:30.534071Z"
+      "last_checked": "2026-08-04T19:43:40.036553Z"
     },
     {
       "duration": -1,
@@ -4489,7 +4489,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:30.027998Z"
+      "last_checked": "2026-08-04T19:43:39.526820Z"
     },
     {
       "duration": -1,
@@ -4500,7 +4500,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:46.747118Z"
+      "last_checked": "2026-08-04T19:43:56.448879Z"
     },
     {
       "duration": -1,
@@ -4511,7 +4511,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:29.521176Z"
+      "last_checked": "2026-08-04T19:43:39.015512Z"
     },
     {
       "duration": -1,
@@ -4522,7 +4522,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:29.011586Z"
+      "last_checked": "2026-08-04T19:43:38.504609Z"
     },
     {
       "duration": -1,
@@ -4533,7 +4533,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:48.269614Z"
+      "last_checked": "2026-08-04T19:43:57.983974Z"
     },
     {
       "duration": -1,
@@ -4544,7 +4544,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:32.558244Z"
+      "last_checked": "2026-08-04T19:43:42.099805Z"
     },
     {
       "duration": -1,
@@ -4555,7 +4555,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:32.051448Z"
+      "last_checked": "2026-08-04T19:43:41.589274Z"
     },
     {
       "duration": -1,
@@ -4566,7 +4566,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:48.776658Z"
+      "last_checked": "2026-08-04T19:43:58.494102Z"
     },
     {
       "duration": -1,
@@ -4577,7 +4577,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:33.569467Z"
+      "last_checked": "2026-08-04T19:43:43.121405Z"
     },
     {
       "duration": -1,
@@ -4588,7 +4588,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:33.062842Z"
+      "last_checked": "2026-08-04T19:43:42.612620Z"
     },
     {
       "duration": -1,
@@ -4599,7 +4599,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:49.282665Z"
+      "last_checked": "2026-08-04T19:43:59.006779Z"
     },
     {
       "duration": -1,
@@ -4610,7 +4610,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:34.586604Z"
+      "last_checked": "2026-08-04T19:43:44.142162Z"
     },
     {
       "duration": -1,
@@ -4621,7 +4621,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:34.080682Z"
+      "last_checked": "2026-08-04T19:43:43.630705Z"
     },
     {
       "duration": -1,
@@ -4632,7 +4632,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:49.790452Z"
+      "last_checked": "2026-08-04T19:43:59.518377Z"
     },
     {
       "duration": -1,
@@ -4643,7 +4643,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:35.599604Z"
+      "last_checked": "2026-08-04T19:43:45.165558Z"
     },
     {
       "duration": -1,
@@ -4654,7 +4654,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:35.094450Z"
+      "last_checked": "2026-08-04T19:43:44.652104Z"
     },
     {
       "duration": -1,
@@ -4665,7 +4665,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:50.296779Z"
+      "last_checked": "2026-08-04T19:44:00.029054Z"
     },
     {
       "duration": -1,
@@ -4676,7 +4676,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:36.618591Z"
+      "last_checked": "2026-08-04T19:43:46.187675Z"
     },
     {
       "duration": -1,
@@ -4687,7 +4687,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:36.113389Z"
+      "last_checked": "2026-08-04T19:43:45.677539Z"
     },
     {
       "duration": -1,
@@ -4698,7 +4698,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:50.801986Z"
+      "last_checked": "2026-08-04T19:44:00.547696Z"
     },
     {
       "duration": -1,
@@ -4709,7 +4709,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:37.629644Z"
+      "last_checked": "2026-08-04T19:43:47.207418Z"
     },
     {
       "duration": -1,
@@ -4720,7 +4720,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:37.123642Z"
+      "last_checked": "2026-08-04T19:43:46.697682Z"
     },
     {
       "duration": -1,
@@ -4731,7 +4731,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:51.307146Z"
+      "last_checked": "2026-08-04T19:44:01.057557Z"
     },
     {
       "duration": -1,
@@ -4742,7 +4742,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:38.643048Z"
+      "last_checked": "2026-08-04T19:43:48.241575Z"
     },
     {
       "duration": -1,
@@ -4753,7 +4753,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:38.134900Z"
+      "last_checked": "2026-08-04T19:43:47.732244Z"
     },
     {
       "duration": -1,
@@ -4764,7 +4764,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:51.819561Z"
+      "last_checked": "2026-08-04T19:44:01.571626Z"
     },
     {
       "duration": -1,
@@ -4775,7 +4775,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:39.652756Z"
+      "last_checked": "2026-08-04T19:43:49.261505Z"
     },
     {
       "duration": -1,
@@ -4786,7 +4786,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:39.147772Z"
+      "last_checked": "2026-08-04T19:43:48.751400Z"
     },
     {
       "duration": -1,
@@ -4797,7 +4797,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:52.324269Z"
+      "last_checked": "2026-08-04T19:44:02.080399Z"
     },
     {
       "duration": -1,
@@ -4808,7 +4808,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:40.668216Z"
+      "last_checked": "2026-08-04T19:43:50.304995Z"
     },
     {
       "duration": -1,
@@ -4819,7 +4819,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:40.162474Z"
+      "last_checked": "2026-08-04T19:43:49.794356Z"
     },
     {
       "duration": -1,
@@ -4830,7 +4830,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:52.829652Z"
+      "last_checked": "2026-08-04T19:44:02.591723Z"
     },
     {
       "duration": -1,
@@ -4841,7 +4841,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:41.679366Z"
+      "last_checked": "2026-08-04T19:43:51.327981Z"
     },
     {
       "duration": -1,
@@ -4852,7 +4852,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:41.173416Z"
+      "last_checked": "2026-08-04T19:43:50.815925Z"
     },
     {
       "duration": -1,
@@ -4863,7 +4863,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:53.336103Z"
+      "last_checked": "2026-08-04T19:44:03.121430Z"
     },
     {
       "duration": -1,
@@ -4874,7 +4874,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:42.693273Z"
+      "last_checked": "2026-08-04T19:43:52.350250Z"
     },
     {
       "duration": -1,
@@ -4885,7 +4885,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:42.186520Z"
+      "last_checked": "2026-08-04T19:43:51.838632Z"
     },
     {
       "duration": -1,
@@ -4896,7 +4896,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:53.842119Z"
+      "last_checked": "2026-08-04T19:44:03.632728Z"
     },
     {
       "duration": -1,
@@ -4907,7 +4907,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:43.705531Z"
+      "last_checked": "2026-08-04T19:43:53.371255Z"
     },
     {
       "duration": -1,
@@ -4918,7 +4918,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:43.198256Z"
+      "last_checked": "2026-08-04T19:43:52.861727Z"
     },
     {
       "duration": -1,
@@ -4929,7 +4929,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:54.351835Z"
+      "last_checked": "2026-08-04T19:44:04.144959Z"
     },
     {
       "duration": -1,
@@ -4940,7 +4940,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:44.722402Z"
+      "last_checked": "2026-08-04T19:43:54.397971Z"
     },
     {
       "duration": -1,
@@ -4951,7 +4951,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:44.211607Z"
+      "last_checked": "2026-08-04T19:43:53.880341Z"
     },
     {
       "duration": -1,
@@ -4962,7 +4962,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:54.857065Z"
+      "last_checked": "2026-08-04T19:44:04.658693Z"
     },
     {
       "duration": -1,
@@ -4973,7 +4973,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:45.733511Z"
+      "last_checked": "2026-08-04T19:43:55.426023Z"
     },
     {
       "duration": -1,
@@ -4984,7 +4984,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:45.227813Z"
+      "last_checked": "2026-08-04T19:43:54.909217Z"
     },
     {
       "duration": -1,
@@ -4995,7 +4995,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:57.891332Z"
+      "last_checked": "2026-08-04T19:44:07.733292Z"
     },
     {
       "duration": -1,
@@ -5006,7 +5006,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:51.819660Z"
+      "last_checked": "2026-08-04T19:44:01.571429Z"
     },
     {
       "duration": -1,
@@ -5017,7 +5017,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:51.307263Z"
+      "last_checked": "2026-08-04T19:44:01.057638Z"
     },
     {
       "duration": -1,
@@ -5028,7 +5028,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:58.398114Z"
+      "last_checked": "2026-08-04T19:44:08.245383Z"
     },
     {
       "duration": -1,
@@ -5039,7 +5039,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:52.829556Z"
+      "last_checked": "2026-08-04T19:44:02.591613Z"
     },
     {
       "duration": -1,
@@ -5050,7 +5050,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:52.324364Z"
+      "last_checked": "2026-08-04T19:44:02.080519Z"
     },
     {
       "duration": -1,
@@ -5061,7 +5061,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:58.903441Z"
+      "last_checked": "2026-08-04T19:44:08.755816Z"
     },
     {
       "duration": -1,
@@ -5072,7 +5072,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:53.842230Z"
+      "last_checked": "2026-08-04T19:44:03.632816Z"
     },
     {
       "duration": -1,
@@ -5083,7 +5083,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:53.336202Z"
+      "last_checked": "2026-08-04T19:44:03.121525Z"
     },
     {
       "duration": -1,
@@ -5094,7 +5094,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:00.422273Z"
+      "last_checked": "2026-08-04T19:44:10.288734Z"
     },
     {
       "duration": -1,
@@ -5105,7 +5105,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:56.880506Z"
+      "last_checked": "2026-08-04T19:44:06.706331Z"
     },
     {
       "duration": -1,
@@ -5116,7 +5116,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:56.374383Z"
+      "last_checked": "2026-08-04T19:44:06.193843Z"
     },
     {
       "duration": -1,
@@ -5127,7 +5127,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:00.935903Z"
+      "last_checked": "2026-08-04T19:44:10.799686Z"
     },
     {
       "duration": -1,
@@ -5138,7 +5138,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:57.891245Z"
+      "last_checked": "2026-08-04T19:44:07.733206Z"
     },
     {
       "duration": -1,
@@ -5149,7 +5149,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:57.386095Z"
+      "last_checked": "2026-08-04T19:44:07.216297Z"
     },
     {
       "duration": -1,
@@ -5160,7 +5160,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:01.440309Z"
+      "last_checked": "2026-08-04T19:44:11.308111Z"
     },
     {
       "duration": -1,
@@ -5171,7 +5171,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:58.903520Z"
+      "last_checked": "2026-08-04T19:44:08.755737Z"
     },
     {
       "duration": -1,
@@ -5182,7 +5182,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:58.398228Z"
+      "last_checked": "2026-08-04T19:44:08.245578Z"
     },
     {
       "duration": -1,
@@ -5193,7 +5193,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:01.947625Z"
+      "last_checked": "2026-08-04T19:44:11.828281Z"
     },
     {
       "duration": -1,
@@ -5204,7 +5204,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:59.916719Z"
+      "last_checked": "2026-08-04T19:44:09.778237Z"
     },
     {
       "duration": -1,
@@ -5215,7 +5215,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:59.410318Z"
+      "last_checked": "2026-08-04T19:44:09.268277Z"
     },
     {
       "duration": -1,
@@ -5226,7 +5226,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:02.452998Z"
+      "last_checked": "2026-08-04T19:44:12.338198Z"
     },
     {
       "duration": -1,
@@ -5237,7 +5237,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:00.935813Z"
+      "last_checked": "2026-08-04T19:44:10.799609Z"
     },
     {
       "duration": -1,
@@ -5248,7 +5248,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:00.422167Z"
+      "last_checked": "2026-08-04T19:44:10.288557Z"
     },
     {
       "duration": -1,
@@ -5259,7 +5259,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:03.462522Z"
+      "last_checked": "2026-08-04T19:44:13.366117Z"
     },
     {
       "duration": -1,
@@ -5270,7 +5270,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:02.957805Z"
+      "last_checked": "2026-08-04T19:44:12.852171Z"
     },
     {
       "duration": -1,
@@ -5281,7 +5281,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:02.452901Z"
+      "last_checked": "2026-08-04T19:44:12.338132Z"
     },
     {
       "duration": -1,
@@ -5292,7 +5292,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:03.972503Z"
+      "last_checked": "2026-08-04T19:44:13.877397Z"
     },
     {
       "duration": -1,
@@ -5303,7 +5303,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:03.972584Z"
+      "last_checked": "2026-08-04T19:44:13.877250Z"
     },
     {
       "duration": -1,
@@ -5314,7 +5314,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:03.462610Z"
+      "last_checked": "2026-08-04T19:44:13.366304Z"
     },
     {
       "duration": -1,
@@ -5325,7 +5325,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:55.362722Z"
+      "last_checked": "2026-08-04T19:44:05.168687Z"
     },
     {
       "duration": -1,
@@ -5336,7 +5336,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:46.747226Z"
+      "last_checked": "2026-08-04T19:43:56.448818Z"
     },
     {
       "duration": -1,
@@ -5347,7 +5347,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:46.241114Z"
+      "last_checked": "2026-08-04T19:43:55.938363Z"
     },
     {
       "duration": -1,
@@ -5358,7 +5358,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:55.869025Z"
+      "last_checked": "2026-08-04T19:44:05.681965Z"
     },
     {
       "duration": -1,
@@ -5369,7 +5369,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:47.758270Z"
+      "last_checked": "2026-08-04T19:43:57.473126Z"
     },
     {
       "duration": -1,
@@ -5380,7 +5380,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:47.252999Z"
+      "last_checked": "2026-08-04T19:43:56.962015Z"
     },
     {
       "duration": -1,
@@ -5391,7 +5391,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:56.374301Z"
+      "last_checked": "2026-08-04T19:44:06.193944Z"
     },
     {
       "duration": -1,
@@ -5402,7 +5402,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:48.776739Z"
+      "last_checked": "2026-08-04T19:43:58.494205Z"
     },
     {
       "duration": -1,
@@ -5413,7 +5413,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:48.269683Z"
+      "last_checked": "2026-08-04T19:43:57.983911Z"
     },
     {
       "duration": -1,
@@ -5424,7 +5424,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:56.880430Z"
+      "last_checked": "2026-08-04T19:44:06.706396Z"
     },
     {
       "duration": -1,
@@ -5435,7 +5435,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:49.790561Z"
+      "last_checked": "2026-08-04T19:43:59.518571Z"
     },
     {
       "duration": -1,
@@ -5446,7 +5446,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:49.282765Z"
+      "last_checked": "2026-08-04T19:43:59.006696Z"
     },
     {
       "duration": -1,
@@ -5457,7 +5457,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:57.385992Z"
+      "last_checked": "2026-08-04T19:44:07.216196Z"
     },
     {
       "duration": -1,
@@ -5468,7 +5468,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:50.802069Z"
+      "last_checked": "2026-08-04T19:44:00.547230Z"
     },
     {
       "duration": -1,
@@ -5479,7 +5479,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:50.296883Z"
+      "last_checked": "2026-08-04T19:44:00.028957Z"
     },
     {
       "duration": -1,
@@ -5490,7 +5490,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:59.410233Z"
+      "last_checked": "2026-08-04T19:44:09.268197Z"
     },
     {
       "duration": -1,
@@ -5501,7 +5501,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:54.857155Z"
+      "last_checked": "2026-08-04T19:44:04.658775Z"
     },
     {
       "duration": -1,
@@ -5512,7 +5512,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:54.351934Z"
+      "last_checked": "2026-08-04T19:44:04.144897Z"
     },
     {
       "duration": -1,
@@ -5523,7 +5523,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:02.957899Z"
+      "last_checked": "2026-08-04T19:44:12.851996Z"
     },
     {
       "duration": -1,
@@ -5534,7 +5534,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:01.947539Z"
+      "last_checked": "2026-08-04T19:44:11.828499Z"
     },
     {
       "duration": -1,
@@ -5545,7 +5545,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:01.440406Z"
+      "last_checked": "2026-08-04T19:44:11.308184Z"
     },
     {
       "duration": -1,
@@ -5556,7 +5556,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:05.493179Z"
+      "last_checked": "2026-08-04T19:44:15.416293Z"
     },
     {
       "duration": -1,
@@ -5567,7 +5567,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:07.009470Z"
+      "last_checked": "2026-08-04T19:44:16.946790Z"
     },
     {
       "duration": -1,
@@ -5578,7 +5578,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:06.504393Z"
+      "last_checked": "2026-08-04T19:44:16.436824Z"
     },
     {
       "duration": -1,
@@ -5589,7 +5589,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:04.479698Z"
+      "last_checked": "2026-08-04T19:44:14.389252Z"
     },
     {
       "duration": -1,
@@ -5600,7 +5600,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:04.986776Z"
+      "last_checked": "2026-08-04T19:44:14.906093Z"
     },
     {
       "duration": -1,
@@ -5611,7 +5611,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:04.479601Z"
+      "last_checked": "2026-08-04T19:44:14.389174Z"
     },
     {
       "duration": -1,
@@ -5622,7 +5622,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:04.986671Z"
+      "last_checked": "2026-08-04T19:44:14.906196Z"
     },
     {
       "duration": -1,
@@ -5633,7 +5633,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:05.998568Z"
+      "last_checked": "2026-08-04T19:44:15.926932Z"
     },
     {
       "duration": -1,
@@ -5644,7 +5644,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:05.493296Z"
+      "last_checked": "2026-08-04T19:44:15.416492Z"
     },
     {
       "duration": -1,
@@ -5655,7 +5655,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:05.998476Z"
+      "last_checked": "2026-08-04T19:44:15.927446Z"
     },
     {
       "duration": -1,
@@ -5666,7 +5666,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:08.019898Z"
+      "last_checked": "2026-08-04T19:44:17.982427Z"
     },
     {
       "duration": -1,
@@ -5677,7 +5677,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:07.514699Z"
+      "last_checked": "2026-08-04T19:44:17.470667Z"
     },
     {
       "duration": -1,
@@ -5688,7 +5688,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:06.504297Z"
+      "last_checked": "2026-08-04T19:44:16.436742Z"
     },
     {
       "duration": -1,
@@ -5699,7 +5699,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:09.036046Z"
+      "last_checked": "2026-08-04T19:44:19.022576Z"
     },
     {
       "duration": -1,
@@ -5710,7 +5710,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:08.530095Z"
+      "last_checked": "2026-08-04T19:44:18.509292Z"
     },
     {
       "duration": -1,
@@ -5721,7 +5721,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:07.009378Z"
+      "last_checked": "2026-08-04T19:44:16.946684Z"
     },
     {
       "duration": -1,
@@ -5732,7 +5732,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:10.051574Z"
+      "last_checked": "2026-08-04T19:44:20.044699Z"
     },
     {
       "duration": -1,
@@ -5743,7 +5743,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:09.545330Z"
+      "last_checked": "2026-08-04T19:44:19.534596Z"
     },
     {
       "duration": -1,
@@ -5754,7 +5754,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:07.514798Z"
+      "last_checked": "2026-08-04T19:44:17.470750Z"
     },
     {
       "duration": -1,
@@ -5765,7 +5765,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:11.064816Z"
+      "last_checked": "2026-08-04T19:44:21.065871Z"
     },
     {
       "duration": -1,
@@ -5776,7 +5776,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:10.558012Z"
+      "last_checked": "2026-08-04T19:44:20.555885Z"
     },
     {
       "duration": -1,
@@ -5787,7 +5787,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:08.019996Z"
+      "last_checked": "2026-08-04T19:44:17.982353Z"
     },
     {
       "duration": -1,
@@ -5798,7 +5798,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:12.077870Z"
+      "last_checked": "2026-08-04T19:44:22.093699Z"
     },
     {
       "duration": -1,
@@ -5809,7 +5809,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:11.572232Z"
+      "last_checked": "2026-08-04T19:44:21.581904Z"
     },
     {
       "duration": -1,
@@ -5820,7 +5820,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:59.916621Z"
+      "last_checked": "2026-08-04T19:44:09.778029Z"
     },
     {
       "duration": -1,
@@ -5831,7 +5831,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:55.869131Z"
+      "last_checked": "2026-08-04T19:44:05.681902Z"
     },
     {
       "duration": -1,
@@ -5842,7 +5842,7 @@
       "logo": "",
       "group": "Live",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:13:55.362618Z"
+      "last_checked": "2026-08-04T19:44:05.168596Z"
     },
     {
       "duration": -1,
@@ -5853,7 +5853,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:17.137806Z"
+      "last_checked": "2026-08-04T19:44:27.246505Z"
     },
     {
       "duration": -1,
@@ -5864,7 +5864,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:09.545223Z"
+      "last_checked": "2026-08-04T19:44:19.534698Z"
     },
     {
       "duration": -1,
@@ -5875,7 +5875,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:11.572320Z"
+      "last_checked": "2026-08-04T19:44:21.581808Z"
     },
     {
       "duration": -1,
@@ -5886,7 +5886,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:16.126069Z"
+      "last_checked": "2026-08-04T19:44:26.218107Z"
     },
     {
       "duration": -1,
@@ -5897,7 +5897,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:15.619641Z"
+      "last_checked": "2026-08-04T19:44:25.687585Z"
     },
     {
       "duration": -1,
@@ -5908,7 +5908,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:12.077978Z"
+      "last_checked": "2026-08-04T19:44:22.093877Z"
     },
     {
       "duration": -1,
@@ -5919,7 +5919,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:13.089637Z"
+      "last_checked": "2026-08-04T19:44:23.115112Z"
     },
     {
       "duration": -1,
@@ -5930,7 +5930,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:18.149538Z"
+      "last_checked": "2026-08-04T19:44:28.266669Z"
     },
     {
       "duration": -1,
@@ -5941,7 +5941,7 @@
       "logo": "",
       "group": "NBA",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:18.657184Z"
+      "last_checked": "2026-08-04T19:44:28.777240Z"
     },
     {
       "duration": -1,
@@ -5952,7 +5952,7 @@
       "logo": "",
       "group": "NCAAF",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:10.051489Z"
+      "last_checked": "2026-08-04T19:44:20.044616Z"
     },
     {
       "duration": -1,
@@ -5963,7 +5963,7 @@
       "logo": "",
       "group": "NCAAF",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:08.530456Z"
+      "last_checked": "2026-08-04T19:44:18.509181Z"
     },
     {
       "duration": -1,
@@ -5974,7 +5974,7 @@
       "logo": "",
       "group": "NCAAF",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:16.632273Z"
+      "last_checked": "2026-08-04T19:44:26.728837Z"
     },
     {
       "duration": -1,
@@ -5985,7 +5985,7 @@
       "logo": "",
       "group": "NCAAF",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:10.557925Z"
+      "last_checked": "2026-08-04T19:44:20.555799Z"
     },
     {
       "duration": -1,
@@ -5996,7 +5996,7 @@
       "logo": "",
       "group": "NCAAF",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:12.583404Z"
+      "last_checked": "2026-08-04T19:44:22.604547Z"
     },
     {
       "duration": -1,
@@ -6007,7 +6007,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:19.670859Z"
+      "last_checked": "2026-08-04T19:44:29.801841Z"
     },
     {
       "duration": -1,
@@ -6018,7 +6018,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:17.643924Z"
+      "last_checked": "2026-08-04T19:44:27.756904Z"
     },
     {
       "duration": -1,
@@ -6029,7 +6029,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:13.596575Z"
+      "last_checked": "2026-08-04T19:44:23.644114Z"
     },
     {
       "duration": -1,
@@ -6040,7 +6040,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:11.064715Z"
+      "last_checked": "2026-08-04T19:44:21.065954Z"
     },
     {
       "duration": -1,
@@ -6051,7 +6051,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:15.114710Z"
+      "last_checked": "2026-08-04T19:44:25.173527Z"
     },
     {
       "duration": -1,
@@ -6062,7 +6062,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:09.036149Z"
+      "last_checked": "2026-08-04T19:44:19.022377Z"
     },
     {
       "duration": -1,
@@ -6073,7 +6073,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:20.176932Z"
+      "last_checked": "2026-08-04T19:44:30.312622Z"
     },
     {
       "duration": -1,
@@ -6084,7 +6084,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:19.162861Z"
+      "last_checked": "2026-08-04T19:44:29.290658Z"
     },
     {
       "duration": -1,
@@ -6095,7 +6095,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:14.103467Z"
+      "last_checked": "2026-08-04T19:44:24.153105Z"
     },
     {
       "duration": -1,
@@ -6106,7 +6106,7 @@
       "logo": "",
       "group": "NHL",
       "status": "connection_error",
-      "last_checked": "2026-08-04T03:14:14.609182Z"
+      "last_checked": "2026-08-04T19:44:24.663125Z"
     }
   ]
 }
